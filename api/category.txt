@@ -240,7 +240,8 @@
 				"id": "43",
 				"CatId": "18",
 				"name": "Lời chúc tết trung thu cho bạn bè"
-			}]
+			}],
+			"color": "#885d41"
 		}
 	]
 }
