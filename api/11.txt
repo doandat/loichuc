@@ -1,0 +1,403 @@
+{
+	"result": [{
+		"id": "502",
+		"content": "Thật ra năm tháng không làm chúng ta trưởng thành điều làm chúng ta trưởng thành đó là từ những sai lầm.",
+		"translate": ""
+	}, {
+		"id": "503",
+		"content": "Độc thân không có nghĩa là em không tốt, mà là do anh không đủ tốt để có em thôi.",
+		"translate": ""
+	}, {
+		"id": "504",
+		"content": "Độc thân thì sao? Thứ nhất không ai lạm dụng tài nguyên riêng tư của bạn. Thứ hai không ai lo nhớ ngày kỉ niệm này kia. Thứ ba không vui cũng không cần che dấu. Thứ tư không cần chờ tolet Thứ năm điều khiển TV sẽ nằm trong tầm kiểm soát của bạn. Thứ sáu thích ngủ thì ngủ không cần giải thích.",
+		"translate": ""
+	}, {
+		"id": "505",
+		"content": "Thanh xuân được mấy bận …Phải kiêu hãnh liệt cùng Nước mắt mình vô giá Đừng khóc vì người dưng…",
+		"translate": ""
+	}, {
+		"id": "506",
+		"content": "Ế đang là một xu thế của quốc tế trong khi nền kinh tế rất chi lề mề và trì trệ, còn lạm phát thì cao hơn điện thế. – Ế là phong cách sống của các con người tinh tế và các bậc vai vế, chỉ thích ngồi trên ghế, nhâm nhi cà phê, chơi đế chế hoặc nghịch dế. – Ế là một lợi thế để chúng ta bàn mưu tính kế, xoay chuyển tình thế, quản lý tiền tệ,…Rồi 1 ngày kinh tế sẽ đủ sức khống chế tình yêu. – Ế cũng cần phải có trí tuệ, để khi bạn bè trêu mình là ế, mình cũng đủ sức chống chế: “Tao ế là vì tao sống quá tử tế” Khi ế ta cũng chả sợ yêu nhầm 1 đứa dở tệ (hay là pê đê) để sau này người mình yêu không phải ê chề và rơi lệ. – Tóm lại, ngắn gọn 1 câu: “Ế là một phong cách sống cực kỳ tinh tế…”.",
+		"translate": ""
+	}, {
+		"id": "507",
+		"content": "Không có người yêu thật bình yên Chẳng cần mua sắm đỡ tốn tiền Ra đường chẳng lo phải ăn diện Nằm nhà ăn ngủ sướng như tiên.",
+		"translate": ""
+	}, {
+		"id": "508",
+		"content": "Xinh là một lợi thế. Ế là một kĩ năng. Mình không có cái lợi thế nhưng bù được cái kĩ năng.",
+		"translate": ""
+	}, {
+		"id": "509",
+		"content": "Cuộc sống của mấy đứa không có người yêu – Tối có quyền thức khuya, không ai nhắc – Sáng ngủ vô tư khỏi phải nhắn tin gọi người yêu dậy – Điện thoại lúc nào cũng hết tiền, khỏi cần nạp – Ăn uống thoải mái, mập cũng không ai chê – Thoải mái đi nhờ xe người khác mà không sợ người yêu ghen.",
+		"translate": ""
+	}, {
+		"id": "510",
+		"content": "FA thì sao? Chẳng sao cả! Chúng ta sẽ sống trọn vẹn với cảm xúc của mình hơn và không cần nghĩ đến cảm nhận của người khác.",
+		"translate": ""
+	}, {
+		"id": "511",
+		"content": "Tình yêu không cần hoàn hảo nó chỉ cần chân thật.",
+		"translate": ""
+	}, {
+		"id": "512",
+		"content": "Anh ơi người ta bảo. Gần mực thì sẽ đen. Sao gần đến Noel. Mà em chưa có gấu?",
+		"translate": ""
+	}, {
+		"id": "513",
+		"content": "Tôi rất tự hào vì anh em FA bởi anh em ta có 1 khả năng đặc biệt, đó là không cần nhìn điện thoại cũng đoán được là ai nhắn tin!",
+		"translate": ""
+	}, {
+		"id": "514",
+		"content": "Độc thân thì sao? Vừa thích anh trai này vừa thích anh trai kia chẳng ai quản.",
+		"translate": ""
+	}, {
+		"id": "515",
+		"content": "Độc thân không có nghĩa là bạn đang yếu đuối. Chỉ là bạn đủ mạnh mẽ để chờ đợi tình yêu mà mình khao khát mà thôi.",
+		"translate": ""
+	}, {
+		"id": "516",
+		"content": "Cô đơn là khi bạn trượt ngã sml nhưng rồi chơt nhận ra chẳng có đứa bạn nào chụp lại đợi sinh nhật bạn mà đăng lên.",
+		"translate": ""
+	}, {
+		"id": "517",
+		"content": "Cô gái thông minh sẽ lựa chọn cuộc sống độc thân, thay vì bị lừa dối, phản bội, và đối xử vô tâm.",
+		"translate": ""
+	}, {
+		"id": "518",
+		"content": "Sống độc thân cũng như làm nghệ sĩ, không chỉ vì tạo ra trạng thái độc thân cũng là một hình thức nghệ thuật, mà còn vì cuộc sống ấy đòi hỏi sự tập trung cao độ cũng như ý chí để duy trì được.",
+		"translate": ""
+	}, {
+		"id": "519",
+		"content": "Xuân này vẫn giống xuân xưa Vẫn đi dép nhựa vẫn chưa có bồ Tết này vẫn giống tết xưa Vẫn đi xe số vẫn thừa ghế sau.",
+		"translate": ""
+	}, {
+		"id": "520",
+		"content": "Cô đơn là khi bạn trượt ngã sml nhưng rồi chơt nhận ra chẳng có đứa bạn nào chụp lại đợi sinh nhật bạn mà đăng lên.",
+		"translate": ""
+	}, {
+		"id": "521",
+		"content": "Muốn ngủ ngon thì đừng lấy vợ Muốn không nợ thì đừng có yêu Muốn cao siêu thì đừng dại gái Muốn thoải mái thì cứ FA.",
+		"translate": ""
+	}, {
+		"id": "522",
+		"content": "Tất cả chỉ vì chúng ta quá cô đơn thôi, nên mới không ngừng tìm kiếm người để lấp khoảng trống, rồi lại không ngừng tổn thương nhau.",
+		"translate": ""
+	}, {
+		"id": "523",
+		"content": "Chỉ muốn được ôm ai đó mỗi khi buồn. Và ai đó ôm mỗi khi vui thôi. Đơn giản vậy mà khó thực hiện được.",
+		"translate": ""
+	}, {
+		"id": "524",
+		"content": "Tự tạo âm thanh trong thế giới của mình. Nhạt nhẽo thật. Nhưng lại không biết phải làm gì. Nếu mình cứ im lặng, chắc chỉ có cách cẩn trọng hít thở mới biết bản thân vẫn còn tồn tại.",
+		"translate": ""
+	}, {
+		"id": "525",
+		"content": "Người tri kỷ, nếu đúng là dành cho bạn, sẽ xuất hiện trong cuộc đời bạn vào lúc bạn còn không ngờ tới.",
+		"translate": ""
+	}, {
+		"id": "526",
+		"content": "Tình yêu không tới đành vờ không biết, nếu không biết thì sẽ không đau.",
+		"translate": ""
+	}, {
+		"id": "527",
+		"content": "Con gái quyến rủ nhất khi họ không thuộc về ai.",
+		"translate": ""
+	}, {
+		"id": "528",
+		"content": "Ế là phong cách sống của người tinh tế và các bậc vai vế, chỉ thích ngồi trên ghê, nhâm nhi cà phế, chơi đế chế hoặc nghịch dế.",
+		"translate": ""
+	}, {
+		"id": "529",
+		"content": "Đi ăn cưới rất nhiều nhưng không biết bao giờ mới thu hổi vốn.",
+		"translate": ""
+	}, {
+		"id": "530",
+		"content": "Thời điểm đó có lẽ là anh một mình, em một mình, chúng mình vô tình va phải nhau thế là đi chung một đoạn.",
+		"translate": ""
+	}, {
+		"id": "531",
+		"content": "Nước mắt… – Cũng giống như muối vậy…. – Là gia vị không thể thiếu của tình yêu… – Chẳng ai muốn ăn canh không mặn… – Cũng chẳng ai “yêu” mà không khóc… – Chỉ có điều… – Canh quá mặn thì không ai dám nuốt… – Tình yêu quá nhiều nước mắt thì không ai dám yêu !!!",
+		"translate": ""
+	}, {
+		"id": "532",
+		"content": "Người ta thường nghĩ ở một mình sẽ khiến bạn cô đơn… Nhưng tôi không nghĩ điều đó đúng. Khi xung quanh bạn toàn những người tồi tệ mới là điều cô đơn nhất trên thế gian này.",
+		"translate": ""
+	}, {
+		"id": "533",
+		"content": "Kiếp F.A thật đỡ phiền, không vợ, không tiền – thật bình yên.",
+		"translate": ""
+	}, {
+		"id": "534",
+		"content": "Đừng để xã hội đánh lừa bạn rằng cuộc đời sẽ chẳng ra sao nếu không có người yêu. Đức Đạt Lai Lạt Ma đã sống một mình trong suốt 80 năm và ngài là một trong những người hạnh phúc nhất thế giới. Đừng tìm kiếm hạnh phúc từ bên ngoài nữa, hãy bắt đầu tìm nó trong chính bản thân mình.",
+		"translate": ""
+	}, {
+		"id": "535",
+		"content": "Ế đang là xu thế nên hãy sống tử tế và tỏa sáng nha các chế.",
+		"translate": ""
+	}, {
+		"id": "536",
+		"content": "Con gái quyến rũ nhất chính là lúc chẳng thuộc về ai. Đó là khi được thoải mái, tự do bay nhảy với chân trời riêng; được thỏa thê làm những điều mình thực sự mong muốn; được thoải mái bầu bạn, chẳng ai ràng buộc; làm chủ cuộc sống của chính mình chứ chẳng cần lệ thuộc gì vào một bờ vai.",
+		"translate": ""
+	}, {
+		"id": "537",
+		"content": "Cuộc sống FA thật đỡ phiền Không vợ, nhiều tiền, thật bình yên.",
+		"translate": ""
+	}, {
+		"id": "538",
+		"content": "Đừng buồn vì Noel này bạn không có “gấu”. Bởi vì bình thường bạn cũng có “gấu” đâu!",
+		"translate": ""
+	}, {
+		"id": "539",
+		"content": "Cuộc sống của mấy đứa không có người yêu – Tối có quyền thức khuya, không ai nhắc – Sáng ngủ vô tư khỏi phải nhắn tin gọi người yêu dậy – Điện thoại lúc nào cũng hết tiền, khỏi cần nạp – Ăn uống thoải mái, mập cũng không ai chê – Thoải mái đi nhờ xe người khác mà không sợ người yêu ghen.",
+		"translate": ""
+	}, {
+		"id": "540",
+		"content": "Tôi chọn cô đơn hoặc đơn phương. Vì tôi ích kỉ. Tôi sợ mất. Sợ những thứ gắn mác chính thức.",
+		"translate": ""
+	}, {
+		"id": "541",
+		"content": "Đừng buồn vì Noel này không có gấu vì bỉnh thường bạn cũng có gấu bao giờ đầu.",
+		"translate": ""
+	}, {
+		"id": "542",
+		"content": "Đôi khi tình yêu chỉ là chuyện của một người.",
+		"translate": ""
+	}, {
+		"id": "543",
+		"content": "Đừng nghĩ ai sẽ mất ai, vì chúng ta không sở hữu ai cả.",
+		"translate": ""
+	}, {
+		"id": "544",
+		"content": "Kiếp FA thật đỡ phiền khôn vợ không tiền thật bình yên.",
+		"translate": ""
+	}, {
+		"id": "545",
+		"content": "Một cô gái thông minh sẽ chọn độc thân thay vì phản bội và vô tâm.",
+		"translate": ""
+	}, {
+		"id": "546",
+		"content": "Đa số những người mang danh nghỉa độc thân trong tim họ luôn giấu diếm một người không thể thuộc về.",
+		"translate": ""
+	}, {
+		"id": "547",
+		"content": "14-02 Valentine có nghĩa là: – 1 năm – 4 mùa – 0 ai khác – chỉ có 2 ta! Nhưng nó còn nghĩa khác: – 1 mình – 4 bức tường – 0 người yêu – 2 dòng nước mắt.",
+		"translate": ""
+	}, {
+		"id": "548",
+		"content": "Đề văn: Hãy tả người yêu của em! Bài làm: Em Ế! Cô giáo: 10 điểm! “Cô cũng thế!”",
+		"translate": ""
+	}, {
+		"id": "549",
+		"content": "Con gái hiện đại là chẳng ngại FA!",
+		"translate": ""
+	}, {
+		"id": "550",
+		"content": "Ép dầu,ép mỡ chứ ai nỡ ép ây (FA)",
+		"translate": ""
+	}, {
+		"id": "551",
+		"content": "Cô đơn là gì? Đơn giản đó là vợ của của chú đơn!",
+		"translate": ""
+	}, {
+		"id": "552",
+		"content": "Độc thân không phải là ế mà là đang chờ người tử tế để yêu",
+		"translate": ""
+	}, {
+		"id": "553",
+		"content": "Cho dù mình có cố gắng nhiều đến thế nào đi nữa thì họ cũng không hề đoái hoài gì đến mình cả….. Mình chưa từng là sự kỳ vọng của ai, chưa từng là lựa chọn của một ai ...",
+		"translate": ""
+	}, {
+		"id": "554",
+		"content": "Không có nợ thì đừng có yêu, muốn cao siêu thì đừng dại gái, muốn thoải mái thì cứ FA ...",
+		"translate": ""
+	}, {
+		"id": "555",
+		"content": "Hãy tìm người phù hợp đặt bạn ở nơi bạn xứng đáng thuộc về, trao cho bạn sự yêu thương và tôn trọng.",
+		"translate": ""
+	}, {
+		"id": "556",
+		"content": "Nếu muốn có người yêu thì đừng tin vào duyên số …mà hãy …tích cực xin số (điện thoại)!",
+		"translate": ""
+	}, {
+		"id": "557",
+		"content": "Độc thân cho thanh thản yêu nhau rắc rối lắm.",
+		"translate": ""
+	}, {
+		"id": "558",
+		"content": "Không có người yêu thật bình yên Chẳng cần mua sắm đỡ tốn tiền Ra đường chẳng lo phải ăn diện Nằm nhà ăn ngủ sướng như tiên.",
+		"translate": ""
+	}, {
+		"id": "559",
+		"content": "Nếu bạn không thể cảm thấy vui vẻ lúc còn độc thân thì lúc đã có người yêu bạn cũng không thể cảm thấy hạnh phúc được. Vì niềm vui đến từ trong con người bạn chứ không phụ thuộc vào chàng trai kia.",
+		"translate": ""
+	}, {
+		"id": "560",
+		"content": "Thương nhưng không dám nói, chỉ biết nhìn người hạnh phúc bên ai kia. Chỉ biết hằn đêm nhớ về những kỹ niệm đã từng có.",
+		"translate": ""
+	}, {
+		"id": "561",
+		"content": "Độc thân là một quãng thời gian tuyệt đẹp để bạn học cách tự mình xoay sở với việc chăm sóc bản thân, việc đối mặt với những cơn lên xuống thất thường của tâm trạng, việc sắp xếp cuộc sống, công việc, bạn bè sao cho thật ổn thỏa để luôn dư giả thời gian yêu quý, nuông chiều chính mình. Và đặc biệt là quãng thời gian chuẩn bị mọi thứ thật tốt để rồi mới sẵn sàng bước vào tình yêu.",
+		"translate": ""
+	}, {
+		"id": "562",
+		"content": "Ế là vì chúng ta biết kiềm chế không chạy theo xu thế. Chỉ cưới khi ổn định kinh tế, lúc đó tha hồ đẻ con mà bế.",
+		"translate": ""
+	}, {
+		"id": "563",
+		"content": "Vào năm 18 tuổi tình yêu không có chuyện đúng sai.Nhưng vào năm 25 tuổi bạn nên bắt đầu tin rằng tình yêu mang đến những người đúng và sai cho cuộc đời bạn.",
+		"translate": ""
+	}, {
+		"id": "564",
+		"content": "Tuyển người yêu điều kiện duy nhất yêu người tuyển.",
+		"translate": ""
+	}, {
+		"id": "565",
+		"content": "Người ta có thể sống thiếu tình yêu nhưng không có ai sống mà thiếu gia đình và bạn bè được.",
+		"translate": ""
+	}, {
+		"id": "566",
+		"content": "Cô đơn là gì? Đơn giàn đó là vợ của chú đơn.",
+		"translate": ""
+	}, {
+		"id": "567",
+		"content": "Chúng ta thường sai lầm khi cho rằng: “kẻ độc thân là kẻ cô đơn trong khi thực tế họ là những người có cuộc sống rất phong phú, tĩnh lặng, tự tại và hiệu quả.",
+		"translate": ""
+	}, {
+		"id": "568",
+		"content": "Sau tất cả những chuyện vui buồn xảy ra trong vài năm đầu thanh xuân ngước mắt lên bầu trời vẫn thấy trong xanh một màu.",
+		"translate": ""
+	}, {
+		"id": "569",
+		"content": "Tôi chỉ có một ước muốn vô cùng nhỏ bé mà thôi. Đó là một lần trong đời hiểu được nỗi đau khi bị người yêu đá là như thế nào…!",
+		"translate": ""
+	}, {
+		"id": "570",
+		"content": "Chỉ có điều là người yêu mình đang ở trong tương lai mà thôi.",
+		"translate": ""
+	}, {
+		"id": "571",
+		"content": "Đừng vì cô đơn mà vội yêu sai một người và cũng đừng vì yêu sai một người mà để cả đời cô đơn.",
+		"translate": ""
+	}, {
+		"id": "572",
+		"content": "Thà rằng tôi độc thân vui tính. Chứ chẳng cần thứ tình cảm nửa vời.",
+		"translate": ""
+	}, {
+		"id": "573",
+		"content": "Đừng nhầm lẫn độc thân với cô đơn vì có những người độc thân nhưng chẳng cô đơn chút nào.",
+		"translate": ""
+	}, {
+		"id": "574",
+		"content": "Cô đơn, lẻ loi, tâm tư như sóng đánh.",
+		"translate": ""
+	}, {
+		"id": "575",
+		"content": "Mỗi con đường đều chất chứa sự cô độc. Dần dần bạn sẽ tin rằng không có gì là không thể tha thứ, không có ai vĩnh viễn bên cạnh mình. Có lẽ hiện tại bạn đang rất mệt mỏi, con đường phía trước vẫn còn rất dài, đừng quên lý do tại sao bạn đặt chân lên con đường ấy,đừng quên điều gì khiến bạn kiên trì đến tận hôm nay, cũng đừng quên tâm niệm thuở ban đầu. Nếu đánh mất chính mình chỉ có thể từng chút từng chút tìm đường quay lại, khiến bản thân trở nên ưu tú khiến người yêu thương bạn có thể tự hào.",
+		"translate": ""
+	}, {
+		"id": "576",
+		"content": "Mảnh ghép có hình thù đơn giản càng ghép thì càng khó thành hình.",
+		"translate": ""
+	}, {
+		"id": "577",
+		"content": "Trên đời luôn luôn có một người như vậy, bạn sợ sẽ vĩnh viễn không gặp lại người đó nhưng lại sợ gặp người đó lần nữa.",
+		"translate": ""
+	}, {
+		"id": "578",
+		"content": "Lỡ chúng ta độc thân cả đời, trên bầu trời không còn sao sang, giữa mây mù không con những giọt mưa.",
+		"translate": ""
+	}, {
+		"id": "579",
+		"content": "Người ta du lịch có đôi, còn tui lủi thủi đơn côi một mình.",
+		"translate": ""
+	}, {
+		"id": "580",
+		"content": "Thực tế là không có người yêu vẫn không nhục bằng không có tiền tiêu.",
+		"translate": ""
+	}, {
+		"id": "581",
+		"content": "Độc thân không đáng sợ đáng sơ là đang yêu mà vẫn có cảm giác một mình.",
+		"translate": ""
+	}, {
+		"id": "582",
+		"content": "Mình không có ế chỉ là mình đang yêu xa thôi vì người yêu mình đang ở tương lai.",
+		"translate": ""
+	}, {
+		"id": "583",
+		"content": "Đẹp tự nhiên mà bị ế.",
+		"translate": ""
+	}, {
+		"id": "584",
+		"content": "Người ta thường nghỉ một mính sẽ khiến bạn cô đơn… Nhưng tôi không nghĩ điều đó đúng. Khi xung quanh bạn toàn những người tồi tệ mới là điều cô đơn nhất thế gian này.",
+		"translate": ""
+	}, {
+		"id": "585",
+		"content": "Tự dung thấy nhớ anh người yêu quá. Không biết anh đã ăn cơm chưa, có mặc ấm không? Mà không biết anh tên gì nhà ở đâu bố mẹ làm gì nhỉ?",
+		"translate": ""
+	}, {
+		"id": "586",
+		"content": "Nhiêu lúc người ta cô đơn không phài vì không có ai ở bên cạnh mà vì trog lòng không có ai để hướng về.",
+		"translate": ""
+	}, {
+		"id": "587",
+		"content": "Tôi lạc quan giữa đám đông, nhưng khi một mình thì lại không. Cố tỏ ra là mình ổn nhưng bên trong nước mắt là biển rộng.",
+		"translate": ""
+	}, {
+		"id": "588",
+		"content": "Em chờ đợi ai mà nỗi nhớ cứ đong đầy. Nên cứ ngại ngần chần chừ chưa dám nói Sơ nói ra rồi sẽ chẳng còn cơ hội Làm bạn với em ... dù là bạn bình thường.",
+		"translate": ""
+	}, {
+		"id": "589",
+		"content": "Không phải tớ ế mà tại tớ thích như thế!",
+		"translate": ""
+	}, {
+		"id": "590",
+		"content": "Nên nhớ những vĩ nhân đa số đều độc thân.",
+		"translate": ""
+	}, {
+		"id": "591",
+		"content": "Chắc ai đó sẽ sớm quay lại thôi, chắc ai đó sẽ sớm quay về thôi. Khoan đã….đaz có gấu đâu mà quay về.",
+		"translate": ""
+	}, {
+		"id": "592",
+		"content": "Nhiều lúc muốn yêu những kiêu không thèm nói.",
+		"translate": ""
+	}, {
+		"id": "593",
+		"content": "Em tính hết cách rồi chỉ còn một đường để thoát kiếp FA thôi… Bác nào cần “đổ vỏ” thì đưa đây em…! Em nói thật lòng đấy…!",
+		"translate": ""
+	}, {
+		"id": "594",
+		"content": "Sau một ngày đi học, đi làm mệt mỏi, cảm giác nằm trên giường buổi tối, cầm điện thoại nhắn tin cùng một người khác giới luôn cho tôi một cảm giác ấm cúng trong lòng.",
+		"translate": ""
+	}, {
+		"id": "595",
+		"content": "Anh không yêu tôi củng không sao hết, không nhớ đến tôi củng được, không trả lời inbox của tôi củng chẳng vấn đề gì. Tôi vẫn thích anh, vẫn nhớ anh, vẫn mong chờ anh thế thôi...",
+		"translate": ""
+	}, {
+		"id": "596",
+		"content": "Đôi lúc chúng ta cảm thấy buồn vì một vấn đề nào đó và mình không thích phải nói cho người khác nghe rằng ta đang buồn về nó, mình vẫn giữ nó như một bí mật, nình buồn nhưng chẳng hiểu tại sao mình buồn, vậy là mình không cảm thấy buồn nhưng thật sự mình rất buồn.",
+		"translate": ""
+	}, {
+		"id": "597",
+		"content": "Đừng trách ai đó làm cho bạn thất vọng hãy trách bản thân đã kì vọng quá nhiều.",
+		"translate": ""
+	}, {
+		"id": "598",
+		"content": "Cuộc sống độc thân luôn tự do nhất, bạn có thể đi bất cứ đâu, gặp bất cứ ai mà không sợ mất lòng người khác.",
+		"translate": ""
+	}, {
+		"id": "599",
+		"content": "Thời điểm đó anh một mình, em một mình, chúng mình vô tình va phải nhau thế là đi chung một đoạn.",
+		"translate": ""
+	}, {
+		"id": "600",
+		"content": "Tôi không cần người phải hét lên cho cả thế giới này biết người yêu tôi nhiều như thế nào. Chỉ cần khi ai đó hỏi người về mối quan hệ của chúng ta nếu người ngại trả lời thì có thể im lặng chứ đừng chối bỏ nó.",
+		"translate": ""
+	}, {
+		"id": "601",
+		"content": "Dậy đi bé, sáng rồi Valentine rồi kìa dậy đi bé ơi!, anh sai một thiên thần tới gọi bé dậy nhưng thiên thần bảo không thể đánh thức một thiên thần khác...Vì thế anh đành tự đánh thức bé vậy. Yêu Em thật nhiều!",
+		"translate": ""
+	}]
+}

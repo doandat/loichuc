@@ -1,0 +1,203 @@
+{
+	"result": [{
+		"id": "16",
+		"content": "Nhân dịp sinh nhật lần thứ n của em, chúc em luôn tươi khỏe, trẻ đẹp. Cầu mong những gì may mắn nhất, tốt đẹp nhất và hạnh phúc nhất sẽ đến với em trong tuổi mới.",
+		"translate": ""
+	}, {
+		"id": "72",
+		"content": "A simple celebration, a gathering of friends, here is wishing you great happiness, a joy that never ends.",
+		"translate": ""
+	}, {
+		"id": "73",
+		"content": "With each year I love you more and more. Happy birthday sweet love!",
+		"translate": ""
+	}, {
+		"id": "74",
+		"content": "I hope all your birthday dreams and wishes come true.",
+		"translate": ""
+	}, {
+		"id": "75",
+		"content": "Let my deep blessing always. Surround magnificent travel of your life. I hope in years to come you will hane a good health and plain sailing.",
+		"translate": ""
+	}, {
+		"id": "76",
+		"content": "I hope all your birthday dreams and wishes come true.",
+		"translate": ""
+	}, {
+		"id": "77",
+		"content": "Wishing you a happy birthday. Praying you luckily.",
+		"translate": ""
+	}, {
+		"id": "78",
+		"content": "Darling! On occasion of you birthday, wishing you success more. Hoping that you will love me forever same as the first time and you are always besides me.",
+		"translate": ""
+	}, {
+		"id": "79",
+		"content": "It’s a nice feeling when you know that someone likes you, someone thinks about you, someone needs you, but it feels much better when you know that someone never ever forgets your birthday.",
+		"translate": ""
+	}, {
+		"id": "80",
+		"content": "A smile is a curve that sets everything straight and wipes wrinkle away. Hope you share a lots and receive a lots. Happy Birthday",
+		"translate": ""
+	}, {
+		"id": "81",
+		"content": "Just want to tell you that you’re special, and to wish you all the joys of a wonderful birthday!",
+		"translate": ""
+	}, {
+		"id": "82",
+		"content": "On occasion of your Nth birthday, wish you be younger, beautiful and happier. The best wishes including the luck and the best happiness will come to you in the new age.",
+		"translate": ""
+	}, {
+		"id": "83",
+		"content": "Wishing you birthday far from house you still happy. Try to see to future.",
+		"translate": ""
+	}, {
+		"id": "84",
+		"content": "With each year I love you more and more. Happy birthday sweet love!",
+		"translate": ""
+	}, {
+		"id": "85",
+		"content": "Every candle on your cake is another year I’ve been lucky to know you, girl! Happy Birthday to a wonderful friend!",
+		"translate": ""
+	}, {
+		"id": "86",
+		"content": "A birthday is just the first day of another 365-day journey around the sun. Enjoy the trip.",
+		"translate": ""
+	}, {
+		"id": "87",
+		"content": "Wishing you a happy birthday. Praying you luckily.",
+		"translate": ""
+	}, {
+		"id": "88",
+		"content": "Friend is someone who reaches for your hand and touches your heart. Hope your special day is bright and beautiful, just like you!",
+		"translate": ""
+	}, {
+		"id": "89",
+		"content": "Send you my beautiful wishes that are as sweet as a flower to be your companion till the end of the world. Happy birthday to you! ",
+		"translate": ""
+	}, {
+		"id": "90",
+		"content": "Congragulation your birthday, we wish you young and nice forever and happiness. You are teacher that we love and respect.",
+		"translate": ""
+	}, {
+		"id": "91",
+		"content": "I wish you a joyous heart, a peaceful mind and the most successful life! Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "92",
+		"content": "I will never get tired of giving you surprises especially on your birthday. Thank you for the love and understanding. I am always praying for your good health and success. Happy Birthday my love! Looking forward for more years together. I love you!",
+		"translate": ""
+	}, {
+		"id": "93",
+		"content": "Now that I’m a parent myself, I have a deeper appreciation for everything you do. I aspire to be just as amazing at this parenting thing as you. Love you, Dad!",
+		"translate": ""
+	}, {
+		"id": "94",
+		"content": "Happy birthday, Mom! I want you to know that I am nothing without you, but I can be everything with you by my side. Love you!",
+		"translate": ""
+	}, {
+		"id": "95",
+		"content": "As you wake up this morning, I hope you enjoy the crisp fresh air full of bright sunshine and relish the sound of chirping birds. May every morning be as bright and special as the joy you bring to my life. Happy birthday, Mom!",
+		"translate": ""
+	}, {
+		"id": "96",
+		"content": "Mom, no one can ever take your place in my heart. I love you forever and ever. No matter where I go or whom I meet, you will always be Number One to me.",
+		"translate": ""
+	}, {
+		"id": "97",
+		"content": "Growing up, I always admired your awards. Today, I have to say that you deserve the Best Dad in the World award for all that you do. Have a happy birthday, Dad. You deserve the best!",
+		"translate": ""
+	}, {
+		"id": "98",
+		"content": "Happy birthday to the best father ever. I remember when you cleaned up my skinned knees, held my hand across the street, taught me how to reach for the stars. You are my inspiration and my hero.",
+		"translate": ""
+	}, {
+		"id": "99",
+		"content": "If you were not my mom already, then I would be absolutely jealous of whoever was your daughter. You’re awesome, Mom. Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "100",
+		"content": "Every day I wake up, I always have you to thank. I have your guidance, your warmth, your love, and your heart: someone who loves me unconditionally. Right or wrong, you are always my Mom.",
+		"translate": ""
+	}, {
+		"id": "101",
+		"content": "People say that it is possible to choose own friends from many, but it is obvious that you can’t choose you’re the members of your family. I’m without doubt the luckiest. Happy Birthday.",
+		"translate": ""
+	}, {
+		"id": "102",
+		"content": "Hey, you are my cute, loving sister. For you every day I find plenty of reasons to be delighted. Happy Birthday, sister.",
+		"translate": ""
+	}, {
+		"id": "103",
+		"content": "People believe that the heroes are one in many thousands, but I want to say that a sister like you is always one in a lifetime. Happy Birthday.",
+		"translate": ""
+	}, {
+		"id": "104",
+		"content": "I take a moment to think about all our childhood memories, from years ago. How much I looked up to you as my brother, I bet you didn’t know. Despite our misunderstandings you have always been so nice to me – the priceless value of a brother like you, I now see. Happy birthday.",
+		"translate": ""
+	}, {
+		"id": "105",
+		"content": "When we were small I was mad at mom and dad for making me share my room with you. Now I realize what a wonderful blessing it was growing up with you. Happy birthday bro.",
+		"translate": ""
+	}, {
+		"id": "106",
+		"content": "We have been together so long, I can’t think of life without you. But I will never tire of wishing you happy birthday. Happy birthday!",
+		"translate": ""
+	}, {
+		"id": "107",
+		"content": "The best part of having you as my best friend is being able to act crazy and wild, and not have a care in the world. I truly feel as if I can let my hair down when I’m with you.",
+		"translate": ""
+	}, {
+		"id": "108",
+		"content": "Happy Birthday, my dear friend. I don’t know if I could ever convey to you just how much you mean to me. I can’t imagine where I would be right now without you. You have changed my life for the better.",
+		"translate": ""
+	}, {
+		"id": "109",
+		"content": "In our heart, you will forever be our little girl, our beautiful princess. In our eyes, you are a loving and caring woman that truly inspires us and a lot of people around you. We love you and may you have a wonderful birthday celebration.",
+		"translate": ""
+	}, {
+		"id": "110",
+		"content": "To our beloved daughter, on your birthday, we wish that all your wishes will come true. We want you to know that we love you and may you have many more birthdays to come.",
+		"translate": ""
+	}, {
+		"id": "111",
+		"content": "Only few parents are lucky enough to be blessed with an amazing son like you. Happy birthday to the most wonderful son in the whole wide world!",
+		"translate": ""
+	}, {
+		"id": "112",
+		"content": "Dear sweetheart, you are the reason why I smile every day. Our flames of passion will never be extinguished and may our love shines brightly to bring you a wonderful birthday. I love you and Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "113",
+		"content": "Darling, I am enthralled by your beauty and captivated by your love. There is never a day that I will not think of you. I love you and may you have a wonderful birthday!",
+		"translate": ""
+	}, {
+		"id": "114",
+		"content": "We have known each other forever. Every year, I tell you the same things on your birthday. But that is just the kind of person you are: sweet, humble and caring. I hope you never get tired of hearing that.",
+		"translate": ""
+	}, {
+		"id": "115",
+		"content": "A friend like you is more priceless than the most beautiful diamond. You are not only strong and wise, but kind and thoughtful as well. Your birthday is the perfect opportunity to show you how much I care and how grateful I am to have you in my life.",
+		"translate": ""
+	}, {
+		"id": "116",
+		"content": "Happy birthday to my precious little angel! You truly are becoming more wonderful and adorable each day. And for that, you amaze me sweetie! May you enjoy your birthday!",
+		"translate": ""
+	}, {
+		"id": "117",
+		"content": "I am not only grateful that you are my daughter. I am grateful for the love, friendship, kindness and support you have given me. I will surely give it all back to you. May you have a wonderful birthday, sweetheart!",
+		"translate": ""
+	}, {
+		"id": "118",
+		"content": "Every father in this world would wish that their son will grow taller and wiser than him. For now, let me congratulate you my son for fulfilling the first part of it. Have a happy birthday!",
+		"translate": ""
+	}, {
+		"id": "119",
+		"content": "My love, words are not enough to express how much I love you. My wish is for you to stay happy and healthy, happy birthday!",
+		"translate": ""
+	}, {
+		"id": "120",
+		"content": "I can’t believe how lucky I am to have found a friend like you. You make every day of my life so special. It’s my goal to make sure your birthday is one of the most special days ever. I can’t wait to party it up with you!",
+		"translate": ""
+	}]
+}

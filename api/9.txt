@@ -1,0 +1,311 @@
+{
+	"result": [{
+		"id": "407",
+		"content": "Nhân Ngày Nhà giáo Việt Nam 20/11 chúc tất cả các thầy cô giáo trên mọi miền đất nước sức khỏe, hạnh phúc và thành công. Đặc biệt với thầy cô đang đọc tin nhắn này con chúc thầy cô ngày 20/11 thật vui.",
+		"translate": ""
+	}, {
+		"id": "408",
+		"content": "Nhân ngày 20/11 em xin chúc các thầy cô giáo lời chúc tốt đẹp nhất, chúc các thầy cô luôn tràn đầy nhiệt huyết với sự nghiệp cao cả của mình, chúc các thầy cô thật nhiều sức khỏe để vững bước chèo lái con thuyền trồng người đến bờ bến thành công.",
+		"translate": ""
+	}, {
+		"id": "409",
+		"content": "Ơn dạy dỗ cao dường hơn núi, nghĩa Thầy Cô như nước biển khơi, công Cha Mẹ con luôn tạc dạ, ơn Thầy Cô con mãi ghi lòng. Nhân ngày nhà giáo Việt Nam con xin kính chúc thầy cô mạnh khỏe, thành công trong sự nghiệp trồng người.",
+		"translate": ""
+	}, {
+		"id": "410",
+		"content": "Nếu được hỏi \"Thành công này bắt nguồn từ đâu?\", em sẽ trả lời rằng: \"Là cô - người đã mang đến cho chúng em kiến thức, hành trang bước vào đời\".",
+		"translate": ""
+	}, {
+		"id": "411",
+		"content": "Gửi cô giáo kính yêu. Em chúc cô luôn luôn vui vẻ, xinh tươi và trẻ mãi không già; chúc cô sớm sớm hoàn thiện “chiến lược” cũng như “mục tiêu” của đời mình cô nhé! Cô là đốm lửa đã nhen nhóm lên ngọn lửa tâm hồn của chúng em. Cô là những bậc thềm đá để chúng em bước từng bước tiến lên phía trước. 20/11 chúng em chúc cô sức khỏe, niềm vui và hạnh phúc!",
+		"translate": ""
+	}, {
+		"id": "412",
+		"content": "Cô giáo ơi sao mà nhanh đến thế, mới ngày nào cô bước vào lớp học tụi chúng em ríu rít như chim non. Giờ chúng em đã khôn lớn rồi, nhưng vẫn nhớ như in ký ức năm nào. Nhân ngày 20/11 em chúc cô mãi mãi trẻ trung và hiền hậu.",
+		"translate": ""
+	}, {
+		"id": "413",
+		"content": "\"Ngày 20/11 em xin được dành những lời chúc ý nghĩa nhất, những bó hoa tươi thắm nhất của mình, và tất cả những lời chúc đó, đều là dành cho các thầy, các cô , em cũng như bao bạn khác được như ngày hôm nay đó là kết quả của các thầy các cô mang lại cho chúng em.\"",
+		"translate": ""
+	}, {
+		"id": "414",
+		"content": "Nhân ngày 20-11 con chúc thầy cô luôn mạnh khỏe và thành công trong sự nghiệp trồng người. Một ngày gọi là thầy cả đời vẫn gọi là thầy.",
+		"translate": ""
+	}, {
+		"id": "415",
+		"content": "Chúc mừng thầy cô nhân ngày Nhà giáo Việt Nam 20/11. Chúc các thầy cô luôn đủ tâm - trí - lực để ngày càng cống hiến nhiều hơn nữa cho sự nghiệp \"trồng người\"!",
+		"translate": ""
+	}, {
+		"id": "416",
+		"content": "Nhân ngày 20/11 em xin chúc các thầy cô lời chúc tốt đẹp nhất, chúc các thầy cô hoàn thành nhiệm vụ cao cả của mình trong sự nghiệp trăm năm trồng người, trong công cuộc đổi mới của đất nước. Em chân thành cám ơn các thầy cô.",
+		"translate": ""
+	}, {
+		"id": "417",
+		"content": "Nhân ngày Nhà giáo Việt Nam 20-11, em xin gửi đến thầy cô lời cảm ơn chân thành. Kính chúc thầy cô luôn luôn mạnh khỏe và hạnh phúc để luôn mang đến cho chúng em ngày càng nhiều bài học hay và bổ ích.",
+		"translate": ""
+	}, {
+		"id": "418",
+		"content": "Trong hành trình cuộc đời, thầy đã làm phong phú linh hồn em mở mang trí lực của em. Cám ơn thầy, thầy giáo của em.",
+		"translate": ""
+	}, {
+		"id": "419",
+		"content": "Bài giảng của thầy cô luôn phong phú nhiều mầu sắc, mỗi chương mỗi tiết đều tựa như mở ra một cửa sổ trước mặt em, khiến em thấy một thế giới rực rỡ sắc màu.",
+		"translate": ""
+	}, {
+		"id": "420",
+		"content": "Ngày 20 đã đến, tháng 11 thân thương, kỷ niệm ngày hiến chương của các thầy cô giáo, em nay xin kính chúc các thầy cùng các cô mạnh khỏe, công tác tốt để dìu dắt chúng em thành con ngoan trò giỏi.",
+		"translate": ""
+	}, {
+		"id": "421",
+		"content": "Thầy là đốm lửa đã nhen nhóm lên ngọn lửa tâm hồn của chúng em. Thầy là những bậc thềm đá để chúng em bước từng bước tiến lên phía trước. Nhân ngày 20-11 con xin chúc thầy manh khỏe, công tác tốt!",
+		"translate": ""
+	}, {
+		"id": "422",
+		"content": "Chúc mừng các thầy cô nhân ngày Nhà giáo Việt Nam 20-11. Chúc các thầy cô luôn đủ tâm, trí và lực để ngày càng cống hiến nhiều hơn nữa vì các em học sinh thân yêu.",
+		"translate": ""
+	}, {
+		"id": "423",
+		"content": "Thầy là một biển lớn kiến thức, em lái con thuyền nhỏ, thả sức quăng lưới đánh bắt!",
+		"translate": ""
+	}, {
+		"id": "424",
+		"content": "\"Dành tặng những tình cảm sâu sắc và tôn kính nhất đến các thầy cô giáo trong ngày 20/11. Em cũng xin gửi lời chúc mừng đến các thầy cô giáo nhân ngày nhà giáo VN. Chúc các thầy cô luôn mạnh khỏe, thành đạt, hạnh phúc và công tác tốt\".",
+		"translate": ""
+	}, {
+		"id": "425",
+		"content": "Dù ngày hôm nay trò đã ở vị trí không phải là một người học sinh, nhưng trò vẫn luôn hướng về một nơi, một mái ấm gia đình thân yêu nhất và trong mỗi bài giảng của thầy cô dành cho học sinh, sinh viên, trò vẫn nhớ đến những người thầy cô của mình, nhớ về mái trường đã cho trò vững bước vào đời, với niềm tự hào, lòng biết ơn vô hạn.",
+		"translate": ""
+	}, {
+		"id": "426",
+		"content": "Lại một mùa 20/11 để em có cơ hội gửi đến cô những gì tốt đẹp nhất. Chúc cô luôn trẻ trung vui tươi để mãi là người thầy, người chỉ đường gần gũi nhất với mọi học sinh. Chúc cô luôn mạnh khỏe và luôn được các học sinh yêu quý. Mong cô luôn tự hào và nhớ tới em. Ký tên: Học sinh nguy hiểm và xuất sắc nhất của cô.",
+		"translate": ""
+	}, {
+		"id": "427",
+		"content": "Thầy ơi! Thầy đã dùng tình cảm cao cả nhất của nhân loại – tình yêu, để gieo hạt giống mùa xuân, gieo hạt giống ý tưởng, gieo hạt giống sức mạnh.",
+		"translate": ""
+	}, {
+		"id": "428",
+		"content": "Ngày 20/11 tới, với tất cả tấm chân tình mà con muốn gửi đến cô, chúc cho cô luôn vui vẻ tràn ngập niềm tin trong cuộc sống, ngày nào cũng luôn gặp may mắn và thành công trên con đường dạy học của mình, chăm bón những mầm non của mình thật tốt tươi.",
+		"translate": ""
+	}, {
+		"id": "429",
+		"content": "Em chúc cô luôn trẻ trung vui tươi để mãi là người cô, người chỉ đường gần gũi nhất với mọi học sinh.",
+		"translate": ""
+	}, {
+		"id": "430",
+		"content": "Xin các thầy, các cô hãy cứ tin rằng, dù là 10 năm, 20 năm… hay bao nhiêu năm trôi qua đi chăng nữa, học trò vẫn luôn nhớ về mái trường thân yêu, nhớ những bàn tay đã dìu dắt trò những bước đi đầu tiên của cuộc sống tự lập.",
+		"translate": ""
+	}, {
+		"id": "431",
+		"content": "Là một đứa học trò cá biệt trong lớp, em đã làm cô buồn thật nhiều. Đã có lần em bật khóc khi nhìn vào ánh mắt nặng trĩu của cô. Nhân ngày nhà giáo Việt Nam em xin kính chúc cô thật nhiều sức khỏe, thật nhiều thành công. Em xin hứa sẽ không quậy phá, trốn tiết để cô phải buồn nữa!",
+		"translate": ""
+	}, {
+		"id": "432",
+		"content": "Ngày 20/11 chúc cô giáo của con có thật nhiều hoa, quà và vui... thả ga cô nhé.",
+		"translate": ""
+	}, {
+		"id": "433",
+		"content": "Thầy ơi! Không phải chỉ có ngày 20/11 con mới nhớ đến thầy. Mà đối với con, ngày nào cũng đều là 20/11. Con kính chúc thầy mãi vui tươi hạnh phúc và hãnh diện bên những học sinh luôn là con ngoan trò giỏi của mình.",
+		"translate": ""
+	}, {
+		"id": "434",
+		"content": "Ở nơi xa theo hương bay của gió, con gửi lòng mình tôn kính đến thầy.",
+		"translate": ""
+	}, {
+		"id": "435",
+		"content": "Em chúc cô giáo luôn mạnh khoẻ, trẻ trung, dzui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự… dũng cảm trước những đứa học trò nghịch như quỷ sứ bọn em.",
+		"translate": ""
+	}, {
+		"id": "436",
+		"content": "Nhân ngày 20/11, em xin gửi đến cô lời cảm ơn chân thành đã dìu dắt chúng em đến gần hơn với chân trời kiến thức. Kính chúc cô luôn luôn mạnh khỏe và hạnh phúc để luôn mang đến cho chúng em ngày càng nhiều bài học hay và bổ ích.",
+		"translate": ""
+	}, {
+		"id": "437",
+		"content": "Hàng nghìn ngày tìm tòi nghiên cứu, chưa bằng một ngày học hỏi từ người thầy giỏi. Nhân ngày 20/11 em xin được gửi lời cảm ơn chân thành.",
+		"translate": ""
+	}, {
+		"id": "438",
+		"content": "Ngày 20 đã đến, tháng 11 thân thương, kỷ niệm ngày hiến chương của các thầy cô giáo, em nay xin kính chúc các thầy cùng các cô mạnh khỏe, công tác tốt để dìu dắt chúng em thành con ngoan trò giỏi.",
+		"translate": ""
+	}, {
+		"id": "439",
+		"content": "Em xin chúc tất cả các thầy cô giáo luôn mạnh khoẻ, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự dũng cảm trước những đứa học trò nghịch như quỷ sứ bọn em.",
+		"translate": ""
+	}, {
+		"id": "440",
+		"content": "Em không là học trò xuất sắc nhất của thầy, nhưng thầy là người mà em yêu quý nhất. Nhân ngày 20/11, kính chúc thầy luôn mạnh khỏe, hạnh phúc và gặt hái được nhiều thành công trong sự nghiệp trồng người.",
+		"translate": ""
+	}, {
+		"id": "441",
+		"content": "Nhân ngày nhà giáo Việt Nam 20/11, với tất cả tấm chân tình mà con muốn gửi đến thầy cô, kính chúc tất cả thầy cô luôn vui vẻ tràn ngập niềm tin trong cuộc sống, ngày nào cũng luôn gặp may mắn và thành công trên con đường dạy học của mình, dìu dắt những học trò của mình thật tốt để sau này giúp đời.",
+		"translate": ""
+	}, {
+		"id": "442",
+		"content": "Tháng 11 đã về, còn nhớ ngày này năm trước con được diện áo dài đi dự lễ kỷ niệm Ngày nhà giáo Việt Nam và được trông thấy nụ cười tươi giòn của cô. Năm nay, không được về nhà, con xin được gửi thật nhiều nắng gió của phương Nam, thật nhiều lời chúc mừng sức khỏe và hạnh phúc đến cô nhân ngày 20/11.",
+		"translate": ""
+	}, {
+		"id": "443",
+		"content": "Trong suốt những năm học xa nhà qua, chúng em luôn có một người thầy, một người cha, một người anh, một người bạn gần bên chúng em. Nhân ngày 20/11, chúc em xin gửi lời chúc sức khỏe đến thầy và gia đình. Chúc thầy của chúng em thành công trong sự nghiệp giáo dục, là một người lái đò đưa từng chuyến đò học sinh sang sông.",
+		"translate": ""
+	}, {
+		"id": "444",
+		"content": "Một bó hoa nhỏ nhắn này tặng cô, chúng em chúc cô 20/11 vui vẻ, hạnh phúc. Chúc cô mãi là cô Hiền trong lòng chúng em.",
+		"translate": ""
+	}, {
+		"id": "445",
+		"content": "Vì đã không còn được thầy dạy bảo nữa nhưng em vẫn luôn nhớ về thầy. Chúc thầy luôn vui vẻ, có niềm tin vào sự nghiệp giáo dục của mình. Một lần nữa gửi tới thầy lới chúc 20/11 chân thành nhất.",
+		"translate": ""
+	}, {
+		"id": "446",
+		"content": "“Bài học làm người em vẫn nhớ ghi. Công cha nghĩa mẹ ơn thầy”. Lời bài hát là tất cả những gì em muốn gửi đến thầy nhân ngày 20/11. Dù bây giờ không còn được học thầy nữa, nhưng vẫn còn bao lứa sinh viên khác được thầy dìu dắt. Sự tận tâm của thầy đã giúp em nên người như hôm nay. Chúc thầy luôn thành công trên sự nghiệp trồng người đầy vất vả này.",
+		"translate": ""
+	}, {
+		"id": "447",
+		"content": "Thầy ơi! Thầy đứng trên cương vị thiêng liêng đó, như một tháp chỉ đường chỉ dẫn hết lớp người này đến lớp người khác, hướng về phía trước, hướng về phía trước!",
+		"translate": ""
+	}, {
+		"id": "448",
+		"content": "Tháng 11 đầy ưu tư nhung nhớ, nhớ ký ức của một thời nhỏ dại. Nhớ thầy cô của những buổi đến trường, chúc cho thầy cô thân yêu của con mãi mạnh khỏe và thanh đạt.",
+		"translate": ""
+	}, {
+		"id": "449",
+		"content": "Ở phương xa theo đại ngàn mây gió, con gửi niềm tôn kính đến thầy yêu.",
+		"translate": ""
+	}, {
+		"id": "450",
+		"content": "Xin gửi những lời chúc 20/11 hay nhất chân thành nhất từ đáy lòng đến các thầy cô: - Luôn giữ vững tình cảm: yêu trò, yêu nghề - Giữ vững hơn nữa bản lĩnh nghề nghiệp: làm việc tận tâm, tận lực. - Không ngừng trau dồi, học hỏi, nâng cao năng lực giảng dạy và sẵn sàng cách tân, đổi mới sáng tạo phương pháp giảng dạy. Vui vẻ và hạnh phúc trong ngày này, luôn là tấm gương sáng về đức và tài trong mắt học trò và được hết thảy mọi người yêu quý!",
+		"translate": ""
+	}, {
+		"id": "451",
+		"content": "\"Thầy ơi! Tuổi tác đã hằn sâu những vết nhăn trên trán Thầy, làm tóc mai Thầy thêm sợi bạc, nhưng tấm lòng yêu thương của Thầy đối với chúng em, mãi mãi không cạn kiệt...\"",
+		"translate": ""
+	}, {
+		"id": "452",
+		"content": "\"Nhân ngày nhà giáo việt nam 20/11, với tất cả tấm chân tình mà em muốn gửi tới thầy cô, chúc cho tất cả thầy cô luôn luôn vui vẻ và tràn ngập niềm tin trong cuộc sống, ngày nào cũng luôn gặp mai mắn, và thành công trên con đường dạy học của mình, và chăm bón những mầm non của mình thật tốt để sau này giúp đời - TUỔI THƠ CON GỌI THẦY CÔ ,BẠC ĐẦU CON VẪN THƯA CÔ LẠY THẦY.\"",
+		"translate": ""
+	}, {
+		"id": "453",
+		"content": "Dẫu đi khắp 4 phương trời, cũng không quên nổi lời thầy khắc ghi “tiên học lễ, hậu học văn”. Con không thầy con không lớn nổi thành người. Kính chúc thầy ngàn lời tốt đẹp, con mong thầy mạnh khỏe để chở thêm những chuyến đò sớm mai.",
+		"translate": ""
+	}, {
+		"id": "454",
+		"content": "Cô đã đưa con đến gần hơn với bầu trời đầy sắc màu, dẫn con bước vào một thế giới bao la. Cô à, trái tim con luôn nhắc tên cô, và muốn gửi đến cô những lời chúc thân thương nhất.",
+		"translate": ""
+	}, {
+		"id": "455",
+		"content": "Nhân ngày nhà giáo Việt Nam 20/11, em xin kính chúc các Thầy Cô “MẠNH – HẠNH – ĐẠT”!",
+		"translate": ""
+	}, {
+		"id": "456",
+		"content": "Tháng năm dầu dãi nắng mưa, con đò trí thức thầy đưa bao người. Qua sông gửi lại nụ cười, tình yêu xin tặng người thầy kính thương. Con đò mộc - mái đầu sương. Mãi theo ta khắp muôn phương vạn ngày.",
+		"translate": ""
+	}, {
+		"id": "457",
+		"content": "Chẳng phải cha nhưng con vẫn gọi là thầy, chẳng phải họ những vẫn được gọi là cô. Vì cha là người sinh thành ra con, nhưng thầy là người chèo đò đưa con cập bến.",
+		"translate": ""
+	}, {
+		"id": "458",
+		"content": "Thầy! thầy giống như ông em vậy, em chỉ muốn nói với thầy điều này thôi: Chúc thầy luôn luôn hạnh phúc đến tận giây phút cuối cùng của cuộc đời.Và một “1” trong 10000 điều hạnh phúc của thầy là bọn em!! những học sinh khóa cuối của thầy! Happy smile :))",
+		"translate": ""
+	}, {
+		"id": "459",
+		"content": "Em chúc tất cả các thầy cô luôn mạnh khỏe, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự dũng cảm trước những đứa học trò nghịch như quỷ sứ bọn em. Happy Vietnam’s Teacher Day!",
+		"translate": ""
+	}, {
+		"id": "460",
+		"content": "\"Nghĩa thầy cô như nước biển khơi/ Công mẹ cha con luôn tạc dạ/ Ơn thầy cô con mãi ghi lòng”. Nhân ngày nhà giáo Việt Nam con xin kính chúc thầy cô mạnh khỏe, thành công trong sự nghiệp trồng người.",
+		"translate": ""
+	}, {
+		"id": "461",
+		"content": "Chúc mừng thầy cô nhân Ngày Nhà giáo Việt Nam 20/11. Ở nơi phương trời xa, em xin kính chúc các thầy, các cô luôn vui khỏe, hạnh phúc. Chúc cho mọi lời chúc của tất cả học trò dành cho thầy cô đều trở thành hiện thực.",
+		"translate": ""
+	}, {
+		"id": "462",
+		"content": "Tuổi thơ con gọi thầy cô, bạc đầu con vẫn thưa cô lạy thầy.",
+		"translate": ""
+	}, {
+		"id": "463",
+		"content": "Nghề giáo bao đời nay luôn được xem là nghề cao quý nhất - nghề “trồng người”. Người thầy, dù ở đâu cũng là những người được kính trọng nhất. Nhân ngày Nhà giáo Việt Nam, con xin gửi lời chúc mừng tốt đẹp nhất đến thầy cô!",
+		"translate": ""
+	}, {
+		"id": "464",
+		"content": "Cô kính yêu! Sự dạy dỗ ân cần của Cô như gió mùa xuân, như cơn mưa lành, khắc sâu mãi trong lòng em. Em thành kích chúc Cô: Vui khỏe, như ý!",
+		"translate": ""
+	}, {
+		"id": "465",
+		"content": "Cô là một biển lớn kiến thức, em lái con thuyền nhỏ, thả sức quăng lưới đánh bắt, phải không thưa Cô?",
+		"translate": ""
+	}, {
+		"id": "466",
+		"content": "Ngày 20/11 là một ngày thật sự ý nghĩa và em cảm thấy rất hạnh phúc khi nhìn thấy những nụ cười rạng ngời của các thầy các cô cùng những bó hoa tươi thắm. Càng trưởng thành em lại càng thấy thấm thía những gì thầy cô đã chỉ dạy! Nhân ngày 20/11 em xin chúc các thầy các cô sức khỏe, luôn tràn đầy nồng nàn nhiệt huyết với sự nghiệp \"Trồng người\".",
+		"translate": ""
+	}, {
+		"id": "467",
+		"content": "Càng đi xa em càng nghĩ nhiều về cô. Sự dạy dỗ của cô là vô giá. Và chúng em mãi mãi biết ơn cô. Chúc cô nhiều sức khỏe, may mắn và nhiều hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "468",
+		"content": "Nhất tự vi sư, bán tự vi sư! Mỗi điều hay, mỗi hành động đẹp, mỗi nét chữ thành người của thầy đã đưa chúng em dần bước vào thế giới khoa học đầy thú vị, vào cuộc sống đầy bỡ ngỡ. Chúng em luôn nhớ đến người thầy đã vì chúng em mà dầm mưa để đi cổ vũ lớp đã bóng, vì chúng em mà không ngại cái nắng gắt để hướng dẫn các bạn tham gia tình nguyện hè,vì chúng em mà bỏ ra hàng buổi trời để phụ đạo thêm kiến thức cho chúng em trước kì thi cử. Chúng em luôn mong thầy có sức khỏe tốt để chúng em có thể thấy thầy ở bên chúng em. Chúc mừng thầy nhân ngày 20/11!",
+		"translate": ""
+	}, {
+		"id": "469",
+		"content": "Nhân ngày Nhà giáo Việt Nam 20/11, chúng em xin chúc thầy luôn mạnh khỏe để “gồng gánh” đám học trò siêu quậy của thầy.",
+		"translate": ""
+	}, {
+		"id": "470",
+		"content": "Thời gian như thoi đưa, thấm thoắt đã gần 10 năm e rời xa mái trường thân yêu, rời xa những người bạn quý mến, rời xa người mẹ thứ hai của em. Cô ơi, suốt những năm tháng vật lộn với cuộc sống, em đã thấm thía được lời dạy của cô năm xưa. Cô luôn là người nắm tay em đứng lên mỗi lần vấp ngã. Dù cho có ở xa cô đi nữa thì em luôn nhớ về cô. Nhân ngày 20/11, em chúc cô mạnh khỏe, vì đó là nhân tố quan trọng để nhiều thế hệ sau sau nữa sẽ được cô dạy dỗ.",
+		"translate": ""
+	}, {
+		"id": "471",
+		"content": "Người ta nói, giáo viên là nghề cao quý nhất trong tất cả các nghề cao quý. Và để tôn vinh những người đã thầm lặng hi sinh cho mầm non đất nước, ngày 20/11 được dùng để cho các lớp học sinh được bày tỏ lòng biết ơn và kính trọng đến thầy cô của mình. Hôm nay trong không khí hân hoan của ngày nhà giáo Việt Nam, tập thể lớp chúng em xin được gửi đến thầy cô lòng biết ơn sâu sắc nhất. Chúc thầy, cô nhiều sức khỏe để có thể tiếp tục dẫn dắt các thế hệ học sinh bước vào đời với hành trang vững chắc.",
+		"translate": ""
+	}, {
+		"id": "472",
+		"content": "“Người thầy vẫn lặng lẽ đi về dưới mưa”. Ai đã trải qua thời học sinh đều phải biết đến bài hát chứa đựng những nỗi niềm của người giáo viên. Cô cũng vậy! Dù mưa hay nắng cô vẫn đến phòng thí nghiệm đễ hướng dẫn em hoàn thành tốt nhất đề tài khoa học. Cô luôn mạnh mẽ để em có thể vững bước trong cuộc sống. Ngày 20/11 năm nay, em vẫn mong cô luôn mạnh khỏe như ngày nào, luôn vui vẻ và tận tâm như ngày này.Chỉ cần đơn giản vậy thôi.",
+		"translate": ""
+	}, {
+		"id": "473",
+		"content": "Ngày Nhà giáo Việt Nam 20/11 lại đến, là ngày mà bao thế hệ học trọ tri ân thầy cô của mình. Em kính chúc cô giáo yêu quý của em thật vui vẻ, nhận được thật nhiều hoa và lời chúc ý nghĩa.",
+		"translate": ""
+	}, {
+		"id": "474",
+		"content": "Nhân ngày 20/11, tập thể lớp kính chúc cô luôn vui vẻ, trẻ trung để đưa chúng em bước đi trên con đường chinh phục tri thức khó khăn này.",
+		"translate": ""
+	}, {
+		"id": "475",
+		"content": "Nhân Ngày Nhà giáo Việt Nam 20/11 chúc tất cả các thầy cô giáo trên mọi miền đất nước sức khỏe, hạnh phúc và thành công. Đặc biệt với thầy cô đang đọc tin nhắn này con chúc thầy cô ngày 20/11 thật vui.",
+		"translate": ""
+	}, {
+		"id": "476",
+		"content": "Thầy! thầy giống như ông em vậy, em chỉ muốn nói với thầy điều này thôi: Chúc thầy luôn luôn hạnh phúc đến tận giây phút cuối cùng của cuộc đời.Và một “1” trong 10.000 điều hạnh phúc của thầy là bọn em - những học sinh khóa cuối của thầy.",
+		"translate": ""
+	}, {
+		"id": "477",
+		"content": "Để một bếp lửa cháy thật to thì phải do kĩ thuật người nhóm bếp. Thầy đã truyền cho em sự nhiệt huyết, sự tận tình để học trò của thầy đạt được thành quả học tập tốt nhất. Dù sau này có đi đâu xa thì em vẫn mãi nhớ về công ơn dạy dỗ của thầy. Chúc thầy 20/11 vui vẻ, mạnh khỏe.",
+		"translate": ""
+	}, {
+		"id": "478",
+		"content": "Thưa thầy Thưa thầy, bài học chiều nay Con bỏ quên ngoài cửa lớp Dưới gốc phượng già, nằm nghe chim hót Con hóa mình thành bướm và hoa Thưa thầy bài tập hôm qua Con bỏ vào ngăn khóa kín Mải lượn lờ theo từng vòng sóng Cái ngã điệu đàng, sân trượt patin Thưa thầy, bên ly cà phê đen Con đốt thời gian bằng khói thuốc Sống cho mình và không bao giờ mơ ước Mình sẽ là ai ? Tôi sẽ là ai ? Thưa thầy, qua ngõ nhà thầy khuya nay Con vẫn thấy một vầng trăng ấm sáng Thầy ngồi bên bàn phẳng lặng Soạn bài trong tiếng ho khan Thưa thầy, cho là nhận: điều giản đơn Sao con học hoài không thuộc Để bây giờ khi con hiểu được Biết làm sao tạ lỗi cùng thầy.",
+		"translate": ""
+	}, {
+		"id": "479",
+		"content": "Người lái đò Một đời người - một dòng sông... Mấy ai làm kẻ đứng trông bến bờ, \"Muốn qua sông phải lụy đò\" Đường đời muôn bước cậy nhờ người đưa ... Tháng năm dầu dãi nắng mưa, Con đò trí thức thầy đưa bao người. Qua sông gửi lại nụ cười Tình yêu xin tặng người thầy kính thương. Con đò mộc - mái đầu sương Mãi theo ta khắp muôn phương vạn ngày, Khúc sông ấy vẫn còn đây Thầy đưa tiếp những đò đầy qua sông...",
+		"translate": ""
+	}, {
+		"id": "480",
+		"content": "Thầy Cô Thầy chính là những vì sao thắp sáng Là đèn đường soi rạng lối em đi Còn Cô là người mẹ hiền phú quí Mà trời dành để dậy dỗ chúng em Mỗi năm chỉ có một lần Hai mươi, mười một, ngày dành Thầy - Cô Học trò bao nét điểm tô Khăn tơ, áo lụa, kéo vô chúc mừng Trời thu nắng đẹp tưng bừng Đứa thì hoa huệ, đứa thì cúc xinh Tung tăng biểu lộ ân tình Bao ngày mệt nhọc Thầy - Cô dỗ dành Bây giờ vài phút mỏng manh Chúng em họp lại, kính Cô, kính Thầy Ngày vui nhà giáo sum vầy Mong thầy - cô khỏe, trồng người tiếp sau",
+		"translate": ""
+	}, {
+		"id": "481",
+		"content": "Không quên Nước xuôi dòng ngàn năm không đổi. Ơn trồng người mãi mãi không quên! Thầy cô...! Con lấy gì báo đáp?! Ân tình này khắc cốt ghi tâm. Nhân này 20/10 em viết bài thơi gửi đến các thầy cô. Chúc các thầy cô luôn luôn mạnh khỏe và hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "482",
+		"content": "Không Đề Bao năm học dưới mái trường Bao năm sống với tình thương dạt dào Thầy cô nghĩa nặng ơn cao Dạy cho em biết biết nhiều điều hay Dạy từ nét bút cầm tay Sửa sang mái tóc, ngồi ngay học bài Nhớ lời Bác dạy năm xưa Học hành cố gắng sớm trưa một lòng.",
+		"translate": ""
+	}, {
+		"id": "483",
+		"content": "Teachers Day The way you teach The knowledge you share The care you take The love you shower Makes you The world's best teacher Happy Teacher's Day!",
+		"translate": ""
+	}]
+}

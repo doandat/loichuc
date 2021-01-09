@@ -1,0 +1,147 @@
+{
+	"result": [{
+		"id": "1251",
+		"content": "Chúc các bạn: Tươi vui như heo cắn Đỏ đắn như heo lai Sức dai như… heo nọc Xốc vác như heo rừng Bừng bừng như… heo quay! Chúc các chị em 8/3 vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "1252",
+		"content": "Nhân ngày mùng 8.3, chúc bạn hay cười như hít phải khí N2O, bay bổng như H2, thăng hoa như I2, bản lĩnh như N2, và hiền hòa như H2O.",
+		"translate": ""
+	}, {
+		"id": "1253",
+		"content": "Thông tấn xã Tình Yêu xin thông báo, chủ thuê bao xxx vừa nhận được 1 lời chúc mừng ngày Quốc tế Phụ nữ cùng 1 nụ hôn gió từ thuê bao yyy.",
+		"translate": ""
+	}, {
+		"id": "1254",
+		"content": "Ngày 8/3, xin gửi đến các chị em đôi dòng ngắn gọn: chúc chị em vui như chim sẻ, khoẻ như đại bàng, giàu sang như chim phượng, làm lụng như chim sâu, sống lâu như chim đà điểu.",
+		"translate": ""
+	}, {
+		"id": "1255",
+		"content": "Mùng 8/3 chúc các chị em có một ngày vui vẻ, hạnh phúc; chúc các em gái em nhan sắc quyết liệt thăng hoa, tiền tài ào ào thăng tiến và tình yêu tưng bừng bùng nổ.",
+		"translate": ""
+	}, {
+		"id": "1256",
+		"content": "Nhân dịp Quốc tế Phụ nữ, xin gửi những lời chúc nồng nhiệt nhất đến toàn thể các bạn nữ. Chúc các bạn ngày một xinh đẹp, để ngày càng có thêm nhiều chàng trai đeo bám nhằng nhằng như lửa bám xăng, như răng bám lợi, như trời bám mây, như cây bám đất, như bít tất bám… bàn chân!",
+		"translate": ""
+	}, {
+		"id": "1257",
+		"content": "Nhân ngày 8/3, xin chúc tất cả các bạn nữ luôn khỏe như trâu, xinh đẹp như Hằng Nga, hạnh phúc như Phật cười, duyên dáng như hoa quỳnh nở muộn, thành công như Thánh Gióng.",
+		"translate": ""
+	}, {
+		"id": "1258",
+		"content": "Em cứ ngồi ngắm hoa Em cứ ca cứ hát Anh sẽ lo rửa bát. Anh sẽ lo quét nhà Anh sẽ lo giặt là Em uống gì anh pha Chợ gần hay chợ xa Anh lần ra được hết Món em ưa anh biết Em cứ chờ mà xem Em đánh phấn xoa kem Anh nhặt rau vo gạo Em ung dung đọc báo Anh tay nấu tay xào Anh tự làm không sao Đừng lo gì em nhé Tà áo em tuột chỉ Đưa anh khâu lại giùm Nho anh mua cả chum Buồn mồm em cứ nếm Bạn gái em mà đến Cứ vô tư chuyện trò Anh tắm cho thằng cu Rồi anh ru nó ngủ Màn hình bao cầu thủ Nghe em hét “vào rồi” Hết một ngày em ơi. 24h thôi nhé. (8/3)",
+		"translate": ""
+	}, {
+		"id": "1259",
+		"content": "Năm nay ngày 8/3 chúc các bạn nữ: Hay ăn chóng béo Tiền nhiều như kẹo Tình chặt như keo Dẻo dai như mèo Mịn màng trắng trẻo Sức khỏe như heo.",
+		"translate": ""
+	}, {
+		"id": "1260",
+		"content": "Hôm nay mùng 8 tháng 3 Chị em phụ nữ đi ra đi vào Ngó mãi chẳng thấy anh nào Chị em bực bội đi vào, đi ra.",
+		"translate": ""
+	}, {
+		"id": "1261",
+		"content": "Chúc bạn một ngày 8/3 thật là ý nghĩa, vui tươi ngập tràn hạnh phúc. Chúc bạn luôn cười tươi, cười duyên, cười e thẹn, cười trẻ trung và cười các kiểu hoài hoài trong ngày hôm nay.",
+		"translate": ""
+	}, {
+		"id": "1262",
+		"content": "Chúc mừng ngày 8/3 Vui lòng phụ nữ, chết quà đàn ông Chị nào tốt số có chồng Ngày này thong thả vì ông đã làm Chị nào vất vả gian nan Ngày ngày thui thủi vì chàng có đâu Nhưng mà đừng có vội rầu Luôn luôn có đám mày râu tặng quà.",
+		"translate": ""
+	}, {
+		"id": "1263",
+		"content": "Chúc các chị em có một ngày 8/3 vui vẻ, hạnh phúc, chúc các em gái em nhan sắc “quyết liệt” thăng hoa, tiền tài ào ào thăng tiến và tình yêu “tưng bừng” bùng nổ. Chúc mừng ngày 8/3. Tung hoa!",
+		"translate": ""
+	}, {
+		"id": "1264",
+		"content": "Dậy đi bé, sáng 8/3 rồi kìa, dậy đi bé ơi! Anh sai một thiên thần tới gọi bé dậy nhưng nó bảo nó không thể đánh thức một thiên thần khác… Vì thế anh đành tự đánh thức bé vậy. Chúc mừng ngày Quốc tế Phụ nữ.",
+		"translate": ""
+	}, {
+		"id": "1265",
+		"content": "Chúc \"bé con\" có một ngày 8/3 tràn đây vui vẻ và hạnh phúc! \"Bé con\" biết không, \"bé to\" ở Sài Gòn nhớ \"bé con\" nhiều lắm đấy!",
+		"translate": ""
+	}, {
+		"id": "1266",
+		"content": "Mồng 8 tháng 3 là ngày mà phụ nữ cảm thấy mình là phụ nữ, còn đàn ông cảm thấy mình là đàn ông. Tôi đề nghị nâng cốc chúc cho những ngày còn lại trong năm phụ nữ luôn cảm thấy mình được yêu mến và quí trọng, còn đàn ông sẽ giữ vai trò là người yêu thương và che chở cho phụ nữ!",
+		"translate": ""
+	}, {
+		"id": "1267",
+		"content": "Em yêu hôm nay là ngày Quốc tế Phụ nữ, ngày dành riêng để thể hiện lòng biết ơn sự quan tâm đến phụ nữ. Anh muốn gửi tới em trọn vẹn khối óc và trái tim anh, gửi tới em trọn vẹn tấm lòng anh, gửi tới em tất cả những gì cao quý và thiêng liêng nhất của anh.",
+		"translate": ""
+	}, {
+		"id": "1268",
+		"content": "Nếu có bản án dành cho anh vì đã yêu em thì anh xin đứng trước toà và nhận bản án chung thân được bên em suốt đời... Chúc em yêu ngày 8/3 hạnh phúc!",
+		"translate": ""
+	}, {
+		"id": "1269",
+		"content": "Mùng 8 tháng 3 Chúc chị em ta Áo quần thướt tha Da phấn, mặt hoa Đẹp như bức họa Mở điện thoại ra Ngập lời tụng ca… Tối đến về nhà Được chồng mát-xa Thật là “Ô… lá… la”!",
+		"translate": ""
+	}, {
+		"id": "1270",
+		"content": "Tôi cầu chúc tất cả phụ nữ trên thế giới này mãi xinh đẹp, luôn là bông hoa thơm trong vườn hoa ngát hương. Và mỗi người trên con đường kiếm tìm hạnh phúc sẽ tìm được một tình yêu vừa vặn với chính mình.",
+		"translate": ""
+	}, {
+		"id": "1271",
+		"content": "Ngày mai mới 8/3 Hôm nay thì cứ tà tà đi chơi Đi chơi cho thấy cuộc đời thảnh thơi Để rồi phải chịu tả tơi một ngày Giặt đồ, rửa chén, nấu cơm Một tay anh hét, một tay anh làm Để cho nàng thấy nàng thương anh nhiều!",
+		"translate": ""
+	}, {
+		"id": "1272",
+		"content": "Châu Âu ngủ, Châu Á cũng đang ngủ, Châu Mỹ đang tối dần, chỉ có đôi mắt đẹp nhất trên thế giới này đang đọc tin nhắn của anh. Happy 8/3!",
+		"translate": ""
+	}, {
+		"id": "1273",
+		"content": "Hôm nay mồng tám tháng ba Giá hoa thì đắt, giá quà thì cao Tiền lương tiêu hết hồi nào Thù lao, tiền thưởng chẳng trao lễ này. Lễ này ai nghĩ cũng hay, đây là dịp để giải bày khó khăn... Ai đem quà cáp kềng càng, riêng tôi dâng tặng cho nàng thơ thôi Hoa hồng mấy bữa héo rồi Còn thơ thơ mãi tuyệt vời là thơ.",
+		"translate": ""
+	}, {
+		"id": "1274",
+		"content": "Chị em phụ nữ thấy đấy, đàn ông chúng tôi đâu có tiếc xương sườn của mình để dành cho phụ nữ. Trong ngày mùng 8 tháng 3 này đàn ông chúng tôi muốn nói rằng chúng tôi yêu thương, quí trọng và cúi mình trước phụ nữ. Không chỉ xương sườn mà cả con tim của chúng tôi cũng thuộc về phụ nữ.",
+		"translate": ""
+	}, {
+		"id": "1275",
+		"content": "Anh muốn nói với em rằng anh luôn tôn trọng em, bởi vì anh thấy em cần được như thế. Hãy tin anh và gọi cho anh nếu cần giúp đỡ, anh sẽ cố nếu có thể, vì được làm gì giúp em anh thấy hạnh phúc. Biết em chưa có người yêu nhưng anh không mong em sẽ yêu anh vì cái gì đến nó sẽ tự đến và nó cũng sẽ tự đi, đó là quy luật tất yếu. Nhân ngày 8/3, anh chúc em luôn mạnh khỏe và gặp nhiều may mắn trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "1276",
+		"content": "Ta thường xuyên tặng quà cho phụ nữ mà quà tặng thì càng ngày càng đắt. Tôi đề nghị nâng cốc chúc mừng phụ nữ! Xin phụ nữ cứ ngày một quí giá hơn. Vì sớm sủa hay muộn màng thì chúng tôi rồi cũng sẽ trở thành những ông chủ của những kho châu báu!",
+		"translate": ""
+	}, {
+		"id": "1277",
+		"content": "Hôm nay mùng tám tháng ba Chị em phụ nữ làn da mịn màng Chúc cho môi thắm điệu đàng An toàn chính bạn, cả chàng nữa nghen! Việc gì phải tận nước Nga Việc gì “tám” chuyện Cuba với Lào Hãy đến bất cứ nhà nào Chị em không việc cũng vào cũng ra Thật là ngứa mắt chúng ta Nhưng thôi cứ để họ ra họ vào Không thì “cửa sắt” họ rào Anh em đố có dám “vào” dám “ra”.",
+		"translate": ""
+	}, {
+		"id": "1278",
+		"content": "Em ơi mùng 8 tháng 3 Anh xin tình nguyện trông nhà cho em Em đi thoải mái suốt đêm Anh ngoan chỉ biết chong đèn chờ thôi Nếu em có lỡ đứng ngồi… Với ai anh cũng vui rồi… cho qua Bởi vì mùng tám tháng ba Ngày em được phép giăng hoa một lần Nếu còn e ngại tần ngần Thì em trông cửa để phần… anh đi.",
+		"translate": ""
+	}, {
+		"id": "1279",
+		"content": "Hôm nay mồng Tám tháng Ba Tôi giặt hộ bà cái áo... của tôi Tôi phần bà một đĩa xôi Sợ bà yếu bụng, tôi xơi hộ bà...",
+		"translate": ""
+	}, {
+		"id": "1280",
+		"content": "Nếu thế giới không có đàn bà Hàng tỉ đàn ông sẽ chết già Ai làm đối tượng cho ông ghẹo Khi có cô nào õng ẹo qua Nếu thế giới không có đàn bà Ai sẽ thay ông gánh việc nhà Quạt nồng ấp lạnh ai chu tất Nuôi cả đàn con cũng chẳng la Nếu thế giới không có đàn bà Thì các ông ở đâu mà ra Mồng tám tháng ba ông nên nhớ Mang tặng mỗi bà một đoá hoa.",
+		"translate": ""
+	}, {
+		"id": "1281",
+		"content": "Nhân ngày 8/3, chúc các bạn nữ luôn luôn xinh đẹp, tươi trẻ và thành công để có thêm nhiều chàng trai đeo bám như lửa bám xăng, như răng bám lợi, như trời bám mây, như cây bám đất, như bít tất bám bàn chân.",
+		"translate": ""
+	}, {
+		"id": "1282",
+		"content": "Gọi em, em hỡi, em đâu? Trên bàn chợt thấy mấy câu em đề “Em đi mua sắm tối về Ở nhà anh nhớ phải nghe lời này Sáng ra xén cỏ tưới cây Rửa luôn đống chén… hôm rày anh quên Trong kho, mười một cái mền Đắp từ năm ngoái, anh đem giặt giùm Giày dép em quẳng lung tung Nhờ anh lượm cất vô thùng giùm em Mười lăm bao rác trên thềm Anh đem ra đổ ở bên bờ hồ Có vợ đẹp, sướng như tiên Gặp bạn phải nói em hiền đó nha Hôm nay ngày tám tháng ba Em nhường vinh dự “Chủ nhà” cho anh”",
+		"translate": ""
+	}, {
+		"id": "1283",
+		"content": "Đến ngày mồng tám tháng ba Thì tôi lại ước em là… đàn ông. Ước em đôi má phai hồng Đôi môi phai thắm, lại không… điệu đà Ước em… duyên bớt mặn mà Đừng đằm thắm quá, người ta yêu thầm! Ước em, bỗng cũng… “hâm hâm” Tự nhiên quên mất… cầm nhầm tay tôi!",
+		"translate": ""
+	}, {
+		"id": "1284",
+		"content": "Mùng 8 tháng 3 Chúc chị em ta Tay ôm nhiều hoa Giỏ đựng đầy quả Khỏi lo việc nha Được đi chơi xa Ăn uống thả ga Tiền không phải trả Nói năng rôm rả Cười tươi như hoa.",
+		"translate": ""
+	}, {
+		"id": "1285",
+		"content": "Hôm nay mùng tám tháng ba Làm thơ gửi tặng các bà, các cô Việc nhà mùng tám anh lo Còn các ngày khác để cho em làm Chẳng gì anh cũng là nam “Vọt “qua bụi cỏ em làm được không? Chẳng gì anh cũng là chồng Cấm em đánh mắt đàn ông bên ngoài Tắm xong em cứ năm dài Ru con say giấc hiệp hai anh chiều…!",
+		"translate": ""
+	}, {
+		"id": "1286",
+		"content": "Cám ơn các Cô giáo, đã dạy dỗ tôi nên người, đã truyền cho em biết bao kiến thức để em trở thành một người hữu dụng cho đất nước, xã hội....Chúc các cô giáo luôn vui tươi và ngập tràn hạnh phúc.",
+		"translate": ""
+	}]
+}

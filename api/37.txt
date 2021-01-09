@@ -1,0 +1,303 @@
+{
+	"result": [{
+		"id": "2671",
+		"content": "Tình bạn mãi mãi như ngôi sao lấp lánh trên bầu trời. Mặc dù chúng ta có cách xa nhau, nhưng mình luôn ở gần bên cậu mỗi khi cậu cần. Chúc sinh nhật vui vẻ và hạnh phúc cậu yêu quý!!!",
+		"translate": ""
+	}, {
+		"id": "2672",
+		"content": "Khi bạn nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn vui vẻ và luôn yêu đời. Chúc bạn sinh nhật vui vẻ và hạnh phúc. Happy Birthday",
+		"translate": ""
+	}, {
+		"id": "2673",
+		"content": "Tặng bạn niềm vui để bạn ngọt ngào, tặng bạn nụ cười để bạn rạng rỡ, tặng bạn nhiều điều tốt lành để bạn mãi là người bạn thân yêu của mình! Chúc bạn sinh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2674",
+		"content": "Hôm nay là ngày gì chắc chắn là một ngày không bình thường để kỉ niệm cho cột mốc ra đời của một đứa bất thường như mày đó bạn ạ. Chúc mày sinh nhật vui nhiều hơn chữ vui, tiền cao hơn chữ tiền và buồn ngắn hơn chữ buồn. Sinh nhật vui vẻ và bớt tưng tưng hâm hâm đi nhé.",
+		"translate": ""
+	}, {
+		"id": "2675",
+		"content": "Sinh nhật vui vẻ nhé, sớm chia tay bạn trai đi rồi tao đưa quà của tao và cả nhiều người nhờ gửi nha. Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "2676",
+		"content": "Chúc bạn luôn luôn “vui vẻ, tươi trẻ, mạnh khỏe, tính tình mát mẻ, cuộc đời suôn sẻ và luôn luôn tươi cười, yêu đời, ngời ngời sức sống\".",
+		"translate": ""
+	}, {
+		"id": "2677",
+		"content": "Nhân dịp sinh nhật lần thứ… của cậu, chúc cậu luôn tươi khỏe, trẻ đẹp. Cầu mong những gì may mắn nhất, tốt đẹp nhất và hạnh phúc nhất sẽ đến với cậu trong tuổi mới! Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "2678",
+		"content": "Tớ hạnh phúc khi thấy cậu cười, nhói đau khi thấy cậu khóc. Niềm vui của cậu là hạnh phúc của tớ, nỗi buồn của cậu là niềm đau trong tớ. Vì thế cậu hãy luôn lạc quan yêu đời và hãy để mọi buồn khổ biến mất khỏi tâm trí cậu. Chúc cậu một sinh nhật thật nhiều niềm vui và tuổi mới nhiều thành công! Happy Birthday ^^",
+		"translate": ""
+	}, {
+		"id": "2679",
+		"content": "Tình bạn là sự ràng buộc giữa tâm hồn giữa hai con người, mối ràng buộc này sẽ mạnh mẽ hơn nếu bánh được ăn chung. Chúc mày ngày ăn bánh vui vẻ, bạn tốt của tao!",
+		"translate": ""
+	}, {
+		"id": "2680",
+		"content": "Chúc bạn sinh nhật vui vẻ, sang tuổi mới xinh lại càng xinh, duyên lại càng duyên, yêu lại càng yêu ^^. Hihi. Happy Birthday!!! ^^",
+		"translate": ""
+	}, {
+		"id": "2681",
+		"content": "Sinh nhật thì năm nào cũng có, nhưng người bạn giống cậu thì chỉ đến một lần trong đời. Thật vui vì tớ đã gặp cậu. Chúc cậu mọi điều tốt đẹp trong ngày đặc biệt này!",
+		"translate": ""
+	}, {
+		"id": "2682",
+		"content": "Có người đã nói “Có một người bạn tốt giống như có một kho báu”. Tao rất hạnh phúc vì có một “kho báu” như mày. Chúc mày Sinh nhật thật vui nhé! Chúc cho mọi hạnh phúc và may mắn sẽ luôn ở bên mày. Happy birthday!",
+		"translate": ""
+	}, {
+		"id": "2683",
+		"content": "Chúc bạn luôn luôn “vui vẻ,tươi trẻ, mạnh khỏe, tính tình mát mẻ, cuộc đời suôn sẻ và luôn luôn “tươi cười, yêu đời, ngời ngời sức sống”.",
+		"translate": ""
+	}, {
+		"id": "2684",
+		"content": "Sinh nhật vui vẻ, 1 ngày lượm được cọc tiền, 1 tuần lượm được túi tiền, 1 tháng lượm được va li tiền, cả năm ôm tiền mà ngủ. Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "2685",
+		"content": "Chúc mày tuổi mới thêm nhiều niềm vui mới, may mắn hơn chút, thành tựu hơn chút. Trù cho mày sớm bị cảm nặng. Nhớ là không phải cảm sốt, cảm lạnh, cảm mạo mà là cảm nắng nhé. Hiểu ý tao chứ, chúc mày sớm sớm thoát ế.",
+		"translate": ""
+	}, {
+		"id": "2686",
+		"content": "Để tớ nói với bạn điều này nhé: bạn là đứa “điên” nhất trong hội bạn của tớ, nhưng lại là đứa đáng yêu, đáng tin cậy nhất và là người tuyệt vời nhất tớ từng gặp… Vì vậy, sinh nhật hãy tránh xa tớ ra nhé, tớ không muốn sống trong hội ế thêm giờ phút nào nữa”.",
+		"translate": ""
+	}, {
+		"id": "2687",
+		"content": "Chúc cậu sinh nhật thiệt là vui vẻ, hay ăn chóng lớn và thiệt là nhìu quà! Happy Birthday!!! ^^",
+		"translate": ""
+	}, {
+		"id": "2688",
+		"content": "Nếu phải viết một lời chúc sinh nhật cậu, tớ chỉ vẽ một trái tim - bởi vì đó là ý nghĩa mà tình bạn của chúng ta mang lại cho tớ.. Happy birthday!!",
+		"translate": ""
+	}, {
+		"id": "2689",
+		"content": "Tuổi mới ăn no chóng lớn, tiền bạc đầy nhà, gà đầy chuồng nhé bạn.",
+		"translate": ""
+	}, {
+		"id": "2690",
+		"content": "Nếu như có một ngày bạn thật sự bế tắc và mọi cánh cửa dường như đã khép lại với bạn thì mình sẵn sàng sẽ là người dìu bạn bước ra khỏi cánh cửa bóng tối ấy và cho bạn tin rằng thế giới vẫn còn nhiều thứ tốt đẹp hơn. Chúc bạn kể từ giây phút này có thêm những người bạn như thế. Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "2691",
+		"content": "Chúc bạn sinh nhật vui vẻ, tràn ngập tiếng cười, luôn luôn yêu đời và ngời ngời sức sống!",
+		"translate": ""
+	}, {
+		"id": "2692",
+		"content": "Bạn sẽ cảm thấy rất ấm áp khi biết rằng có ai đó thích bạn, ai đó nghĩ đến bạn, ai đó cần bạn, nhưng bạn sẽ còn cảm thấy ấm áp hơn khi biết rằng có ai đó chưa từng bao giờ quên ngày sinh nhật của bạn. Chúc mừng sinh nhật! HAPPY BIRTHDAY!!! ^^",
+		"translate": ""
+	}, {
+		"id": "2693",
+		"content": "Gởi đến bạn món quà này với cả tấm lòng và một lời chúc bạn sẽ hạnh phúc tràn đầy. Những điều hạnh phúc nhất luôn đến với bạn!. Happy Birthday!!!",
+		"translate": ""
+	}, {
+		"id": "2694",
+		"content": "Với cái tuổi thật đẹp này, xin chúc bạn có một sức khỏe tươi mới, thành công luôn luôn tới, về sắc diện thì ai nhìn cũng phải chới với, hihi. Happy Birthday!!!",
+		"translate": ""
+	}, {
+		"id": "2695",
+		"content": "Chúc mọi điều ước trong ngày sinh nhật của bạn đều trở thành hiện thực, hãy thổi nến trên bánh sinh nhật để ước mơ được nhiệm màu.",
+		"translate": ""
+	}, {
+		"id": "2696",
+		"content": "Xin chào bạn! Đây là tổng đài Hạnh phúc, rất hân hạnh được phục vụ bạn! Có người muốn chuyển tới bạn những yêu thương nồng ấm nhất, những chiếc ôm ngọt ngào nhất và những lời chúc tốt lành nhất nhân dịp Sinh nhật bạn. Hãy nở một nụ cười thật tươi tắn đón nhận nhé, may mắn sẽ đến với bạn trong tuổi mới này!",
+		"translate": ""
+	}, {
+		"id": "2697",
+		"content": "Một ngày bình yên, êm ấm bên người mà mình yêu. Nhưng nhớ đừng làm gì đi quá giới hạn “nhạy cảm” nhé bạn.",
+		"translate": ""
+	}, {
+		"id": "2698",
+		"content": "Trong ngày sinh nhật tốt đẹp này, chúc bạn những ngày thực sự hạnh phúc ở trong tầm tay của bạn. Và những ước mơ rực rỡ nhất đều có thể thực hiện được.",
+		"translate": ""
+	}, {
+		"id": "2699",
+		"content": "Một ngày Sinh nhật thật ý nghĩa, đầy vui tươi và ngập tràn hạnh phúc nhé! Chúc mày luôn cười tươi, cười duyên cười e thẹn,cười trẻ trung và cười các kiểu hoài hoài trong ngày hôm nay. Hehe… iu mày lém cơ!",
+		"translate": ""
+	}, {
+		"id": "2700",
+		"content": "Mừng sinh nhật bạn mong mọi điều tốt đẹp nhất sẽ đến với bạn!",
+		"translate": ""
+	}, {
+		"id": "2701",
+		"content": "Chúc bạn sang tuổi mới càng thêm xinh xắn, tươi tắn và trông càng … mắn.",
+		"translate": ""
+	}, {
+		"id": "2702",
+		"content": "Chúc mày tuổi mới ngày càng đẹp trai hơn, tiền luôn đầy túi, bụng ngày càng nhiều múi và người yêu chất cao hơn núi.",
+		"translate": ""
+	}, {
+		"id": "2703",
+		"content": "Mỗi người luôn có những thời điểm đánh dấu những phút giây đặc biệt, với tôi ngày bạn ra đời cũng là một thời điểm đặc biệt như vậy đấy ^^ . Chúc bạn sinh nhật nhiều niềm vui! Cầu mong hạnh phúc sẽ làm cuộc đời bạn luôn tràn đầy sự ngọt ngào. Iu bạn! ^.^",
+		"translate": ""
+	}, {
+		"id": "2704",
+		"content": "Lại sinh nhật nữa rồi, gặp nhau gấp đi bạn mình ơi. Biết bạn tôi đam mê tiền dữ lắm, nên chúc bạn ngày nào cũng lượm được tiền, giờ nào cũng nhặt được tiền, 4 giờ chiều mỗi tháng lại được thông báo trúng xổ số kiến thiết, ra đường chạy bộ cũng vấp cục tiền…nha nha :v. Chúc nhiều thế tối nay khao bạn bữa hậu hĩnh được rồi chứ hĩ :v",
+		"translate": ""
+	}, {
+		"id": "2705",
+		"content": "Thêm một tuổi mới rồi, mày phải mạnh mẽ lên nhé, cố gắng hơn, chăm chỉ hơn và sớm đạt nhiều thành công như tao với mày đã kì vọng. Happy birthday! ",
+		"translate": ""
+	}, {
+		"id": "2706",
+		"content": "Với cái tuổi thật đẹp này, xin chúc bạn có một sức khỏe tươi mới, thành công luôn luôn tới, về sắc diện thì ai nhìn cũng phải chới với, hihi. Happy Birthday !",
+		"translate": ""
+	}, {
+		"id": "2707",
+		"content": "Và cái ngày xui xẻo nhất của tao cũng đã tới rồi mày à. Nghe nói cũng là cái này mày bước xuống trần gian này mày nhỉ, thôi lỡ rồi thì tao chức tao sẽ may mắn hơn, hạnh phúc hơn, còn mày hưởng ké và được tương tự nhá. Hehe. Happy Birthday To You.",
+		"translate": ""
+	}, {
+		"id": "2708",
+		"content": "Tin nhắn này được gửi từ thuê bao trả trước đến một thuê bao trả sau còn nợ tiền tháng trước. Nhân ngày sinh nhật của mày, tao trân trọng thông báo xoá nợ tháng rồi của mày và ghi nợ này vào tháng kế nhé. Sinh nhật vui vẻ nghe mèo mập ú.",
+		"translate": ""
+	}, {
+		"id": "2709",
+		"content": "Tin nhắn này không có chất béo, không cholesterol và không chứa chất gây nghiện, nó chỉ có rất nhiều đường mà thôi. Nhưng dù nhiều đường thế nào đi chăng nữa nó cũng không bao giờ có thể ngọt ngào như bạn – người đang đọc nó. Chúc sinh nhật hạnh phúc và tràn đầy tiếng cười nha bạn!",
+		"translate": ""
+	}, {
+		"id": "2710",
+		"content": "Sáng nay tỉnh giấc… chợt nhớ ra là sinh nhật mày. Lại một chiếc lá vàng rơi nữa rồi… Mày lại già đi thêm một tuổi nữa rồi. Nhưng hãy nhớ tự yêu thương, chăm sóc bản thân tốt đi nhé…snvv",
+		"translate": ""
+	}, {
+		"id": "2711",
+		"content": "Không ngờ ngày hôm nay cũng là ngày mày thôi nôi lần thứ… của mày rồi. Bạn thân nhất Vịnh Bắc Bộ chúc mày sớm thoát cảnh đi về một mình. Bao năm đã trôi qua, đừng có chảnh nữa, trai nó sợ nó bỏ chạy hết, không ai rước mày đâu nha. Chúc mày sớm có người tổ chức sinh nhật thật to vào năm tới và nhiều năm tiếp theo. Lên kế hoạch thoát ế ngay và luôn nhé mày.",
+		"translate": ""
+	}, {
+		"id": "2712",
+		"content": "Gửi mày, cô gái yếu đuối. Nay là sinh nhật mày nhỉ, cố gắng hơn nữa trong năm tới để đặt những mong muốn mà mày vẫn luôn nghĩ ngợi. Mạnh mẽ lên nhé! Happy Birthday!",
+		"translate": ""
+	}, {
+		"id": "2713",
+		"content": "Hôm nay không như ngày hôm qua, hôm nay là một ngày đặc biệt, là ngày mà một thiên thần đáng yêu đã có mặt trên thế giới cách đây… năm. Luôn mỉm cười và may mắn nhé.",
+		"translate": ""
+	}, {
+		"id": "2714",
+		"content": "Bạn ơi nói nhỏ nghe nè, chúc mừng nhé, chúc mừng ngày yêu quái hạ phàm được tròn hai mươi năm rồi nhé. Chúc mày sớm tu thành chín quả, mau mau tiến hoá thành người, bớt cổ quái với điên điên đê bạn bè còn cậy nhờ chút đỉnh nha nhóc, ",
+		"translate": ""
+	}, {
+		"id": "2715",
+		"content": "Chúc bạn có những phút giây thật tuyệt vời bên bạn bè và người thân trong ngày quan trọng này. Hi vọng bạn luôn thành công và hạnh phúc trong cuộc sống. ",
+		"translate": ""
+	}, {
+		"id": "2716",
+		"content": "Với nhiều người, từ \"bạn bè\" chỉ là một chuỗi ký tự. Còn với mình, \"bạn\" là khởi nguồn của hạnh phúc và sức mạnh bởi vì... có cậu. Chúc cậu sinh nhật vui vẻ, bạn thân của mình!",
+		"translate": ""
+	}, {
+		"id": "2717",
+		"content": "Hãy để những lời chúc sâu lắng của tôi luôn ở bên cạnh cuộc sống tuyệt vời của bạn. Tôi hy vọng trong năm tới bạn luôn khỏe mạnh và thuận buồm xuôi gió trong công việc. Sinh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2718",
+		"content": "Bạn thân à, dù sau này có ít gặp nhau hay có quá nhiều công việc bận rộn cũng đừng quên rằng bất kì niềm vui nỗi buồn nào của mày cũng có tao đứng bên cạnh chia sẻ nhé. Sinh nhật vui vẻ nhé người yêu không bao giờ cưới, yêu thương vô bờ!",
+		"translate": ""
+	}, {
+		"id": "2719",
+		"content": "Chúc mừng sinh nhật vui vẻ, chúc ngày lượm được cọc tiền, một tuần lượm được túi tiền, một tháng lượm được vali tiền, cả năm ôm tiền mà ngủ",
+		"translate": ""
+	}, {
+		"id": "2720",
+		"content": "Bạn ơi, mấy khi chúc nhau lời đường hoàng, ngọt ngào. Nay đổi gió bày đặt viết ít chữ mừng sinh nhật thằng bạn thân ai náy lo cuả tao nè. Chúc mày sinh nhât siêu vui, siêu bựa, siêu lầy đẳng cấp siêu sao nha. Mau chống được thăng chức vèo vèo, kinh doanh phát đạt, sớm thành đại gia để bọn tao còn được mượn tiền dài dài nghen mây.",
+		"translate": ""
+	}, {
+		"id": "2721",
+		"content": "Một nghiên cứu mới đây chỉ ra rằng, tiệc sinh nhật có rất nhiều lợi ích cho tuổi thọ con người, ai mà có càng nhiều tiệc sinh nhật thì sẽ càng sống lâu đó. Chúc mừng sinh nhật bạn thân.",
+		"translate": ""
+	}, {
+		"id": "2722",
+		"content": "Chúc ấy luôn ấm áp, cả bên trong lẫn bên ngoài.",
+		"translate": ""
+	}, {
+		"id": "2723",
+		"content": "Cậu này, sinh nhật cậu mà tớ không biết gửi lời chúc đến cậu thế nào cho hay cả. Tớ chỉ mong tình bạn của chúng mình mãi mãi bền lâu. Sinh nhật thật vui cậu nhé, tớ luôn bên cậu!^^",
+		"translate": ""
+	}, {
+		"id": "2724",
+		"content": "Có thể cả thế giới sẽ không nhớ và không biết đến ngày của bạn nhưng mình thì sẽ luôn nhớ và biết đến những ngày đặc biệt này. Chúc bạn mỗi năm đều có ngày vui vẻ như vậy. Happy Birthday !",
+		"translate": ""
+	}, {
+		"id": "2725",
+		"content": "Mừng sinh nhật cún yêu của tớ. Chúc cậu vẫn luôn dễ thương và lầy lội, chơi hết tuổi trẻ để cùng nhau trưởng thành hơn bạn nhé!",
+		"translate": ""
+	}, {
+		"id": "2726",
+		"content": "Hôm nay không như ngày hôm qua, hôm nay là một ngày đặc biệt, là ngày mà một thiên thần xinh đẹp đã có mặt trên thế giới cách đây (18 năm -tự thay đổi’). Luôn mỉm cười và may mắn nhé.",
+		"translate": ""
+	}, {
+		"id": "2727",
+		"content": "Xin chúc mừng sinh nhật của một trong những công dân xinh đẹp, mỹ miều, kiêu sa yêu kiều nhất trên quả đất này.",
+		"translate": ""
+	}, {
+		"id": "2728",
+		"content": "Chúc bạn có những phút giây thật tuyệt vời bên bạn bè và người thân trong ngày quan trọng này. Hi vọng bạn luôn thành công và hạnh phúc trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "2729",
+		"content": "Mừng sinh nhật bạn thân, tao sẽ dành tặng cho mày cả thanh xuân này, chăm sóc tao tốt hơn và yêu thương tao nhiều hơn mày nhé.",
+		"translate": ""
+	}, {
+		"id": "2730",
+		"content": "Chúc bạn sinh nhật vui vẻ, sang tuổi mới xinh lại càng xinh, duyên lại càng duyên, yêu lại càng yêu.",
+		"translate": ""
+	}, {
+		"id": "2731",
+		"content": "Chúc bạn luôn luôn “vui vẻ, tươi trẻ, mạnh khoẻ, tính tình mát mẻ, cuộc đời suôn sẻ” và luôn luôn “tươi cười, yêu đời, ngời ngời sức sống”. ",
+		"translate": ""
+	}, {
+		"id": "2732",
+		"content": "Chúc bạn sinh nhật vui vẻ, đầy ắp tiếng cười, tình yêu thương bên cạnh người thân!. Chúc bạn tuổi mới thêm nhiều thành công mới!. Happy Birthday! ❤",
+		"translate": ""
+	}, {
+		"id": "2733",
+		"content": "Happy Birthday! Chúc bạn của tớ Sinh nhật đầy ắp yêu thuơng và tiếng cười, thêm tuổi, thêm hạnh phúc, thêm nhiều niềm zui nhé!!! ^^",
+		"translate": ""
+	}, {
+		"id": "2734",
+		"content": "Chúc mày sinh nhật vui vẻ, bớt lùn, bớt mập và bớt ngáy mỗi đêm nhé bạn thân.",
+		"translate": ""
+	}, {
+		"id": "2735",
+		"content": "Sáng nay tỉnh giấc…chợt nhớ nay là sinh nhật cậu. Lại thêm một chiếc lá vàng rơi nữa rùi. Ai bảo thêm tuổi là già nhỉ? Ngốc quá! Thêm tuổi là thêm nhiều yêu thương. Chúc cậu sinh nhật thật vui. Yêu cậu!",
+		"translate": ""
+	}, {
+		"id": "2736",
+		"content": "Trên đời này, có lẽ mày chính là một phần gia đình của tao khi sống ở nơi xa lạ này. Sinh nhật hạnh phúc và vui vẻ nhé bạn thân kiêm mẹ trẻ của tao. Yêu thương mày!",
+		"translate": ""
+	}, {
+		"id": "2737",
+		"content": "Sinh nhật vui vẻ, bạn thân nhất của tớ, người bạn tốt nhất trong những người bạn tốt nhất. Chúc cậu có một sinh nhật tuyệt vời nhất trong số những sinh nhật cậu đã từng trải qua.",
+		"translate": ""
+	}, {
+		"id": "2738",
+		"content": "Lại một năm nữa qua đi, sống trên mặt đất vẫn tốt hơn nhiều sống dưới đất mày ạ. Chúc mày sinh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2739",
+		"content": "Chúc bạn tôi tuổi mới thêm nhiều niềm vui, gạt bớt điềm xui, tiền chất cao như núi, bụng thoát kiếp một múi, công việc êm xui. Mừng một ngày sinh nhật thật đặc biệt cùng khởi đầu mới đầy nhiệm mầu.",
+		"translate": ""
+	}, {
+		"id": "2740",
+		"content": "Có thể cả thế giới sẽ không nhớ đến ngày sinh nhật của mày, nhưng tao sẽ không bao giờ quên ngày sinh nhật của mày, và mày đừng quên ngày sinh nhật của tao nhé. Thế đấy, chúc mày sinh nhật vui vẻ, hay ăn chóng lớn, kiếm được nhiều tiền nè :v",
+		"translate": ""
+	}, {
+		"id": "2741",
+		"content": "Hôm nay là ngày gì mà mọi người đều chúc mừng mày vậy nhỉ? Thôi thì tao cũng chúc ké nha. Chúc ngày mai mày thật vui vẻ và quan tâm tao nhiều hơn, chứ cũng gần qua ngày hôm nay rồi hehe.",
+		"translate": ""
+	}, {
+		"id": "2742",
+		"content": "Giống như cơn gió thổi qua cành cây, tình bạn thổi qua cuộc đời chúng ta. Nhờ đó, chúng ta mới gắn bó như ngày hôm nay. Chúc cậu sinh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2743",
+		"content": "Chúc cậu có những phút giây thật tuyệt vời bên bạn bè và người thân trong ngày quan trọng này. Hi vọng cậu luôn thành công và hạnh phúc trong cuộc sống. Happy Birthday ^^",
+		"translate": ""
+	}, {
+		"id": "2744",
+		"content": "Mình rất muốn nói với bạn rằng bạn là một người rất đặc biệt, và chúc bạn tất cả những gì tuyệt vời nhất trong ngày sinh nhật. Happy birthday ^^",
+		"translate": ""
+	}, {
+		"id": "2745",
+		"content": "Chồng yêu của vợ! Nay là sinh nhật chồng, vợ và con chúc chồng yêu sinh nhật vui vẻ, ngày càng mạnh khỏe, ngày càng yêu vợ và con hơn. Cố gắng ăn thật nhiều vào nha chồng, vợ yêu chồng nhiều lắm!!! ❤﻿",
+		"translate": ""
+	}]
+}

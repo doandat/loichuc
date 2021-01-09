@@ -1,0 +1,239 @@
+{
+	"result": [{
+		"id": "1388",
+		"content": "Mẹ! cám ơn mẹ rất nhiều vì mẹ đã sinh ra con và nuôi con khôn lớn. Con luôn cầu mong bố mẹ mạnh khoẻ và hạnh phúc không chỉ riêng ngày 8/3. Lúc nào mẹ cũng ở trong trái tim con. Con yêu mẹ nhiều, mẹ kính yêu của con.",
+		"translate": ""
+	}, {
+		"id": "1389",
+		"content": "Nhân ngày Quốc tế Phụ nữ 8/3, con chúc mẹ nhiều sức khỏe và luôn nở nụ cười trên môi. Ở nơi xa, con chỉ biết cầu chúc mọi điều tốt lành sẽ đến với mẹ!",
+		"translate": ""
+	}, {
+		"id": "1390",
+		"content": "Mẹ ơi! Mẹ là món quà quý giá nhất mà ông trời đã ban cho con. Mong mẹ sẽ luôn được mạnh khỏe để mãi ở bên chúng con.",
+		"translate": ""
+	}, {
+		"id": "1391",
+		"content": "Mẹ yêu ơi! Con chúc mẹ yêu luôn khỏe, trẻ đẹp mãi trong mắt của cha, bao la tình thương khi con lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối. Bên mẹ cha sum vầy là hạnh phúc nhất của đời con. Con hôn mẹ!",
+		"translate": ""
+	}, {
+		"id": "1392",
+		"content": "Trong cuộc đời này, mẹ là người phụ nữ con yêu thương nhất. Mẹ hãy luôn vui vẻ và thật mạnh khỏe để lúc nào chúng con cũng có mẹ ở bên. Mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "1393",
+		"content": "Nhân ngày 8/3 con kính chúc mẹ luôn luôn mạnh khoẻ, hạnh phúc, vui vẻ, luôn sát cánh bên con và cho con những lời khuyên để con vững bước trong cuộc sống mẹ nhé. Con yêu mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "1394",
+		"content": "Nhân ngày 8/3 con chúc mẹ nhiều sức khỏe và nụ cười luôn nở trên môi mẹ. Con ở xa mẹ quá nên không thể chăm sóc cho mẹ được. Mẹ nhớ giữ gìn sức khỏe! Mong cho mọi điều tốt lành sẽ đến với mẹ! Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "1395",
+		"content": "Chúc mừng mẹ - Người phụ nữ rất xinh đẹp, rất đảm đang và vô cùng tuyệt vời… Đặc biệt rất thương chồng thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu mẹ nhiều lắm. Con hạnh phúc vì con là con của mẹ.",
+		"translate": ""
+	}, {
+		"id": "1396",
+		"content": "Nhân ngày Quốc tế Phụ nữ 8/3, con chúc mẹ luôn tươi cười, dồi dào sức khỏe và luôn là người phụ nữ đẹp nhất trong mắt bố con và mọi người.",
+		"translate": ""
+	}, {
+		"id": "1397",
+		"content": "Con cảm ơn mẹ đã sinh ra con và nuôi dưỡng con cho đến ngày trưởng thành. Cám ơn mẹ về những tháng ngày nhọc nhằn đã làm lưng mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà mẹ đã từng âm thầm chịu đựng suốt những năm tháng qua… Con chúc mẹ của con luôn luôn mạnh khỏe và vui vẻ, con yêu mẹ nhiều!",
+		"translate": ""
+	}, {
+		"id": "1398",
+		"content": "Hẳn mẹ sẽ bất ngờ khi nhận được món quà này của con?! Mẹ à, con chưa từng nói con yêu mẹ nhưng sâu thẳm đáy lòng, con luôn biết ơn và coi mẹ là động lực sống đấy.",
+		"translate": ""
+	}, {
+		"id": "1399",
+		"content": "Gửi mẹ yêu của con! Con chẳng biết nói gì hơn, nhân ngày 8-3 con chỉ biết chúc mẹ luôn luôn mạnh khoẻ, hạnh phúc và luôn luôn là người mẹ mà con yêu quý nhất!",
+		"translate": ""
+	}, {
+		"id": "1400",
+		"content": "Nhân ngày Quốc tế Phụ nữ con chúc mẹ luôn mạnh khỏe, luôn luôn vui cười, sống thọ với con với cháu.",
+		"translate": ""
+	}, {
+		"id": "1401",
+		"content": "Chúc mừng mẹ nhân ngày 8/3! Cảm ơn mẹ vì tất cả sự chăm sóc và tình yêu mẹ đã dành cho con. Con chúc mẹ sẽ luôn khỏe mạnh, vui vẻ, xinh đẹp và an bình. Con hứa sẽ cố gắng hết sức để mẹ được hạnh phúc mỗi ngày.",
+		"translate": ""
+	}, {
+		"id": "1402",
+		"content": "Gửi mẹ yêu của con! Con biết có những lúc con đã làm mẹ phải bận lòng về con. Nhưng con luôn yêu mẹ, con sẽ cố gắng trở thành người con ngoan và thành đạt. Mẹ hãy tin tưởng con của mẹ nhé. Vì con là con của mẹ mà. Mẹ hãy luôn mạnh khỏe để ở bên con và giúp con vượt qua mọi khó khăn trong cuộc sống, mẹ nhé",
+		"translate": ""
+	}, {
+		"id": "1403",
+		"content": "Kính chúc mẹ không chỉ là trong ngày 8/3 mà tất cả 365 ngày đều luôn luôn vui vẻ, hạnh phúc, để cho con luôn được nhìn thấy nụ cười, ánh mắt, cho con được cảm nhận tình yêu thương của mẹ suốt cuộc đời...",
+		"translate": ""
+	}, {
+		"id": "1404",
+		"content": "Mẹ ơi, ngày hôm nay con chúc mẹ hạnh phúc với gia đình, mãi trẻ đẹp để nuôi dưỡng con, chỉ bảo cho con trong đường đời. Mẹ vui thì con cũng rất hạnh phúc. Mỗi nụ cười của mẹ đều làm ấm lòng con. Dù con có đi khắp phương trời, thì mỗi giây, mỗi phút con đều nghĩ về mẹ, người mẹ hiền của con.",
+		"translate": ""
+	}, {
+		"id": "1405",
+		"content": "Con luôn mong mẹ vui vẻ, hạnh phúc không chỉ riêng trong ngày 8/3 mà tất cả 365 ngày của năm mẹ đều trọn niềm vui như thế. Để con luôn được nhìn thấy nụ cười, ánh mắt, cho con cảm nhận tình yêu thương của mẹ suốt đời. Bởi nụ cười của mẹ mới cho con hạnh phúc trọn vẹn khi sống trên đời này.",
+		"translate": ""
+	}, {
+		"id": "1406",
+		"content": "Chúc mừng mẹ yêu quý của con! Mẹ ơi, con yêu mẹ nhiều lắm. Con chúc mẹ luôn mạnh khỏe và ở bên con, giúp con vượt qua mọi khó khăn trong cuộc sống, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "1407",
+		"content": "Mẹ à! Rất ít khi con nói con yêu mẹ, không phải do con không yêu mẹ, chỉ là do con nghẹn ngào khi cất lên 3 tiếng “Con yêu mẹ”. Con rất nhớ mẹ! Cảm ơn mẹ đã nuôi nấng con trưởng thành. Kính chúc mẹ luôn khoẻ mạnh!",
+		"translate": ""
+	}, {
+		"id": "1408",
+		"content": "Nhân ngày 8/3 con xin gửi tới mẹ lời chúc tốt đẹp nhất. Con chúc mẹ sẽ sống lâu trăm tuổi và mãi mãi ở bên cạnh chúng con. Con yêu mẹ rất nhiều!",
+		"translate": ""
+	}, {
+		"id": "1409",
+		"content": "Mẹ! Con luôn cầu mong mẹ mạnh khoẻ và hạnh phúc không chỉ riêng ngày 8/3. Lúc nào mẹ cũng ở trong trái tim con. Con yêu mẹ nhiều, mẹ kính yêu của con.",
+		"translate": ""
+	}, {
+		"id": "1410",
+		"content": "Gửi mẹ yêu của con! Con không biết nói gì hơn, nhân ngày 8/3 con chỉ biết chúc mẹ luôn luôn mạnh khoẻ, hạnh phúc và luôn luôn là người mẹ mà con yêu quý nhất!",
+		"translate": ""
+	}, {
+		"id": "1411",
+		"content": "Lại một năm nữa chúng con ở xa nhà, nhưng đối với chúng con Mẹ luôn ở trong trái tim. Chúng con chúc Mẹ luôn được Hạnh Phúc. Gởi tặng Mẹ bó hoa tình cảm từ trái tim của các anh em con.",
+		"translate": ""
+	}, {
+		"id": "1412",
+		"content": "Mẹ ơi con cám ơn mẹ khi đã sinh ra con và nuôi dưỡng con cho đến ngày trưởng thành, cám ơn mẹ về những tháng ngày nhọc nhằn... Con chúc mẹ của con mỗi ngày đều vui vẻ và sống khỏe, con yêu mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "1413",
+		"content": "Tạo hóa này cho con có một gia đình tuyệt vời, một người mẹ hoàn hảo. Mẹ luôn yêu con hơn bản thân mình, những gì có thể làm được mẹ luôn hy sinh cho con, mẹ một người mẹ mẫu mực, người duy nhất trong đời lúc nào cũng yêu thương, quan tâm, lo lắng cho con .Từ đáy lòng này không có từ nào để diễn tả hết sự kính trọng, lòng biết ơn và tình cảm của con với mẹ cả... Con chỉ biết nói 1 điều đơn giản và quen thuộc \"Mẹ ơi, con yêu mẹ, yêu mẹ nhiều lắm!\".",
+		"translate": ""
+	}, {
+		"id": "1414",
+		"content": "Con chúc mẹ ngày 8/3 thật vui vẻ, hạnh phúc và thật nhiều sức khỏe. Mẹ phải cười nhiều lên nhé. Con yêu mẹ rất nhiều!",
+		"translate": ""
+	}, {
+		"id": "1415",
+		"content": "Gửi mẹ: Ngày tháng trôi đi với biết bao vất vả nhọc nhằn, nắng mưa dãi dầu đều trút lên vai người mẹ. Tất cả đều xuất hiện trên gương mặt của mẹ vào dịp cuối năm. Nay con đã về thăm mẹ, nhìn thấy mẹ con cảm thấy xót xa lắm! Trời mùa đông năm nay lạnh buốt thấu xương. Đôi mắt mẹ nhòe đi vì cặm cụi suốt cả tuổi xuân dành cho hết con … Con cầu mong mẹ có thật nhiều sức khỏe và ở nơi xa ấy có một người con của mẹ luôn mong mẹ được vui cười.",
+		"translate": ""
+	}, {
+		"id": "1416",
+		"content": "Chúc mừng mẹ yêu quý của con! Mẹ ơi, con yêu mẹ nhiều lắm. Có những lúc con đã làm mẹ phải bận lòng về con phải không mẹ. Nhưng con luôn yêu mẹ, yêu mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên con, giúp con vượt qua mọi khó khăn trong cuộc sống, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "1417",
+		"content": "Mẹ à, con chưa từng nói con yêu mẹ nhưng sâu thẳm đáy lòng, con luôn biết ơn và coi mẹ là động lực sống. Con mong mẹ luôn mạnh khỏe để mãi mãi cuộc đời này, con luôn được ở bên mẹ.",
+		"translate": ""
+	}, {
+		"id": "1418",
+		"content": "Khi con ốm, người ở bên giường bệnh chăm sóc con ngày đêm là mẹ. Khi con gặp thất bại trên đường đời, người ở bên động viên con là mẹ. Khi con buồn vì chuyện tình cảm không suôn sẻ, người an ủi con vẫn là mẹ… Mẹ chính là người tiếp thêm sức mạnh cho con, vì vậy mẹ hãy luôn giữ gìn sức khỏe nhé. Con cầu chúc mẹ có thật nhiều sức khỏe và vui tươi trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "1419",
+		"content": "Mẹ đừng buồn khi ngày 8/3 không có con ở bên, vì ở nơi xa nhưng con luôn nhớ mẹ. Con yêu mẹ thật nhiều.",
+		"translate": ""
+	}, {
+		"id": "1420",
+		"content": "Chúc mừng mẹ! Chúc mừng người phụ nữ rất xinh đẹp, rất đảm đang và vô cùng tuyệt vời... Đặc biệt rất thương chồng, thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu mẹ nhiều lắm. Con hạnh phúc vì con là con của mẹ - một người mẹ đảm đang và nhân hậu!",
+		"translate": ""
+	}, {
+		"id": "1421",
+		"content": "Mẹ yêu ơi! con chúc mẹ yêu luôn khỏe, trẻ đẹp mãi trong mắt của cha, bao la tình thương khi con lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối.",
+		"translate": ""
+	}, {
+		"id": "1422",
+		"content": "Má ơi, con học xa nhà mới thấy nhớ má và gia đình như thế nào, chẳng đợi đến dịp này con mới thốt lên ba tiếng \"con yêu má\", đừng lo cho con, hãy \"cát tường\" má nhé.",
+		"translate": ""
+	}, {
+		"id": "1423",
+		"content": "Hôm nay là ngày 8/3 là ngày của mẹ nên con xin chúc mẹ mọi điều tốt lành. Ngày nào mẹ cũng bận rộn chăm sóc chúng con. Hôm nay mẹ hãy nghỉ ngơi, đi chơi vui vẻ nhé. Chúng con xin hứa sẽ làm hết mọi việc nhà, nấu ăn, dọn dẹp nhà cửa. Chúc mẹ một ngày thật hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "1424",
+		"content": "Nhân ngày 8/3, con chúc mẹ luôn vui vẻ - sức khoẻ dồi dào - luôn xinh đẹp trong mắt bố con và mọi người.",
+		"translate": ""
+	}, {
+		"id": "1425",
+		"content": "8-3 sắp đến rồi mà con vẫn chưa có gì để tặng cho mẹ cả. Mẹ là người quan trọng nhất trong cuộc đời của con. Mẹ là người đã che chở cho con, những lúc con buồn, mẹ luôn an ủi cho con... Nhưng con chưa bao giờ tặng một món quà gì cho mẹ. Có lẽ con vẫn chưa ý thức được mẹ quan trọng như thế nào đối với con...",
+		"translate": ""
+	}, {
+		"id": "1426",
+		"content": "Ngày 8/3, con xin chúc mừng mẹ - người phụ nữ xinh đẹp, đảm đang và vô cùng tuyệt vời… của con. Con yêu mẹ nhiều lắm. Con hạnh phúc vì con là con của mẹ.",
+		"translate": ""
+	}, {
+		"id": "1427",
+		"content": "Mẹ thân yêu, mẹ là nguồn cảm hứng của con. Mẹ là động lực để con phấn đấu hết mình. Con cám ơn mẹ vẫn luôn ủng hộ con. Chúc mừng ngày Quốc tế Phụ nữ, mẹ của con!",
+		"translate": ""
+	}, {
+		"id": "1428",
+		"content": "Ngày của mẹ mà con không thể ở gần để trực tiếp tặng hoa, quà cho mẹ hay đơn giản là dọn dẹp giúp mẹ căn nhà nhỏ thân yêu. Con xin lỗi mẹ! Con rất nhớ mẹ, mẹ là nguồn sống của con. Mẹ luôn theo sát những bước đi của con. Cảm ơn mẹ và chúc mẹ luôn khoẻ mạnh.",
+		"translate": ""
+	}, {
+		"id": "1429",
+		"content": "Con cảm ơn mẹ, vì đã sinh ra và vất vả nuôi con khôn lớn, con gái mẹ - một cô gái cung Bach Duong bướng bỉnh đã nhiều lúc làm mẹ phải bận lòng. Nhưng con luôn yêu mẹ, yêu mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên con, giúp con vượt qua mọi khó khăn trong cuộc sống, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "1430",
+		"content": "Mẹ yêu quý của con! Mẹ ơi, con yêu mẹ nhiều lắm. Nhiều lúc con đã làm mẹ phải bận lòng về con phải không mẹ. Nhưng con luôn yêu mẹ, yêu mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên con, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "1431",
+		"content": "Cám ơn Mẹ, đã sinh ra con và nuôi dưỡng con cho đến ngày trưởng thành. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt hơn bao năm qua….Con chúc Mẹ của con mỗi ngày đều vui vẻ và sống khỏe, con yêu Mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "1432",
+		"content": "Trong lòng con rất muốn nói yêu mẹ nhưng con chưa từng làm được điều ấy. Con run sợ nếu 1 ngày mẹ không còn ở bên con. Con hoang mang khi nhìn thấy mái tóc mẹ càng ngày càng thêm nhiều sợi bạc. Con nghẹn ngào khi mắt mẹ hằn lên tuổi tháng năm. Đôi tay mẹ chai sần vì công việc vất vả để nuôi con. Tấm lưng mẹ dãi nắng dầm mưa. Từ đáy lòng, con muốn nói con yêu mẹ rất nhiều!. Con sẽ ôm mẹ thật chặt để biết mẹ vẫn ở bên con, để tâm hồn và trái tim yếu đuối của con mãi bình yên trong tình yêu của mẹ! Con chúc mẹ của con luôn mạnh khỏe và vui tươi!",
+		"translate": ""
+	}, {
+		"id": "1433",
+		"content": "Vì con biết mẹ ở bên con không lâu hoàn cảnh không cho phép mẹ với con được ở bên nhau nhưng xin mẹ biết cho rằng những điều vui sướng và phiền muộn đến với con thì người đầu tiên con muôn san sẻ cùng là mẹ. Con biết con là niềm tự hào của bố mẹ vì được một người con vào đại học.",
+		"translate": ""
+	}, {
+		"id": "1434",
+		"content": "Mẹ thân yêu, mẹ luôn ở bên con, bất cứ khi nào con cần mẹ nhất. Mẹ luôn dẫn bước và cho con biết điều hay lẽ phải. Chúc mừng ngày Quốc tế Phụ nữ, mẹ của con!",
+		"translate": ""
+	}, {
+		"id": "1435",
+		"content": "Xin gửi mẹ yêu: Ngày của mẹ mà con không có mặt để mua cho mẹ một món quà gì đó. Con rất nhớ mẹ, mẹ là nguồn sống của con. Mẹ luôn theo sát những bước đi của con. Cảm ơn mẹ và chúc mẹ luôn khoẻ mạnh.",
+		"translate": ""
+	}, {
+		"id": "1436",
+		"content": "Dù con có khôn lớn con vẫn là con của mẹ, mẹ mãi là người mẹ yêu quý của con, con luôn mong có mẹ bên cạnh! Con chúc mẹ có nhiều sức khỏe để dẫn dắt chúng con trên đường đời đầy chông gai này.",
+		"translate": ""
+	}, {
+		"id": "1437",
+		"content": "Mùng 8/3 của mẹ, con muốn mẹ thật vui trong ngày hôm nay. Mẹ nhé. Con yêu mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "1438",
+		"content": "Người phụ nữ xinh đẹp, người bạn lý tưởng và người mẹ vĩ đại. Với con, mẹ chính là như thế và còn hơn thế nữa. Con thật may mắn và tự hào vì có người mẹ như mẹ.",
+		"translate": ""
+	}, {
+		"id": "1439",
+		"content": "Mẹ ơi! Mẹ đã bao gian nan trải qua 9 tháng 10 ngày để sinh hạ ra con. Rồi mẹ lại chăm bẵm cho con từng chút, từng chút một để con trở thành một người con ngoài và biết vâng lời cha mẹ. Mẹ đã dạy con phải biết thương yêu người khác, phải biết tự chăm lo cho bản thân mình khi lớn lên. Mẹ đã dạy con rất nhiều, nhiều lắm mẹ ơi. Những lời dạy của mẹ con đều khắc cốt ghi tâm. Con xin lỗi khi con đã nói dối mẹ. Mẹ đã nuôi nấng con qua bao năm để con nên người. Vậy mà đến ngày hôm nay con mới có dịp đền đáp công ơn của mẹ! Mẹ ơi, ngày nay, con chúc mẹ hạnh phúc với gia đình, mãi trẻ đẹp để nuôi dưỡng con, chỉ bảo cho con trong đường đời. Con mong mẹ luôn vui vẻ. Mẹ vui thì con cũng rất hạnh phúc. Mỗi nụ cười của mẹ đều làm ấm lòng con. Dù con có đi khắp phương trời, thì mỗi giây, mỗi phút con đều nghĩ về mẹ! Người mẹ hiền của con.",
+		"translate": ""
+	}, {
+		"id": "1440",
+		"content": "Con nhớ những ngày bé thơ rong ruổi cùng mẹ trên những chặng đường dài. Nhớ chiếc bánh mẹ nhịn ăn phần con ngày mưa bão. Nhớ những đêm đông mẹ thức trắng đêm đan áo len cho con... Con nhớ tất cả và càng kính trọng, thương mẹ hơn.",
+		"translate": ""
+	}, {
+		"id": "1441",
+		"content": "Dù chưa bao giờ tặng mẹ một món quà hay bó hoa nhân ngày 8-3, nhưng con vẫn luôn muốn nói với mẹ, con yêu mẹ nhiều lắm. Mẹ là người phụ nữ vĩ đại và kiên cường nhất trong trái tim con.",
+		"translate": ""
+	}, {
+		"id": "1442",
+		"content": "Ngày 8-3 đã tới thật mau. Con chúc mẹ có nhiều sức khỏe để có thể dẫn dắt chúng con đi trên đường đời. Mẹ mãi mãi là người mẹ yêu quý của con, con rất mong luôn có mẹ bên cạnh!",
+		"translate": ""
+	}, {
+		"id": "1443",
+		"content": "Chúa không thể có mặt ở khắp mọi nơi, do đó người đã phái thiên sứ của người xuống trần gian để chăm sóc, nuôi dưỡng và bao bọc con. Con yêu mẹ. Chúc mừng ngày Quốc tế Phụ nữ!",
+		"translate": ""
+	}, {
+		"id": "1444",
+		"content": "Chúc mừng mẹ nhân ngày Quốc tế phụ nữ. Mẹ là người mẹ tuyệt vời nhất đời con. Con xin cảm ơn mẹ đã nuôi dưỡng con trưởng thành. Tình yêu của con dành cho mẹ sẽ mãi mãi trường tồn với thời gian. Con xin chúc mẹ khỏe mạnh, hạnh phúc và xinh đẹp mỗi ngày. Yêu mẹ bằng tất cả trái tim mình.",
+		"translate": ""
+	}, {
+		"id": "1445",
+		"content": "Mẹ là tuyệt tác của tạo hóa, nếu không có mẹ sẽ không có con bây giờ. Con cám ơn mẹ đã sinh con ra trên đời, luôn khích lệ và truyền động lực cho con. Chúc mừng ngày Quốc tế Phụ nữ, mẹ của con!",
+		"translate": ""
+	}, {
+		"id": "1446",
+		"content": "Em yêu hôm nay là ngày phụ nữ Việt Nam ngày dành riêng để thể hiện lòng biết ơn sự quan tâm đến phụ nữ. Anh muốn gửi tới em, người vợ yêu quý nhất của anh trọn vẹn khối óc và trái tim anh, gửi tới em trọn vẹn tấm lòng anh, gửi tới em tất cả những gì cao quý và thiêng liêng nhất của anh.",
+		"translate": ""
+	}]
+}

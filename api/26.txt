@@ -1,0 +1,119 @@
+{
+	"result": [{
+		"id": "1941",
+		"content": "Mùa xuân Tân Sửu đã sang Kính chúc ông bà An Khang Thịnh Vượng Năm mới giảm bớt lo toan Giữ gìn sức khỏe hân hoan tuổi già",
+		"translate": ""
+	}, {
+		"id": "1942",
+		"content": "Năm cũ đã qua năm mới lại đến Hôm nay con đến kính chúc Ông Bà có là sức khỏe Nhà cửa sung túc, hạnh phúc khang an, ăn trên thương bang. Phúc Lộc thọ tài, làm ăn tấn phát, năm mới gặp nhiều may mắn. Ông Bà đừng quên lì xì cho con.",
+		"translate": ""
+	}, {
+		"id": "1943",
+		"content": "Con vui khi thấy ông bà Năm mới thêm tuổi nhưng rất yêu đời Chúc ông chúc bà vui tươi Sống mãi đời đời con cháu ấm no",
+		"translate": ""
+	}, {
+		"id": "1944",
+		"content": "Kính chúc ông bà – Sống lâu trăm tuổi Mùa xuân đến con (cháu) xin chúc ông bà một năm mới nhiều may mắn, sẽ sống lâu thật lâu vui cùng con cháu ạ.",
+		"translate": ""
+	}, {
+		"id": "1945",
+		"content": "Con xin kính chúc ông bà một năm mới thật hạnh phúc, tuy không được ở cạnh với ông bà, nhưng con sẽ không bao giờ quên được công dưỡng dạy mà ông bà đã dành cho con.",
+		"translate": ""
+	}, {
+		"id": "1946",
+		"content": "Lại một mùa xuân nữa đã về, tóc của ông lại thêm sợi bạc. Năm nay cháu đã trưởng thành rất nhiều rồi ông ạ, ông đừng suy nghĩ nhiều nữa, hãy chăm lo thật tốt cho sức khỏe và sống vui vẻ để tóc của ông sẽ không phai màu theo năm tháng ông nhé. Chúc ông năm mới gặp thật nhiều may mắn và hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "1947",
+		"content": "Chúc ông bà có một bầu trời sức khỏe, một biển cả tình thương, một gia đình thịnh vượng.",
+		"translate": ""
+	}, {
+		"id": "1948",
+		"content": "Năm cũ đã qua năm mới lại đến Hôm nay con đến kính chúc Ông Bà có là sức khỏe Nhà cửa sung túc, hạnh phúc khang an, ăn trên thương bang Phúc Lộc thọ tài, làm ăn tấn phát, năm mới gặp nhiều may mắn.",
+		"translate": ""
+	}, {
+		"id": "1949",
+		"content": "Năm sớm, con xin kính chúc ông bà sống thật khỏe mạnh, gặp thật nhiều may mắn, có thật nhiều niềm vui bên con cháu ạ.",
+		"translate": ""
+	}, {
+		"id": "1950",
+		"content": "Mỗi mùa xuân tới đông qua Chúng con lại tới kính thăm ông bà Mỗi năm thêm một tuổi già Nhưng mà vẫn sung sức, dẻo dai tháng ngày Tết này con vẫn ước mong Sang năm năm nữa đi thăm ông bà.",
+		"translate": ""
+	}, {
+		"id": "1951",
+		"content": "Hoa bên nhà nở rộ, Báo rằng Tết đã sang Mang theo nhiều suy nghĩ. Ông bà tuy lớn tuổi Nhưng vẫn vui với đời, Lòng con ơn nặng trĩu Công lao lớn như trời. Năm mới thật mạnh khỏe, Hạnh phúc luôn ngời ngời Con xin nguyện với đời Chăm sóc mãi không thôi.",
+		"translate": ""
+	}, {
+		"id": "1952",
+		"content": "Chúc ông bà một tô như ý, Chúc cô chú một chén an khang, Chúc anh chị một dĩa tài lộc. Trẻ mãi không già, mặn mà nhan sắc",
+		"translate": ""
+	}, {
+		"id": "1953",
+		"content": "Bánh chưng xanh, bên dưa hấu đỏ Cành mai vàng, bên càng đào tươi Tết năm nay, Bé thêm 1 tuổi Chúc ông bà sức khỏe nhiều nhiều Nay Bé lớn rồi Bé không thích “lì xì”",
+		"translate": ""
+	}, {
+		"id": "1954",
+		"content": "Bà ơi, năm nay con không thể về quê thăm bà bởi vì con phải ở lại làm việc. Dù vậy, bà cũng phải giữ gìn sức khỏe thật nhiều đấy nhé, con đã mua rất nhiều quà cho bà rồi nhưng vì có một chút bất trắc mà phải ăn Tết ở nơi đất khách quê người. Chúc bà một năm mới gặp nhiều may mắn và vui vẻ, xa con bà đừng buồn nhé.",
+		"translate": ""
+	}, {
+		"id": "1955",
+		"content": "Được tin ông bà mới được lên chức, cháu vui mừng lắm. Chẳng có gì hơn, cháu chỉ muốn chúc ông bà có thật nhiều sức khỏe để có thể ở bên cạnh con cháu nhiều nhiều.",
+		"translate": ""
+	}, {
+		"id": "1956",
+		"content": "Nhân dịp năm mới, cháu chúc ông bà sống thật lâu và khỏe mạnh để con cháu có thể làm vài (chục) lần lễ thượng thọ cho ông bà nữa ạ.",
+		"translate": ""
+	}, {
+		"id": "1957",
+		"content": "Xuân đến hy vọng Ấm no mọi nhà. Kính chúc ông bà, Sống lâu trăm tuổi.",
+		"translate": ""
+	}, {
+		"id": "1958",
+		"content": "Chúc ông bà có 1 bầu trời sức khỏe, 1 Biển cả tình thương, 1 Gia đình thịnh vượng.",
+		"translate": ""
+	}, {
+		"id": "1959",
+		"content": "Năm cũ đã qua năm mới lại đến Hôm nay con đến kính chúc Ông Bà có là sức khỏe Nhà cửa sung túc, hạnh phúc khang an, ơn trên thương bang Phúc Lộc thọ tài, làm ăn tấn phát, năm mới gặp nhiều may mắn.",
+		"translate": ""
+	}, {
+		"id": "1960",
+		"content": "Năm mới, cháu chúc ông/bà thật mạnh khỏe, vui tươi và hạnh phúc cùng con cháu ạ.",
+		"translate": ""
+	}, {
+		"id": "1961",
+		"content": "Con vui khi thấy ông bà Năm mới thêm tuổi như là trẻ ra Chúc ông chúc bà thế là Sống lâu sống thọ cả nhà đều vui",
+		"translate": ""
+	}, {
+		"id": "1962",
+		"content": "Ông(bà) ơi, mỗi năm qua đi, tóc ông bà càng bạc thêm, nhưng cháu chúc ông bà thật mạnh khỏe và hạnh phúc để cháu có thể mỗi năm đều đến thăm ông bà nữa ạ.",
+		"translate": ""
+	}, {
+		"id": "1963",
+		"content": "Mùa xuân nữa đã về con vui vì được ở bên ông bà. Mái tóc đã phai màu sương gió, sức khỏe đã hao mòn bởi thời gian. Nhưng con vẫn mong ông được vui vẻ, đón tết thanh bình, đoàn viên cùng con cháu.",
+		"translate": ""
+	}, {
+		"id": "1964",
+		"content": "Năm cũ vừa qua, bước sang năm mới, hôm nay con tới kính chúc ông bà: Sống lâu sức khỏe, trẻ mãi không già, yêu thương thuận hòa, cửa nhà sung túc, hạnh phúc khang an.",
+		"translate": ""
+	}, {
+		"id": "1965",
+		"content": "Mùa xuân đến, con cảm ơn ông bà vì những năm đã qua, vì hi sinh đã mất. Kính chúc ông bà năm mới có nhiều niềm vui, tuổi thọ thêm mà sức khỏe vẫn đầy. Con yêu ông bà.",
+		"translate": ""
+	}, {
+		"id": "1966",
+		"content": "Sang năm Tân Sửu, cháu chúc ông/bà sống lâu, thật lâu và mạnh khỏe để vui vầy cùng con cháu ạ.",
+		"translate": ""
+	}, {
+		"id": "1967",
+		"content": "Chúc ông bà sống lâu trăm tuổi, con cháu đầy đàn và vui vẻ hạnh phúc với bên gia đình.",
+		"translate": ""
+	}, {
+		"id": "1968",
+		"content": "Chúc ông bà sống lâu trăm tuổi, con cháu đầy đàn và vui vẻ hạnh phúc với bên gia đình.",
+		"translate": ""
+	}, {
+		"id": "1969",
+		"content": "Một mùa xuân nữa đã đến rồi ba mẹ ơi! Cảm ơn ba và mẹ vì những điều giản dị mà trong suốt một năm qua con đã không nhận ra…. Con không chúc ba, mẹ trẻ khỏe đẹp đâu vì con biết sinh, lão, bệnh, tử đâu thể nào tránh được. Con chỉ mong ba, mẹ luôn sống vui vẻ, thanh thản, bớt lo toan, ít muộn phiền…Để ba mẹ có thể sống mãi với chúng con.",
+		"translate": ""
+	}]
+}

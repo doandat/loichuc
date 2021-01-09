@@ -1,0 +1,403 @@
+{
+	"result": [{
+		"id": "2571",
+		"content": "Ngày sinh nhật em, anh chúc em luôn khỏe mạnh, tươi trẻ và công tác tốt, mãi mãi là tình yêu vĩ đại nhất của đời anh.",
+		"translate": ""
+	}, {
+		"id": "2572",
+		"content": "Mừng sinh nhật em! Anh chúc em luôn tươi trẻ mạnh khỏe và hạnh phúc. Mãi mãi là người anh yêu nhất.",
+		"translate": ""
+	}, {
+		"id": "2573",
+		"content": "Hãy luôn giữ nét baby và giọng cười trời cho của em nha. Đừng thay đổi hình tượng của anh nha em, một cô nàng baby đáng … đánh đòn. Chúc mừng sinh nhật Baby bé bong của anh.",
+		"translate": ""
+	}, {
+		"id": "2574",
+		"content": "Xin chúc mừng sinh nhật của một trong những công dân xinh đẹp mỹ miều, kiêu sa yêu kiều nhất trên quả đất này",
+		"translate": ""
+	}, {
+		"id": "2575",
+		"content": "Nhân ngày sinh nhật em, anh xin tặng em món quà sinh nhật quá giá nhất của anh, đó chính là… cuộc đời anh. Em nhận đi…!",
+		"translate": ""
+	}, {
+		"id": "2576",
+		"content": "Em yêu ! Sinh nhật của em anh chúc em mạnh khỏe và những may mắn, hạnh phúc nhất sẽ đến với em trong cuộc đời.",
+		"translate": ""
+	}, {
+		"id": "2577",
+		"content": "Ngày sinh nhật em, anh chúc em luôn khỏe mạnh, tươi trẻ và công tác tốt, mãi mãi là tình yêu vĩ đại nhất của đời anh.",
+		"translate": ""
+	}, {
+		"id": "2578",
+		"content": "Chúc mừng sinh nhật anh, sang một tuổi mới, thành công mới, nhiều niềm vui mới, nhiều thắng lợi mới, và nếu có thể thì cả người yêu mới nữa nhé. Yêu em đây nè!",
+		"translate": ""
+	}, {
+		"id": "2579",
+		"content": "Hôm nay là sinh nhật em, người con gái quan trọng trong trái tim anh. Anh chúc em thật nhiều hạnh phúc, thật vui vẻ, thật may mắn, thật bình anh. Hãy luôn đồng hành cùng anh em nhé. Yêu em",
+		"translate": ""
+	}, {
+		"id": "2580",
+		"content": "Chúc tình yêu của em một ngày tràn ngập những quà tặng, những lời chúc, nhưng nụ hôn thì chỉ nhận được một cái thôi nhé. Và đó là của em. Chụt chụt.",
+		"translate": ""
+	}, {
+		"id": "2581",
+		"content": "Hôm nay là một ngày thật đặc biệt, không chỉ đối với em là còn là với cả thế giới – Ngày kỉ niệm sự ra đời của một ngôi sao vui vẻ và đáng yêu nhất cơ mà.",
+		"translate": ""
+	}, {
+		"id": "2582",
+		"content": "Gửi trọn toàn bộ tình yêu, thân xác (trừ những chỗ cấm) này đến anh/em nhân ngày sinh nhật.",
+		"translate": ""
+	}, {
+		"id": "2583",
+		"content": "Chúc mừng sinh nhật em, chúc em tuổi mới Tươi như hoa thiên lý Khỏe như đá kim cương Sức mạnh rắn phi thường Vượt qua được mọi khó khăn vất vả!",
+		"translate": ""
+	}, {
+		"id": "2584",
+		"content": "Gửi đến em những lời chúc tốt đẹp nhất, ngọt ngào như những bông hoa này, vì em đã cùng anh đi đến tận cùng thế giới. Chúc sinh nhật hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "2585",
+		"content": "Em có thấy những ngôi sao lấp lánh trên bầu trời đang mỉm cười chúc mừng sinh nhật em không? Sinh nhật chúc em tuổi mới ngày càng xinh đẹp “dã man”, thông minh “khủng khiếp”, nhưng đừng bao giờ rời xa anh nhé.",
+		"translate": ""
+	}, {
+		"id": "2586",
+		"content": "Ngày sinh nhật của em, anh muốn cùng em lưu giữ thật nhiều kỷ niệm, thật nhiều niềm vui, thật nhiều hạnh phúc. chúc cho cô gái của anh luôn tràn đầy sức khỏe, tình yêu, hạnh phúc và thành công.",
+		"translate": ""
+	}, {
+		"id": "2587",
+		"content": "Tình yêu không làm anh hạnh phúc, nhưng yêu em thì làm anh hạnh phúc. Chúc mừng sinh nhật tình yêu của anh.",
+		"translate": ""
+	}, {
+		"id": "2588",
+		"content": "Món quà này, riêng Nó chẳng có ý nghĩa gì cả, nhưng kỉ niệm ở đây là anh muốn gởi cho em bằng tất cả những tình cảm tha thiết nhất. Chúc em sinh nhật vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "2589",
+		"content": "Chúc mừng sinh nhật em nhé. Cho nợ quà, sang năm trả nhé. Yêu em lắm",
+		"translate": ""
+	}, {
+		"id": "2590",
+		"content": "Nhân dịp sinh nhật lần thứ… của em, chúc em luôn tươi khỏe, trẻ đẹp. Cầu mong những gì may mắn nhất, tốt đẹp nhất và hạnh phúc nhất sẽ đến với em trong tuổi mới.",
+		"translate": ""
+	}, {
+		"id": "2591",
+		"content": "Xin chúc mừng sinh nhật của một trong những công dân xinh đẹp, mỹ miều, kiêu sa yêu kiều nhất trên quả đất này. Happy birthday to you",
+		"translate": ""
+	}, {
+		"id": "2592",
+		"content": "Em biết không, trái đất đang ngừng xoay 1 giây để chúc mừng sinh nhật em đó.",
+		"translate": ""
+	}, {
+		"id": "2593",
+		"content": "Tận sâu trong trái tim của anh luôn có hình bóng của em. Chúc em sinh nhật vui vẻ! yêu em",
+		"translate": ""
+	}, {
+		"id": "2594",
+		"content": "Cảm ơn em! Người mang cho anh niềm vui trong cuộc sống và hứng khởi trong công việc. Sinh nhật em Anh chúc em luôn xinh tươi, yêu đời, thành công trong cuộc sống. Anh sẽ luôn bên em!",
+		"translate": ""
+	}, {
+		"id": "2595",
+		"content": "Bạn có biết ngay lúc này… có ai đó đang nghĩ đến bạn, có ai đó quan tâm đến bạn, có ai đó luôn mong sự bình yên cho bạn, có ai đó muốn nắm tay bạn, có ai đó luôn muốn bạn hạnh phúc... Chúc bạn một sinh nhật, một tuổi mới nhiều niềm vui!",
+		"translate": ""
+	}, {
+		"id": "2596",
+		"content": "Chúc em sinh nhật vui vẻ, sang tuổi mới xinh lại càng xinh, duyên lại càng duyên, yêu lại càng yêu.Yêu ai…..yêu anh chứ ai",
+		"translate": ""
+	}, {
+		"id": "2597",
+		"content": "Bạn sẽ cảm thấy rất ấm áp khi biết rằng có ai đó thích bạn, ai đó nghĩ đến bạn, ai đó cần bạn, nhưng bạn sẽ còn cảm thấy ấm áp hơn khi biết rằng có ai đó chưa từng bao giờ quên ngày sinh nhật của bạn. Chúc mừng sinh nhật! HAPPY BIRTHDAY ^^",
+		"translate": ""
+	}, {
+		"id": "2598",
+		"content": "Nhân ngày sinh nhật, anh chúc em nhan sắc “quyết liệt” thăng hoa, tiền tài ào ào thăng tiến và tình yêu “tưng bừng” bùng nổ.",
+		"translate": ""
+	}, {
+		"id": "2599",
+		"content": "Cám ơn cái ngày anh/em cất tiếng khóc oe oe chào đời, nếu không có ngày ấy, anh/em biết gửi trái tim này cho ai?",
+		"translate": ""
+	}, {
+		"id": "2600",
+		"content": "Mừng sinh nhật, tớ chúc cậu luôn luôn “vui vẻ, tươi trẻ, mạnh khoẻ, tính tình mát mẻ, cuộc đời suôn sẻ” và luôn luôn “tươi cười, yêu đời, ngời ngời sức sống”",
+		"translate": ""
+	}, {
+		"id": "2601",
+		"content": "Chúc mừng sinh nhật em, sang một tuổi mới, thành công mới, nhiều niềm vui mới, nhiều thắng lợi mới, và nếu có thể thì cả người yêu mới nữa nhé. Yêu anh đi nè!",
+		"translate": ""
+	}, {
+		"id": "2602",
+		"content": "Trong lúc này, anh nghĩ về em với tất cả yêu thương và anh ước rằng mọi thứ sẽ mang hạnh phúc cho em trong ngày này và mãi mãi về sau.",
+		"translate": ""
+	}, {
+		"id": "2603",
+		"content": "Cuộc đời này của anh gắn chặt với em mất rồi… Sinh nhật năm nay năm sau, 10 năm sau hai mươi năm sau 50, 100 năm sau em vẫn mãi là ngọn nến lung linh trong lòng anh.",
+		"translate": ""
+	}, {
+		"id": "2604",
+		"content": "Sinh nhật năm nay, anh chúc em mãi như ngày xưa. Chúc em tuổi mới ngày càng xinh đẹp “dã man”, thông minh “khủng khiếp”, nhưng đừng bao giờ rời xa anh nhé.",
+		"translate": ""
+	}, {
+		"id": "2605",
+		"content": "Tình yêu của anh ơi, chúc em một ngày sinh nhật tràn ngập những quà tặng, những lời chúc, nhưng nụ hôn thì chỉ nhận được một cái thôi nhé. Và đó là của anh. Chụt chụt …..thích chưa.",
+		"translate": ""
+	}, {
+		"id": "2606",
+		"content": "Em yêu ! Sinh nhật em! Anh chúc em gặt hái nhiều thành công. Mong em mãi yêu anh như ngày đầu và luôn ở bên anh!",
+		"translate": ""
+	}, {
+		"id": "2607",
+		"content": "Khi cậu nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong cậu vui vẻ và luôn yêu đời. Chúc cậu sinh nhật vui vẻ và hạnh phúc. Happy Birthday!^^",
+		"translate": ""
+	}, {
+		"id": "2608",
+		"content": "Chúc em tuổi mới ăn khỏe, ngủ khỏe và sức khỏe thì cực khỏe và yêu anh cũng cực cực khỏe Ước gì anh được hôn em một miếng bây giờ Cún con à!",
+		"translate": ""
+	}, {
+		"id": "2609",
+		"content": "Những lời nói hành động của bạn đã ở tận sâu trong trái tim của mình. Những kỉ niệm ngọt ngào và ấm áp đã từng cảm nhận qua. Mình hy vọng những kỉ niệm đó sẽ còn đọng mãi. Hơn thế nữa mình mong muốn sẽ còn được dự nhiều lần sinh nhật của bạn như thế này. Trong con mắt của mình thì bạn là con người hoàn hảo nhất. Chúc mừng sinh nhật ! “Happy birthday to my love”.",
+		"translate": ""
+	}, {
+		"id": "2610",
+		"content": "Chúc mừng sinh nhật người yêu nhất và ngoan hiền dịu ngọt nhất của tôi. Cuộc sống buồn tẻ biết bao nếu vắng em.",
+		"translate": ""
+	}, {
+		"id": "2611",
+		"content": "Happy Birthday to my love. chúc em sinh nhật thật ấm áp, đầy yêu thương, đầy tiếng cười. Thêm tuổi mới thật nhiều hạnh phúc, thật nhiều niềm vui em nhé",
+		"translate": ""
+	}, {
+		"id": "2612",
+		"content": "Ước mong anh là con suối trong những ngày nắng gắt, để em… rửa chân cho mát. Ước mong anh là cái nắng gay gắt trong ngày áp thấp nhiệt đới, để em phơi đồ… Nói chung anh là cái gì đó không thể thiếu trong đời này, dù giản dị nhưng rất quan trọng. Chúc mừng anh tuổi mới với nhiều niềm vui.",
+		"translate": ""
+	}, {
+		"id": "2613",
+		"content": "Chúc sinh nhật người bạn cực kì đặc biệt của tớ, cầu cho ấy luôn được vui vẻ, hạnh phúc và thành công trong cuộc sống!",
+		"translate": ""
+	}, {
+		"id": "2614",
+		"content": "Tình yêu của anh! Ngày mai là sinh nhật lần thứ ... của em. Anh muốn gửi những lời yêu thương chân thành nhất của mình tới em. Chúc em luôn vui vẻ, khỏe mạnh và gặp nhiều may mắn. Hãy cùng nhau cố gắng vì tình yêu của chúng mình, em nhé!. “anh yêu em”.",
+		"translate": ""
+	}, {
+		"id": "2615",
+		"content": "Nhân ngày sinh nhật em, anh xin tặng em món quà sinh nhật quý giá nhất của anh, đó chính là… cuộc đời anh. Em nhận đi hàng hiếm đấy.",
+		"translate": ""
+	}, {
+		"id": "2616",
+		"content": "Hãy để những lời chúc tốt đẹp nhất của anh luôn bên cạnh em trong ngày sinh nhật của năm nay và nhiều năm về sau. Anh hy vọng, em luôn thật mạnh khỏe, thật vui vẻ, thật rực rỡ, thật vui vẻ. Sinh nhật vui vẻ em nhé.",
+		"translate": ""
+	}, {
+		"id": "2617",
+		"content": "Chúc tình yêu của anh một ngày tràn ngập những quà tặng, những lời chúc, nhưng nụ hôn thì chỉ nhận được một cái thôi nhé. Và đó là của anh… chụt chụt",
+		"translate": ""
+	}, {
+		"id": "2618",
+		"content": "Hôm nay không như ngày hôm qua, hôm nay là một ngày đặc biệt, là ngày mà một thiên thần đáng yêu đã có mặt trên thế giới cách đây… năm. Chúc…….. mừng………. sinh ……….nhật …. !",
+		"translate": ""
+	}, {
+		"id": "2619",
+		"content": "Hôm nay là một ngày rất đặc biệt, ngày này vài chục năm trước có một bé gái cất “tiếng khóc” chào đời ^^, và bây giờ đã là một cô gái ” xinh đẹp”, là một người bạn thân thương, tốt bụng và rất nhiệt tình của tớ. Chúc cậu luôn “hiền”, trẻ nè, đẹp nè, mạnh khoẻ, thành đạt và nụ cười luôn nở trên môi nhé! Happy Birthday ^^",
+		"translate": ""
+	}, {
+		"id": "2620",
+		"content": "Chúc em sinh nhật vui vẻ, 1 ngày lượm được cọc tiền, 1 tuần lượm được túi tiền, 1 tháng lượm được va li tiền, cả năm ôm tiền mà ngủ. Hehe!",
+		"translate": ""
+	}, {
+		"id": "2621",
+		"content": "Đối với thế giới, em chỉ là một người bình thường, nhưng đối với anh, em là tất cả. Chúc mừng sinh nhật em!",
+		"translate": ""
+	}, {
+		"id": "2622",
+		"content": "Hôm nay đến sinh nhật em. Chúc em hương sắc càng thêm đậm đà. Mắt đẹp hơn dải Ngân Hà. Giọng càng thánh thót vui ca sớm chiều. Chúc em vui với người yêu. Đời càng hạnh phúc như triều đang dâng. Anh xin chúc đến nghìn lần. Những lời hoa mĩ tuyệt trần cho em.",
+		"translate": ""
+	}, {
+		"id": "2623",
+		"content": "Vào ngày này ... năm trước 1 con quỷ đã ra đời, và chúa phái thiên sứ là em xuống để giúp cho ác quỷ ấy biết thế nào là tình yêu. Đó là lý do em ở bên anh hôm nay.",
+		"translate": ""
+	}, {
+		"id": "2624",
+		"content": "Chúc em, một nửa của đời anh luôn cảm thấy hanh phúc khi có anh luôn bên cạnh. Dù em đi tới đâu anh vẫn theo từng bước chân em. Anh chỉ mong được theo em trên đoạn đường còn lại để có thể dìu em khi em ngã, hạnh phục khi được thấy em cười, và bên cạnh em khi em cô đơn nhất, với anh như thế là đủ. Mãi yêu em",
+		"translate": ""
+	}, {
+		"id": "2625",
+		"content": "Cám ơn Thượng Đế đã “thả” em xuống trái đất này , nếu không thì nụ hôn này anh biết gửi tặng ai đây… Chúc mừng sinh nhật em yêu. ",
+		"translate": ""
+	}, {
+		"id": "2626",
+		"content": "Cún con của anh. Hôm nay là sinh nhật em và ngày này sang năm cũng là sinh nhật em và các năm sau nữa cũng là ngày sinh nhật em.. Nhưng đối với anh anh mong điều tốt lành đến với em hàng ngày và hãy để anh được hàng ngày trong suốt cuộc đời này anh mong được yêu thương che chở và mang lại hạnh phúc cho em. Yêu em nhiều lắm lắm <3",
+		"translate": ""
+	}, {
+		"id": "2627",
+		"content": "Nếu có thể, anh nguyện móc trái tim chân thành của anh ra để tặng em trong ngày sinh nhật này",
+		"translate": ""
+	}, {
+		"id": "2628",
+		"content": "Anh yêu ! Sinh nhật anh em chúc anh gặt hái nhiều thành công. Mong anh mãi yêu em như ngày đầu và luôn ở bên em.",
+		"translate": ""
+	}, {
+		"id": "2629",
+		"content": "Chúc em yêu sinh nhật vui vẻ, anh thật ngốc khi trước ngày sinh nhật em anh chẳng thể nghĩ được món quà nào để tặng em. Cuối cùng em quyết định tặng em trái tim anh, ánh mắt và nụ cười anh… anh tặng em tình yêu sâu đậm nhất. Chúc em mạnh khỏe, ngày càng xinh đẹp, đáng yêu hơn nữa, chúc em thành công trong cuộc sống. Chúc mừng sinh nhật em yêu.",
+		"translate": ""
+	}, {
+		"id": "2630",
+		"content": "Chúc em luôn ấm áp, cả bên trong lẫn bên ngoài, anh yêu em nhiều lắm. Chúc mừng sinh nhật người yêu bé nhỏ của anh",
+		"translate": ""
+	}, {
+		"id": "2631",
+		"content": "Mừng sinh nhật em, anh chỉ chúc em được nhiều sức khỏe thôi. Còn về hạnh phúc và niềm vui, anh mong rằng chính mình sẽ là người mang những điều đó đến với em. Yêu em nhiều!",
+		"translate": ""
+	}, {
+		"id": "2632",
+		"content": "Chúc em, một nửa của đời anh luôn cảm thấy hạnh phúc khi có anh luôn bên cạnh. Dù em đi tới đâu anh vẫn theo từng bước chân em. Anh chỉ mong được theo em trên đoạn đường còn lại để có thể dìu em khi em ngã, hạnh phục khi được thấy em cười, và bên cạnh em khi em cô đơn nhất, với anh như thế là đủ. Mãi yêu em",
+		"translate": ""
+	}, {
+		"id": "2633",
+		"content": "Hạnh phúc là khi có một việc để làm… một nơi để đến… và một người để yêu… Anh chúc em sang tuổi mới có được tất cả những điều đó nhé! Happy… Happy… Happy Birthday to you!",
+		"translate": ""
+	}, {
+		"id": "2634",
+		"content": "Cám ơn Thượng Đế đã \"thả\" em xuống trái đất này, nếu không thì nụ hôn này anh biết gửi tặng ai đây…Chúc mừng sinh nhật em yêu",
+		"translate": ""
+	}, {
+		"id": "2635",
+		"content": "Tin nhắn này không có chất béo, không cholesterol và không chứa chất gây nghiện, nó chỉ có rất nhiều đường mà thôi. Nhưng dù nhiều đường thế nào đi chăng nữa nó cũng không bao giờ có thể ngọt ngào như em – người đang đọc nó. Chúc em sinh nhật hạnh phúc và tràn đầy tiếng cười!",
+		"translate": ""
+	}, {
+		"id": "2636",
+		"content": "Chúc cho những tháng ngày bên em luôn tràn đầy nắng ấm, đôi khi mưa đến xoa dịu mát tâm hồn! Cho vơi đi bao nhọc nhằn của những ngày loang lổ trên đường về nắng gió chẳng làm hao mòn, quật ngã em!",
+		"translate": ""
+	}, {
+		"id": "2637",
+		"content": "Sinh nhật này tuy anh không ở bên em nhưng đêm qua anh đã bí mật nhét trái tim vào trong lồng ngực em rồi, em có thấy tim mình hôm nay đập mạnh hơn không?",
+		"translate": ""
+	}, {
+		"id": "2638",
+		"content": "Trong lúc này, tớ đang nghĩ về cậu với tất cả yêu thương và nỗi nhớ. Tớ ước rằng mọi điều tốt đẹp nhất, may mắn nhất sẽ đến với cậu trong ngày thật đặc biệt này và cả những ngày mai sau! Happy Birthday!!!",
+		"translate": ""
+	}, {
+		"id": "2639",
+		"content": "Trước khi yêu em anh cứ tưởng cuộc sống này thật vô vị. Kể từ khi em đến bên anh, bước vào trái tim anh, em đã cho anh biết thế nào là niềm vui, là hạnh phúc. Cảm ơn thượng đế đã mang em đến bên anh, sinh nhật em anh xin gửi đến em ngàn lời chúc tốt đẹp nhất. Chúng mình sẽ mãi nắm chặt tay nhau em nhé!",
+		"translate": ""
+	}, {
+		"id": "2640",
+		"content": "Em yêu à! Hãy luôn giữ nét kute và nụ cười vô tư của em nha. Đừng thay đổi nha em, một cô nàng tốt bụng, nhiều lúc hay nhõng nhẽo, bướng bỉnh đáng … đánh đòn nhưng lại cực đáng yêu^^. Chúc mừng sinh nhật em yêu!!!",
+		"translate": ""
+	}, {
+		"id": "2641",
+		"content": "Mừng ngày sinh nhật của em, mừng ngày đó em sinh ra đời cùng ngàn ngôi sao tỏa sáng.",
+		"translate": ""
+	}, {
+		"id": "2642",
+		"content": "Chúc bạn ngày càng xinh gái hơn và sớm có người yêu! Nếu ế thì yêu tạm mình vậy mình không chê đâu hehe",
+		"translate": ""
+	}, {
+		"id": "2643",
+		"content": "My love! Mình đã dõi theo cậu từ khi mình gặp được cậu, và dần dần mình đã có cảm tình với cậu và yêu cậu thật nhiều. Trong ngày sinh nhật cực kỳ ý nghĩa và đặc biệt này, mình cầu chúc cho những điều tốt đẹp nhất sẽ đến với cậu! Happy Birthday to Love!!!",
+		"translate": ""
+	}, {
+		"id": "2644",
+		"content": "Có lẽ ngày hôm nay em đã nhận đủ những lời chúc, những món quà sinh nhật có ý nghĩa rồi. Nhưng còn lời chúc của anh, đến giờ anh mới chúc, anh sợ chúc sớm quá em sẽ quên. Chúc em yêu của anh sinh nhật vui vẻ, hạnh phúc bên anh và mình sẽ mơ về một tương lai tốt đẹp nhất em nhé. Anh sẽ hát tặng anh bài hát “Chúc mừng sinh nhật”, lời bài hát chính là lời anh muốn nói. happy birthday to my love!",
+		"translate": ""
+	}, {
+		"id": "2645",
+		"content": "Khi bạn nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn vui vẻ và luôn yêu đời. Chúc bạn sinh nhật vui vẻ và hạnh phúc. Happy Birthday",
+		"translate": ""
+	}, {
+		"id": "2646",
+		"content": "Và ngày đó em sinh ra đời, cùng ngàn vì sao lung linh tỏa sáng… Cho đến bây giờ ngôi sao mang tên em vẫn luôn tỏa sáng, nhất là trong lòng anh.",
+		"translate": ""
+	}, {
+		"id": "2647",
+		"content": "Trong lúc này, anh đang nhớ về em, nhớ về em rất nhiều. Anh mong rằng, sinh nhật năm nay và sinh nhật của mọi năm tới, mọi điều tốt đẹp nhất, may mắn nhất sẽ đến với em – cô gái anh yêu rất nhiều",
+		"translate": ""
+	}, {
+		"id": "2648",
+		"content": "Chúc ấy những gì tốt đẹp nhất mà chưa từng ai chúc ấy Mình sẽ luôn ở đằng sau ấy Luôn âm thầm và lặng lẽ đi suốt cuộc đời ấy Khi ấy cần, mình sẽ đến bên cạnh ấy HAPPY BIRTHDAY TO YOU…!!!",
+		"translate": ""
+	}, {
+		"id": "2649",
+		"content": "Hôm nay là sinh nhật cậu! Mình chúc cậu hạnh phúc. Thêm một tuổi mới mình cũng không biết nói gì hơn là chúc cậu vui vẻ, may mắn, bình an và thành công hơn trong cuộc sống. Happy Birthday!!!^^",
+		"translate": ""
+	}, {
+		"id": "2650",
+		"content": "Với cái tuổi thật đẹp này, mình chúc cậu có một sức khỏe tươi mới, thành công luôn luôn tới, về sắc diện thì ai nhìn cũng phải chới với, hihi. Happy Birthday!!! ",
+		"translate": ""
+	}, {
+		"id": "2651",
+		"content": "Tuổi mới mau ăn chóng lớn nhé lợn con bé bỏng của anh, ụt ụt xuất chuồn thôi…….",
+		"translate": ""
+	}, {
+		"id": "2652",
+		"content": "Cho những ngày xuân sang có gió heo may thở lên mái tóc, tóc xanh êm đềm cho tan chảy ánh mắt ai… Cho những ngày nắng hạ hôn lên đôi môi xinh, má nắng ửng hồng duyên thầm in dấu… Cho thu sang ánh mắt em mơ màng, lá thu cũng chẳng đẹp bằng đôi mắt thơ trong! Đông trôi qua bàn tay em vẫn ấm, bước chân nhẹ nhàng du từng gót hài mơ…Nụ cười em xua tan cái gió lạnh đêm hè… nụ cười tan chảy bao trái tim si tình lạc lối…! Chúc em thêm tuổi mới vẫn mãi là em trong màu áo mới! Ta chào em!",
+		"translate": ""
+	}, {
+		"id": "2653",
+		"content": "Tặng phẩm này riêng nó chẳng có ý nghĩa gì cả, nhưng mà kỉ niệm ở đây là anh/em gởi cho anh/em với tất cả những tình cảm tha thiết nhất. Sinh nhật vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "2654",
+		"content": "Vì anh luôn yêu em, yêu em rất nhiều. Sinh nhật năm nay, chúc cô gái bé bỏng của anh đầy ấm áp, đầy yêu thương và đầy tiếng cười. Sinh nhật em thật vui và thật hạnh phúc nhé cô gái anh yêu",
+		"translate": ""
+	}, {
+		"id": "2655",
+		"content": "Cám ơn Thượng Đế đã “thả” em/ anh xuống trái đất vào ngày này ... năm trước, nếu không thì nụ hôn này biết gửi tặng ai đây.",
+		"translate": ""
+	}, {
+		"id": "2656",
+		"content": "My love! Anh đã yêu em từ khi anh chưa ra đời. Chúc em có được đầy tràn tình yêu của anh.",
+		"translate": ""
+	}, {
+		"id": "2657",
+		"content": "Sáng nay tỉnh giấc… Tớ liền nở nụ cười vì tớ biết hôm nay là 1 ngày thật đặc biệt và lại càng đặc biệt, ý nghĩa hơn khi đó là ngày sinh nhật cậu. Ai bảo thêm tuổi là già nhỉ? Thêm tuổi là thêm nhiều yêu thương. Tớ chúc cậu sinh nhật thật vui, hạnh phúc và gặp nhiều may mắn. Happy Birthday!!!",
+		"translate": ""
+	}, {
+		"id": "2658",
+		"content": "Thương nghĩ về em/anh trong ngày sinh nhật và anh/em chúc mọi thứ luôn mang đến hạnh phúc cho em/anh vào ngày hôm nay và mãi mãi. Anh sẽ không chúc em điều gì cả vì em xứng đáng được hưởng tất cả những điều tốt đẹp nhất trên đời.",
+		"translate": ""
+	}, {
+		"id": "2659",
+		"content": "Có thể cả thế giới sẽ không nhớ và không biết đến ngày của cậu nhưng mình thì sẽ luôn nhớ và biết đến những ngày đặc biệt này. Chúc cậu mỗi năm đều tràn ngập niềm vui, gặp nhiều may mắn, ngày càng thành công. Happy Birthday!!!",
+		"translate": ""
+	}, {
+		"id": "2660",
+		"content": "Với thế giới em là 1 người bình thường nhưng đối với anh em là là tất cả. ……….Happy Birthday my love……",
+		"translate": ""
+	}, {
+		"id": "2661",
+		"content": "Tình yêu của đời anh. Em là một cô gái rất đặc biệt. Anh luôn thầm cảm ơn vì em đã đến bên cạnh anh. Ngày hôm nay anh chúc em mọi điều an lành, thật nhiều sức khỏe, thật nhiều niềm vui. Anh luôn hy vọng mình sẽ luôn cùng nhau đón nhiều sinh nhật như thế này. Mừng sinh nhật em ",
+		"translate": ""
+	}, {
+		"id": "2662",
+		"content": "Chúc mọi điều ước trong ngày sinh nhật của bạn đều trở thành hiện thực, hãy thổi nến trên bánh sinh nhật để ước mơ được nhiệm màu.",
+		"translate": ""
+	}, {
+		"id": "2663",
+		"content": "Em yêu. Sinh nhật em, anh chúc em thật nhiều thành công, thật nhiều sức khỏe, thật nhiều may mắn. Mong rằng em sẽ mãi yêu anh như ngày đầu và mãi về sau ",
+		"translate": ""
+	}, {
+		"id": "2664",
+		"content": "Một ngày bình yên, êm ấm bên người mà mình yêu. Nhưng nhớ đừng làm gì đi quá giới hạn “nhạy cảm” nhé bạn.",
+		"translate": ""
+	}, {
+		"id": "2665",
+		"content": "Cậu ngủ dậy chưa? Ông mặt trời mọc rồi kìa, với nụ cười ấm áp biết bao! Tớ chúc cậu một buổi sáng tốt lành và mong cậu sẽ có một ngày sinh nhật thật nhiều niềm vui, may mắn!!!",
+		"translate": ""
+	}, {
+		"id": "2666",
+		"content": "Em yêu nghe đây…..Chúc mừng sinh nhật. …….. Quà sinh nhật nào ko dùng cho anh nhá: yêu em lắm lắm",
+		"translate": ""
+	}, {
+		"id": "2667",
+		"content": "Mừng sinh nhật em yêu, chúc cho cô gái – một nửa thế giới của anh luôn mạnh khỏe, luôn hạnh phúc. Anh sẽ luôn bên cạnh em, dù em đi tới đâu. Hãy yên tâm rằng: anh sẽ cùng em đi qua mọi chặng đường, cùng em hạnh phúc, cùng em vui buồn. Yêu em rất nhiều, cô gái bé nhỏ",
+		"translate": ""
+	}, {
+		"id": "2668",
+		"content": "Anh biết hôm nay là một ngày đặc với em, với người con gái anh yêu. Anh muốn hôm nay sẽ trở nên đặc biệt hơn với em. Mừng sinh nhật em yêu, chúc em yêu thêm tuổi mới thêm nhiều yêu thương, luôn vui vẻ và thật hạnh phúc. Hãy luôn yêu anh nhiều như vậy nhé. cô gái bé nhỏ của anh",
+		"translate": ""
+	}, {
+		"id": "2669",
+		"content": "Yêu em! Anh đã nhận được rất nhiều yêu thương chân thành từ em. Cảm ơn tình yêu của em, cám ơn mẹ đã sinh ra em để bây giờ dành cho anh. Dù cuộc sống phía trước còn nhiều khó khăn và thử thách, 2 mình hãy vững lòng và vượt qua em nhé. Anh sẽ luôn bên em. Chúc em sinh nhật vui vẻ, thành công và gặp nhiều may mắn! Yêu em!!!",
+		"translate": ""
+	}, {
+		"id": "2670",
+		"content": "Thật tuyệt vì cậu đã xuất hiện trong thế giới của mình. Người bạn giống như cậu hiếm có như ngày tháng ... đầy nắng ấm áp. Cậu thực sự là có một không hai. Sinh nhật vui vẻ nhé, bạn thân nhất của mình!",
+		"translate": ""
+	}]
+}
