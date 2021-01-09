@@ -5,49 +5,60 @@
 			"sub": [{
 				"id": "2",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn"
+				"name": "Lời chúc mừng sinh nhật bạn",
+				"color": "#449944"
 			}, {
 				"id": "4",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật người yêu"
+				"name": "Lời chúc mừng sinh nhật người yêu",
+				"color": "#449944"
 			}, {
 				"id": "3",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bằng tiếng anh"
+				"name": "Lời chúc mừng sinh nhật bằng tiếng anh",
+				"color": "#449944"
 			}, {
 				"id": "34",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật mẹ"
+				"name": "Lời chúc mừng sinh nhật mẹ",
+				"color": "#449944"
 			}, {
 				"id": "35",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bố"
+				"name": "Lời chúc mừng sinh nhật bố",
+				"color": "#449944"
 			}, {
 				"id": "36",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn gái"
+				"name": "Lời chúc mừng sinh nhật bạn gái",
+				"color": "#449944"
 			}, {
 				"id": "37",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn bè"
+				"name": "Lời chúc mừng sinh nhật bạn bè",
+				"color": "#449944"
 			}, {
 				"id": "38",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật chồng"
-			}]
+			}],
+			"color": "#449944"
 		},
 		{
 			"id": "5",
 			"CatId": "2",
-			"name": "Lời chúc ngủ ngon hay ý nghĩa"
+			"name": "Lời chúc ngủ ngon hay ý nghĩa",
+			"color": "#449944"
 		}, {
 			"id": "6",
 			"CatId": "3",
-			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa"
+			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
+			"color": "#449944"
 		}, {
 			"id": "7",
 			"CatId": "4",
-			"name": "Lời chúc mừng giáng sinh hay nhất"
+			"name": "Lời chúc mừng giáng sinh hay nhất",
+			"color": "#449944"
 		},
 		{
 			"id": "5",
@@ -55,32 +66,39 @@
 			"sub": [{
 				"id": "8",
 				"CatId": "5",
-				"name": "Tổng hợp lời chúc tết 2021"
+				"name": "Tổng hợp lời chúc tết 2021",
+				"color": "#449944"
 			}, {
 				"id": "24",
 				"CatId": "5",
-				"name": "Lời chúc tết bạn bè 2021"
+				"name": "Lời chúc tết bạn bè 2021",
+				"color": "#449944"
 			}, {
 				"id": "25",
 				"CatId": "5",
-				"name": "Lời chúc tết người yêu 2021"
+				"name": "Lời chúc tết người yêu 2021",
+				"color": "#449944"
 			}, {
 				"id": "26",
 				"CatId": "5",
-				"name": "Lời chúc tết ông bà 2021"
+				"name": "Lời chúc tết ông bà 2021",
+				"color": "#449944"
 			}, {
 				"id": "27",
 				"CatId": "5",
-				"name": "Lời chúc tết bố mẹ 2021"
+				"name": "Lời chúc tết bố mẹ 2021",
+				"color": "#449944"
 			}, {
 				"id": "28",
 				"CatId": "5",
-				"name": "Lời chúc tết thầy cô 2021"
+				"name": "Lời chúc tết thầy cô 2021",
+				"color": "#449944"
 			}, {
 				"id": "29",
 				"CatId": "5",
 				"name": "Lời chúc tết Sếp, đồng nghiệp 2021"
-			}]
+			}],
+			"color": "#449944"
 		},
 		{
 			"id": "6",
@@ -88,17 +106,20 @@
 			"sub": [{
 				"id": "9",
 				"CatId": "6",
-				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa"
+				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa",
+				"color": "#449944"
 			}, {
 				"id": "10",
 				"CatId": "6",
 				"name": "Lời chúc 20/11 bằng Tiếng Anh"
-			}]
+			}],
+			"color": "#449944"
 		},
 		{
 			"id": "11",
 			"CatId": "7",
-			"name": "Status cho FA Hay, Hài Hước và Độc"
+			"name": "Status cho FA Hay, Hài Hước và Độc",
+			"color": "#449944"
 		},
 		{
 			"id": "8",
@@ -106,16 +127,19 @@
 			"sub": [{
 				"id": "12",
 				"CatId": "8",
-				"name": "Tổng hợp lời chúc ngày Lễ Tình Yêu (Valentine 14-02)"
+				"name": "Tổng hợp lời chúc ngày Lễ Tình Yêu (Valentine 14-02)",
+				"color": "#449944"
 			}, {
 				"id": "13",
 				"CatId": "8",
-				"name": "Lời chúc Valentine cho Vợ/Chồng"
+				"name": "Lời chúc Valentine cho Vợ/Chồng",
+				"color": "#449944"
 			}, {
 				"id": "14",
 				"CatId": "8",
 				"name": "Lời chúc Valentine Hài hước"
-			}]
+			}],
+			"color": "#449944"
 		},
 		{
 			"id": "9",
@@ -123,61 +147,75 @@
 			"sub": [{
 				"id": "15",
 				"CatId": "9",
-				"name": "Tổng hợp lời chúc 8/3"
+				"name": "Tổng hợp lời chúc 8/3",
+				"color": "#449944"
 			}, {
 				"id": "16",
 				"CatId": "9",
-				"name": "Lời chúc 8/3 hài hước"
+				"name": "Lời chúc 8/3 hài hước",
+				"color": "#449944"
 			}, {
 				"id": "17",
 				"CatId": "9",
-				"name": "Lời chúc 8/3 cô giáo"
+				"name": "Lời chúc 8/3 cô giáo",
+				"color": "#449944"
 			}, {
 				"id": "18",
 				"CatId": "9",
-				"name": "Lời chúc 8/3 bạn gái/người yêu"
+				"name": "Lời chúc 8/3 bạn gái/người yêu",
+				"color": "#449944"
 			}, {
 				"id": "19",
 				"CatId": "9",
-				"name": "Lời chúc 8/3 tặng mẹ"
+				"name": "Lời chúc 8/3 tặng mẹ",
+				"color": "#449944"
 			}, {
 				"id": "20",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 tặng vợ"
-			}]
+			}],
+			"color": "#449944"
 		},
 		{
 			"id": "21",
 			"CatId": "10",
-			"name": "Lời chúc ngày của mẹ"
+			"name": "Lời chúc ngày của mẹ",
+			"color": "#449944"
 		}, {
 			"id": "22",
 			"CatId": "11",
-			"name": "Lời chúc ngày của cha"
+			"name": "Lời chúc ngày của cha",
+			"color": "#449944"
 		}, {
 			"id": "23",
 			"CatId": "12",
-			"name": "Lời chúc ngày gia đình Việt Nam"
+			"name": "Lời chúc ngày gia đình Việt Nam",
+			"color": "#449944"
 		}, {
 			"id": "30",
 			"CatId": "13",
-			"name": "Lời chúc ngày quốc tế hanh phúc 20/3"
+			"name": "Lời chúc ngày quốc tế hanh phúc 20/3",
+			"color": "#449944"
 		}, {
 			"id": "31",
 			"CatId": "14",
-			"name": "Lời chúc ngày quốc tế thiếu nhi 1/6"
+			"name": "Lời chúc ngày quốc tế thiếu nhi 1/6",
+			"color": "#449944"
 		}, {
 			"id": "32",
 			"CatId": "15",
-			"name": "Lời chúc ngày Valentine trắng 14/3"
+			"name": "Lời chúc ngày Valentine trắng 14/3",
+			"color": "#449944"
 		}, {
 			"id": "33",
 			"CatId": "16",
-			"name": "Lời chúc ngày thầy thuốc Việt Nam 27/2"
+			"name": "Lời chúc ngày thầy thuốc Việt Nam 27/2",
+			"color": "#449944"
 		}, {
 			"id": "39",
 			"CatId": "17",
-			"name": "Lời chúc ngày Báo chí Việt Nam"
+			"name": "Lời chúc ngày Báo chí Việt Nam",
+			"color": "#449944"
 		},
 		{
 			"id": "40",
@@ -186,15 +224,18 @@
 			"sub": [{
 				"id": "40",
 				"CatId": "18",
-				"name": "Lời chúc tết trung thu cho người yêu"
+				"name": "Lời chúc tết trung thu cho người yêu",
+				"color": "#449944"
 			}, {
 				"id": "41",
 				"CatId": "18",
-				"name": "Lời chúc tết trung thu cho người thân"
+				"name": "Lời chúc tết trung thu cho người thân",
+				"color": "#449944"
 			}, {
 				"id": "42",
 				"CatId": "18",
-				"name": "Lời chúc tết trung thu cho các Bé"
+				"name": "Lời chúc tết trung thu cho các Bé",
+				"color": "#449944"
 			}, {
 				"id": "43",
 				"CatId": "18",
