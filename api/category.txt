@@ -6,60 +6,70 @@
 				"id": "2",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn",
-				"color": "#cfbabd"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "4",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật người yêu",
-				"color": "#d0b3db"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "3",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bằng tiếng anh",
-				"color": "#b7ead9"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "34",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật mẹ",
-				"color": "#f0d6e6"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "35",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bố",
-				"color": "#d8e3e7"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "36",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn gái",
-				"color": "#ece1d4"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "37",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn bè",
-				"color": "#fef3d9"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "38",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật chồng",
-				"color": "#fee5ed"
+				"name": "Lời chúc mừng sinh nhật chồng"
 			}],
-			"color": "#cfbabd"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "5",
 			"CatId": "2",
 			"name": "Lời chúc ngủ ngon hay ý nghĩa",
-			"color": "#d0b3db"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "6",
 			"CatId": "3",
 			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
-			"color": "#b7ead9"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "7",
 			"CatId": "4",
 			"name": "Lời chúc mừng giáng sinh hay nhất",
-			"color": "#f0d6e6"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "5",
@@ -68,38 +78,45 @@
 				"id": "8",
 				"CatId": "5",
 				"name": "Tổng hợp lời chúc tết 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "24",
 				"CatId": "5",
 				"name": "Lời chúc tết bạn bè 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "25",
 				"CatId": "5",
 				"name": "Lời chúc tết người yêu 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "26",
 				"CatId": "5",
 				"name": "Lời chúc tết ông bà 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "27",
 				"CatId": "5",
 				"name": "Lời chúc tết bố mẹ 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "28",
 				"CatId": "5",
 				"name": "Lời chúc tết thầy cô 2021",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "29",
 				"CatId": "5",
 				"name": "Lời chúc tết Sếp, đồng nghiệp 2021"
 			}],
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "6",
@@ -108,19 +125,22 @@
 				"id": "9",
 				"CatId": "6",
 				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "10",
 				"CatId": "6",
 				"name": "Lời chúc 20/11 bằng Tiếng Anh"
 			}],
-			"color": "#442266"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "11",
 			"CatId": "7",
 			"name": "Status cho FA Hay, Hài Hước và Độc",
-			"color": "#aa0000"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "8",
@@ -129,18 +149,21 @@
 				"id": "12",
 				"CatId": "8",
 				"name": "Tổng hợp lời chúc ngày Lễ Tình Yêu (Valentine 14-02)",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "13",
 				"CatId": "8",
 				"name": "Lời chúc Valentine cho Vợ/Chồng",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "14",
 				"CatId": "8",
 				"name": "Lời chúc Valentine Hài hước"
 			}],
-			"color": "#c79dd7"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "9",
@@ -149,74 +172,88 @@
 				"id": "15",
 				"CatId": "9",
 				"name": "Tổng hợp lời chúc 8/3",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "16",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 hài hước",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "17",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 cô giáo",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "18",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 bạn gái/người yêu",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "19",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 tặng mẹ",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "20",
 				"CatId": "9",
 				"name": "Lời chúc 8/3 tặng vợ"
 			}],
-			"color": "#bbbefe"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "21",
 			"CatId": "10",
 			"name": "Lời chúc ngày của mẹ",
-			"color": "#fee5ed"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "22",
 			"CatId": "11",
 			"name": "Lời chúc ngày của cha",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "23",
 			"CatId": "12",
 			"name": "Lời chúc ngày gia đình Việt Nam",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "30",
 			"CatId": "13",
 			"name": "Lời chúc ngày quốc tế hanh phúc 20/3",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "31",
 			"CatId": "14",
 			"name": "Lời chúc ngày quốc tế thiếu nhi 1/6",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "32",
 			"CatId": "15",
 			"name": "Lời chúc ngày Valentine trắng 14/3",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "33",
 			"CatId": "16",
 			"name": "Lời chúc ngày thầy thuốc Việt Nam 27/2",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		}, {
 			"id": "39",
 			"CatId": "17",
 			"name": "Lời chúc ngày Báo chí Việt Nam",
-			"color": "#449944"
+			"color": "#449944",
+			"image": "img/bg_tet.img",
 		},
 		{
 			"id": "40",
@@ -226,23 +263,27 @@
 				"id": "40",
 				"CatId": "18",
 				"name": "Lời chúc tết trung thu cho người yêu",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "41",
 				"CatId": "18",
 				"name": "Lời chúc tết trung thu cho người thân",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "42",
 				"CatId": "18",
 				"name": "Lời chúc tết trung thu cho các Bé",
-				"color": "#449944"
+				"color": "#449944",
+				"image": "img/bg_tet.img",
 			}, {
 				"id": "43",
 				"CatId": "18",
 				"name": "Lời chúc tết trung thu cho bạn bè"
 			}],
-			"color": "#885d41"
+			"color": "#885d41",
+			"image": "img/bg_tet.img",
 		}
 	]
 }
