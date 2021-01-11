@@ -144,7 +144,7 @@
 			"CatId": "7",
 			"name": "Status cho FA Hay, Hài Hước và Độc",
 			"color": "#aa0000",
-			"image": "img/bg_tet.jpg"
+			"image": "img/bg_fa.jpg"
 		},
 		{
 			"id": "8",
