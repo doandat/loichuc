@@ -6,69 +6,71 @@
 				"id": "2",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn",
-				"color": "#449944",
+				"color": "#cfbabd",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "4",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật người yêu",
-				"color": "#449944",
+				"color": "#d0b3db",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "3",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bằng tiếng anh",
-				"color": "#449944",
+				"color": "#b7ead9",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "34",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật mẹ",
-				"color": "#449944",
+				"color": "#f0d6e6",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "35",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bố",
-				"color": "#449944",
+				"color": "#d8e3e7",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "36",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn gái",
-				"color": "#449944",
+				"color": "#ece1d4",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "37",
 				"CatId": "1",
 				"name": "Lời chúc mừng sinh nhật bạn bè",
-				"color": "#449944",
+				"color": "#fef3d9",
 				"image": "img/bg_tet.jpg"
 			}, {
 				"id": "38",
 				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật chồng"
+				"name": "Lời chúc mừng sinh nhật chồng",
+				"color": "#fee5ed",
+				"image": "img/bg_tet.jpg"
 			}],
-			"color": "#449944",
+			"color": "#cfbabd",
 			"image": "img/bg_tet.jpg"
 		},
 		{
 			"id": "5",
 			"CatId": "2",
 			"name": "Lời chúc ngủ ngon hay ý nghĩa",
-			"color": "#449944",
+			"color": "#d0b3db",
 			"image": "img/bg_tet.jpg"
 		}, {
 			"id": "6",
 			"CatId": "3",
 			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
-			"color": "#449944",
+			"color": "#b7ead9",
 			"image": "img/bg_tet.jpg"
 		}, {
 			"id": "7",
 			"CatId": "4",
 			"name": "Lời chúc mừng giáng sinh hay nhất",
-			"color": "#449944",
+			"color": "#f0d6e6",
 			"image": "img/bg_tet.jpg"
 		},
 		{
@@ -132,14 +134,14 @@
 				"CatId": "6",
 				"name": "Lời chúc 20/11 bằng Tiếng Anh"
 			}],
-			"color": "#449944",
+			"color": "#442266",
 			"image": "img/bg_tet.jpg"
 		},
 		{
 			"id": "11",
 			"CatId": "7",
 			"name": "Status cho FA Hay, Hài Hước và Độc",
-			"color": "#449944",
+			"color": "#aa0000",
 			"image": "img/bg_tet.jpg"
 		},
 		{
@@ -162,7 +164,7 @@
 				"CatId": "8",
 				"name": "Lời chúc Valentine Hài hước"
 			}],
-			"color": "#449944",
+			"color": "#c79dd7",
 			"image": "img/bg_tet.jpg"
 		},
 		{
@@ -203,14 +205,14 @@
 				"CatId": "9",
 				"name": "Lời chúc 8/3 tặng vợ"
 			}],
-			"color": "#449944",
+			"color": "#bbbefe",
 			"image": "img/bg_tet.jpg"
 		},
 		{
 			"id": "21",
 			"CatId": "10",
 			"name": "Lời chúc ngày của mẹ",
-			"color": "#449944",
+			"color": "#fee5ed",
 			"image": "img/bg_tet.jpg"
 		}, {
 			"id": "22",
