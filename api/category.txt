@@ -1,79 +1,6 @@
 {
-	"result": [{
-			"id": "1",
-			"name": "Lời chúc mừng sinh nhật",
-			"sub": [{
-				"id": "2",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn",
-				"color": "#cfbabd",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "4",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật người yêu",
-				"color": "#d0b3db",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "3",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bằng tiếng anh",
-				"color": "#b7ead9",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "34",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật mẹ",
-				"color": "#f0d6e6",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "35",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bố",
-				"color": "#d8e3e7",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "36",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn gái",
-				"color": "#ece1d4",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "37",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật bạn bè",
-				"color": "#fef3d9",
-				"image": "img/bg_tet.jpg"
-			}, {
-				"id": "38",
-				"CatId": "1",
-				"name": "Lời chúc mừng sinh nhật chồng",
-				"color": "#fee5ed",
-				"image": "img/bg_tet.jpg"
-			}],
-			"color": "#cfbabd",
-			"image": "img/bg_tet.jpg"
-		},
-		{
-			"id": "5",
-			"CatId": "2",
-			"name": "Lời chúc ngủ ngon hay ý nghĩa",
-			"color": "#d0b3db",
-			"image": "img/bg_tet.jpg"
-		}, {
-			"id": "6",
-			"CatId": "3",
-			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
-			"color": "#b7ead9",
-			"image": "img/bg_tet.jpg"
-		}, {
-			"id": "7",
-			"CatId": "4",
-			"name": "Lời chúc mừng giáng sinh hay nhất",
-			"color": "#f0d6e6",
-			"image": "img/bg_tet.jpg"
-		},
-		{
+	"result": [
+	{
 			"id": "5",
 			"name": "Tổng hợp lời chúc tết 2021",
 			"sub": [{
@@ -119,6 +46,79 @@
 			}],
 			"color": "#449944",
 			"image": "img/bg_tet.jpg"
+		}, {
+			"id": "1",
+			"name": "Lời chúc mừng sinh nhật",
+			"sub": [{
+				"id": "2",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật bạn",
+				"color": "#cfbabd",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "4",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật người yêu",
+				"color": "#d0b3db",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "3",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật bằng tiếng anh",
+				"color": "#b7ead9",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "34",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật mẹ",
+				"color": "#f0d6e6",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "35",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật bố",
+				"color": "#d8e3e7",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "36",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật bạn gái",
+				"color": "#ece1d4",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "37",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật bạn bè",
+				"color": "#fef3d9",
+				"image": "img/bg_birthday.jpg"
+			}, {
+				"id": "38",
+				"CatId": "1",
+				"name": "Lời chúc mừng sinh nhật chồng",
+				"color": "#fee5ed",
+				"image": "img/bg_birthday.jpg"
+			}],
+			"color": "#cfbabd",
+			"image": "img/bg_birthday.jpg"
+		},
+		{
+			"id": "5",
+			"CatId": "2",
+			"name": "Lời chúc ngủ ngon hay ý nghĩa",
+			"color": "#d0b3db",
+			"image": "img/bg_sleep.jpg"
+		}, {
+			"id": "6",
+			"CatId": "3",
+			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
+			"color": "#b7ead9",
+			"image": "img/bg_2010.jpg"
+		}, {
+			"id": "7",
+			"CatId": "4",
+			"name": "Lời chúc mừng giáng sinh hay nhất",
+			"color": "#f0d6e6",
+			"image": "img/bg_giangsinh.jpg"
 		},
 		{
 			"id": "6",
@@ -128,14 +128,16 @@
 				"CatId": "6",
 				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa",
 				"color": "#449944",
-				"image": "img/bg_tet.jpg"
+				"image": "img/bg_2011.jpg"
 			}, {
 				"id": "10",
 				"CatId": "6",
-				"name": "Lời chúc 20/11 bằng Tiếng Anh"
+				"name": "Lời chúc 20/11 bằng Tiếng Anh",
+				"color": "#449944",
+				"image": "img/bg_2011.jpg"
 			}],
 			"color": "#442266",
-			"image": "img/bg_tet.jpg"
+			"image": "img/bg_2011.jpg"
 		},
 		{
 			"id": "11",
