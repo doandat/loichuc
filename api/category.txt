@@ -1,6 +1,5 @@
 {
-	"result": [
-		{
+	"result": [{
 			"id": "5",
 			"type": "1",
 			"name": "Lời chúc tết hay nhất 2021",
@@ -56,13 +55,13 @@
 			"image": "img/bg_tet.jpg"
 		},
 		{
-				"id": "thieptet",
-				"type": "2",
-				"CatId": "1",
-				"name": "Thư viện Thiệp chúc tết 2021",
-				"color": "#449944",
-				"image": "img/bg_tet.jpg"
-			}, {
+			"id": "thieptet",
+			"type": "2",
+			"CatId": "1",
+			"name": "Thư viện Thiệp chúc tết 2021",
+			"color": "#449944",
+			"image": "img/bg_tet.jpg"
+		}, {
 			"id": "1",
 			"type": "1",
 			"name": "Lời chúc mừng sinh nhật",
