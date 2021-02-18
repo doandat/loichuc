@@ -10,6 +10,13 @@
 				"name": "Các câu nói hay về cuộc sống, Tình yêu",
 				"color": "#449944",
 				"image": "img/bg_caunoihay.jpg"
+			},{
+				"id": "caunoihay_cuocsongbuon",
+				"type": "1",
+				"CatId": "caunoihay",
+				"name": "Các câu nói giúp bạn vực dậy mạnh mẽ",
+				"color": "#449944",
+				"image": "img/bg_caunoihay.jpg"
 			}],
 			"color": "#bbbefe",
 			"image": "img/bg_caunoihay.jpg"
