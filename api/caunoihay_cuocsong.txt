@@ -1,0 +1,43 @@
+{
+	"result": [{
+		"id": "1",
+		"content": "Thế giới bạn không bước vào được thì đừng cố chen vào, làm khó người khác, lỡ dở mình, hà tất chứ?",
+		"translate": ""
+	}, {
+		"id": "2",
+		"content": "Đôi khi, không cẩn thận biết một số chuyện, mới phát hiện ra rằng những điều bản thân để tâm lại nực cười đến thế.",
+		"translate": ""
+	}, {
+		"id": "3",
+		"content": "Đừng bao giờ thay đổi mình vì người khác. Nếu họ không thể tiếp nhận một con người nhiều điểm xấu là bạn, thì cũng không xứng để có được một con người với nhiều điểm tốt là bạn.",
+		"translate": ""
+	}, {
+		"id": "4",
+		"content": "Đôi khi sự đấu tranh luôn cần phải có trong cuộc sống. Nếu cuộc sống trôi qua thật suôn sẻ, chúng ta sẽ không hiểu được cuộc sống, không có được bản lĩnh, nghị lực như chúng ta cần phải có, cuộc sống thật công bằng, không phải vô cớ mà mọi điều xảy đến với ta.",
+		"translate": ""
+	}, {
+		"id": "5",
+		"content": "Bạn cần sức mạnh, nghị lực nên cuộc sống đã đặt ra những khó khăn nghịch cảnh để bạn vượt qua và trở nên mạnh mẽ hơn",
+		"translate": ""
+	}, {
+		"id": "6",
+		"content": "Cuộc sống của bạn chỉ thật sự ý nghĩa và trọn vẹn khi bạn biết giữ gìn và nuôi dưỡng ước mơ, biết ghi nhận, biết tin vào những lời hứa.",
+		"translate": ""
+	}, {
+		"id": "7",
+		"content": "Đừng bao giờ cau mày hay nhăn mặt thậm chí khi bạn đang buồn, chắc chắn sẽ có ai đó yêu bạn chỉ vì nụ cười của bạn thôi. Với thế giới bạn chỉ là một cá nhân nhưng đối với một ai đó, bạn là cả thế giới.",
+		"translate": ""
+	}, {
+		"id": "8",
+		"content": "Bạn cần sự hiểu biết và sáng tạo nên cuộc sống đã ban cho bạn đôi bàn tay và trí óc để khám phá và làm việc.",
+		"translate": ""
+	}, {
+		"id": "9",
+		"content": "Nếu để ý đến những điều bạn đang có trong cuộc sống, bạn sẽ nhận được nhiều hơn thế. Còn nếu chỉ để ý đến những điều bạn không có, bạn sẽ thấy mình không bao giờ có đủ.",
+		"translate": ""
+	}, {
+		"id": "10",
+		"content": "Bạn sẽ tìm thấy niềm vui khi giúp đỡ người khác bằng tất cả tấm lòng.",
+		"translate": ""
+	}]
+}

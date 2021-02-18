@@ -1,5 +1,19 @@
 {
 	"result": [{
+			"id": "caunoihay",
+			"type": "1",
+			"name": "Các câu hói hay và ý nghĩa",
+			"sub": [{
+				"id": "caunoihay_cuocsong",
+				"type": "1",
+				"CatId": "caunoihay",
+				"name": "Các câu nói hay về cuộc sống, Tình yêu",
+				"color": "#449944",
+				"image": "img/bg_caunoihay.jpg"
+			}],
+			"color": "#bbbefe",
+			"image": "img/bg_caunoihay.jpg"
+		},{
 			"id": "9",
 			"type": "1",
 			"name": "Lời chúc 8/3",
