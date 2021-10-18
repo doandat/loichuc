@@ -1,43 +1,43 @@
 {
 	"result": [{
 		"id": "",
-		"content": "Gửi tới lời chúc thân thương nhất đến cô bạn/đồng nghiệp luôn tươi vui, hạnh phúc nhé. Hy vọng bạn sẽ đạt được mọi dự định trong tương lai. ",
-		"translate": ""
+		"content": "A beautiful woman, a great friend and a wonderful mother. You are all this to me and much more… I feel so lucky and proud to have a mom like you.",
+		"translate": "(Không chỉ là một người phụ nữ tuyệt vời, một người bạn tốt mà còn là một người tuyệt vời. Mẹ là tất cả với chúng con và hơn thế nữa. Con cảm thấy thật sự may mắn và vô cùng tự hào khi được làm con của mẹ) "
 	}, {
 		"id": "",
-		"content": "Chúc bạn thân của mình sẽ nhận được thật nhiều quà vào ngày hôm nay. Sớm có người yêu để mình còn được ăn cỗ nhé!!",
-		"translate": ""
+		"content": "I make this to give it to the most special woman in my life. Love you mom!",
+		"translate": "(Con làm nó để tặng cho người phụ nữ đặc biệt nhất trong cuộc đời. Con yêu mẹ!)"
 	}, {
 		"id": "",
-		"content": "Thay mặt 2 mì chính cánh của lớp, chúc các bạn nữ luôn xinh đẹp, học giỏi, thành công và đặc biệt luôn vui cười, rạng rỡ nhé!",
-		"translate": ""
+		"content": "Happy Vietnamese Women’s Day! Sending you wishes to say you blossom up the world around me! ",
+		"translate": "(Chúc mừng ngày Phụ nữ Việt Nam, gửi vợ những lời chúc tốt đẹp nhất bởi khi em xuất hiện đã khiến xung quanh anh rạng rỡ đến nhường nào)"
 	}, {
 		"id": "",
-		"content": "Nhân dịp 20/10, thay mặt anh em trong công ty, chúc chị em phái nữ luôn xinh đẹp, làm việc thì hết sức, vui chơi thì hết mình.",
-		"translate": ""
+		"content": "Wishing a very Happy Vietnamese Women’s Day to the most amazing women I know",
+		"translate": "(Chúc mừng những người phụ nữ mà tôi biết một ngày 20/10 thật vui vẻ, tràn ngập niềm vui và hạnh phúc)"
 	}, {
 		"id": "",
-		"content": "Chúc phái đẹp của công ty có một ngày 20/10 thật ý nghĩa, tràn ngập hạnh phúc. Đặc biệt là luôn rạng ngời, xinh đẹp trong mắt một nửa còn lại.",
-		"translate": ""
+		"content": "Happy Vietnamese Women’s Day to the one who has stolen my heart! Love you, my baby!",
+		"translate": "(Chúc người đã đánh cắp trái tim của tôi một ngày Phụ nữ Việt Nam vui vẻ, hạnh phúc! Yêu em, vợ của anh)"
 	}, {
 		"id": "",
-		"content": "Chúc cô bạn thân của tôi ngày 20/10 nhận được nhiều hoa, nhiều quà, nhiều lời chúc nhé. Ai có chồng thì luôn tươi vui, hạnh phúc. Ai chưa có người yêu thì sớm có người yêu nha!",
-		"translate": ""
+		"content": "Wishing a very happy Vietnamese Women’s Day to the most amazing girl that I know! I love you!",
+		"translate": "(Chúc cho cô gái của anh một ngày 20/10 thật nhiều niềm vui! Yêu em)"
 	}, {
 		"id": "",
-		"content": "Chúc bạn một ngày 20/10 thật ý nghĩa bên người mình yêu thương. ",
-		"translate": ""
+		"content": "Sending you best wishes to say you blossom up the world around me! Happy Vietnamese Women’s Day! I love you so much!",
+		"translate": "(Gửi tới những lời chúc tốt đẹp nhất đến vợ - người đã làm thế giới xung quanh tôi nở rộ. Ngày Phụ nữ Việt Nam thật vui vẻ em nhé! Yêu vợ rất nhiều!) "
 	}, {
 		"id": "",
-		"content": "Nhân dịp 20/10, chúc một nửa thế giới vạn sự như ý, trăm điều bình an.",
-		"translate": ""
+		"content": "Feel special, unique, on top of the world. It’s your day! Happy Women's Day my girl.",
+		"translate": "(Hãy cảm thấy mình khác biệt, duy nhất vào chính ngày của bạn nhé! Chúc mừng ngày Phụ nữ Việt Nam, cô gái của tôi) "
 	}, {
 		"id": "",
-		"content": "Xin gửi tới cô bạn đồng nghiệp lời chúc thật đẹp, ý nghĩa nhân dịp 20/10. Chúc bạn luôn vui vẻ, tràn đầy năng lượng để hoàn thành tốt những nhiệm vụ được giao. ",
-		"translate": ""
+		"content": "Happy Vietnamese Women’s Day to the one who has stolen my heart.",
+		"translate": "(Chúc mừng ngày 20/10 đến người phụ nữ đã lấy cắp trái tim của tôi) "
 	}, {
 		"id": "",
-		"content": "Cầu chúc cho toàn thể chị em phụ nữ một ngày 20/10 đầy ý nghĩa, luôn là người phụ nữ đẹp và rạng rỡ nhất trong mắt của một nửa còn lại. ",
-		"translate": ""
+		"content": "The best place in the world for me is… by your side! I love you!",
+		"translate": "(Nơi tuyệt vời nhất trên thế giới đó chính là được ở bên cạnh bạn! Yêu bạn!)"
 	}]
 }
