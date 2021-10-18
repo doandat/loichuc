@@ -10,7 +10,7 @@
 				"name": "Các câu nói hay về cuộc sống, Tình yêu",
 				"color": "#449944",
 				"image": "img/bg_caunoihay.jpg"
-			},{
+			}, {
 				"id": "caunoihay_cuocsongbuon",
 				"type": "1",
 				"CatId": "caunoihay",
@@ -20,7 +20,37 @@
 			}],
 			"color": "#bbbefe",
 			"image": "img/bg_caunoihay.jpg"
-		},{
+		},
+		{
+			"id": "6",
+			"type": "1",
+			"CatId": "3",
+			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
+			"color": "#b7ead9",
+			"image": "img/bg_2010.jpg"
+		}, {
+			"id": "6",
+			"type": "1",
+			"name": "Lời chúc 20/11 hay ý nghĩa",
+			"sub": [{
+				"id": "9",
+				"type": "1",
+				"CatId": "6",
+				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa",
+				"color": "#449944",
+				"image": "img/bg_2011.jpg"
+			}, {
+				"id": "10",
+				"type": "1",
+				"CatId": "6",
+				"name": "Lời chúc 20/11 bằng Tiếng Anh",
+				"color": "#449944",
+				"image": "img/bg_2011.jpg"
+			}],
+			"color": "#442266",
+			"image": "img/bg_2011.jpg"
+		},
+		{
 			"id": "9",
 			"type": "1",
 			"name": "Lời chúc 8/3",
@@ -245,41 +275,12 @@
 			"image": "img/bg_tet.jpg"
 		},
 		{
-			"id": "6",
-			"type": "1",
-			"CatId": "3",
-			"name": "Lời chúc mừng ngày 20/10 hay ý nghĩa",
-			"color": "#b7ead9",
-			"image": "img/bg_2010.jpg"
-		}, {
 			"id": "7",
 			"type": "1",
 			"CatId": "4",
 			"name": "Lời chúc mừng giáng sinh hay nhất",
 			"color": "#f0d6e6",
 			"image": "img/bg_giangsinh.jpg"
-		},
-		{
-			"id": "6",
-			"type": "1",
-			"name": "Lời chúc 20/11 hay ý nghĩa",
-			"sub": [{
-				"id": "9",
-				"type": "1",
-				"CatId": "6",
-				"name": "Tổng hợp lời chúc 20/11 hay ý nghĩa",
-				"color": "#449944",
-				"image": "img/bg_2011.jpg"
-			}, {
-				"id": "10",
-				"type": "1",
-				"CatId": "6",
-				"name": "Lời chúc 20/11 bằng Tiếng Anh",
-				"color": "#449944",
-				"image": "img/bg_2011.jpg"
-			}],
-			"color": "#442266",
-			"image": "img/bg_2011.jpg"
 		},
 
 		{
