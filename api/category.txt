@@ -85,7 +85,15 @@
 			}],
 			"color": "#b7ead9",
 			"image": "img/bg_2010.jpg"
-		}, {
+		}, 
+		{
+			"id": "thiep2010",
+			"type": "2",
+			"CatId": "1",
+			"name": "Thư viện Thiệp 20/10",
+			"color": "#449944",
+			"image": "img/bg_tet.jpg"
+		},{
 			"id": "6",
 			"type": "1",
 			"name": "Lời chúc 20/11 hay ý nghĩa",
