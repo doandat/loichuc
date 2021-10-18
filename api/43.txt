@@ -1,0 +1,63 @@
+{
+	"result": [{
+		"id": "2995",
+		"content": "Chúc bạn Trung thu ý nghĩa, vui vẻ và đáng nhớ bên bạn bè, người thân và đặc biệt là người ấy nhé.",
+		"translate": ""
+	}, {
+		"id": "2996",
+		"content": "Đã lâu lắm rồi, trung thu mình và bạn chưa được đi với nhau .... nhưng dù sau đi nữa mình cũng chúc bạn có 1 đêm thật vui vẻ và hạnh phúc bên những người thân yêu và đừng quên thằng bạn thân này nhé.",
+		"translate": ""
+	}, {
+		"id": "2997",
+		"content": "Chúc mày có một trung thu vui vẻ, cùng gia đình đón tết đoàn viên rộn rã tiếng cười, trà bánh thơm ngọt thưởng trăng.",
+		"translate": ""
+	}, {
+		"id": "2998",
+		"content": "Đã lâu lắm rồi , trung thu mình và bạn chưa được đi với nhau …. nhưng dù sau đi nữa mình cũng chúc bạn có 1 đêm thật vui vẻ và hạnh phúc bên những người thân yêu và đừng quên thằng bạn thân này nhé",
+		"translate": ""
+	}, {
+		"id": "2999",
+		"content": "Kính chúc Qúy Khách một mùa Trung Thu thật vui vẻ, hạnh phúc bên gia đình và những người thân yêu",
+		"translate": ""
+	}, {
+		"id": "3000",
+		"content": "Chúc bạn và gia đình đón trung thu vui vẻ nhé.",
+		"translate": ""
+	}, {
+		"id": "3001",
+		"content": "Chúc mừng Trung thu năm nay sẽ vui hơn năm trước. Chúc bạn sẽ đón 1 cái tết trung thu thật vui vẻ bên ông bà và những đứa con ngoan của mình.",
+		"translate": ""
+	}, {
+		"id": "3002",
+		"content": "Ngày tết đoàn viên, chúc bạn và gia đình luôn vui vẻ, hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "3003",
+		"content": "Chúc bạn có 1 đêm tết trung thu vui vẻ và hạnh phúc bên gia đình.",
+		"translate": ""
+	}, {
+		"id": "3004",
+		"content": "Khi bạn nhận được tin nhắn này thì hãy vui vẻ cười lên nhé, vì ít nhất đâu đó quanh đây vẫn còn có một người mong bạn hạnh phúc, vui vẻ trong ngày đặc biệt này. Chúc bạn có một ngày tết trung thu thật ý nghĩa, mãi luôn xinh tươi và yêu đời như thế đó, chúng ta sẽ mãi mãi là bạn thân của nhau nhé!",
+		"translate": ""
+	}, {
+		"id": "3005",
+		"content": "Trung thu đến rồi, tạm gác lại công việc và chuyện cơm áo gạo tiền đi ông bạn. Vui trung thu đi thôi, già hết phần của người khác rồi kìa.Trung thu vui vẻ, nhậu nhỉ?",
+		"translate": ""
+	}, {
+		"id": "3006",
+		"content": "Chúc cho đại gia đình bạn Trung thu ngập tràn tiếng cười, niềm vui.",
+		"translate": ""
+	}, {
+		"id": "3007",
+		"content": "Chúc mừng trung thu năm nay sẽ vui hơn trung thu năm trước.",
+		"translate": ""
+	}, {
+		"id": "3008",
+		"content": "Chúc bạn sẽ đón 1 cái tết trung thu thật vui vẻ bên ông bà , và những đứa con ngoan của mình ",
+		"translate": ""
+	}, {
+		"id": "3009",
+		"content": "Ngày đoàn viên, chúc gia đình bạn luôn vui vẻ, hạnh phúc.",
+		"translate": ""
+	}]
+}

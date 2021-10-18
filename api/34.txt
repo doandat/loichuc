@@ -1,0 +1,503 @@
+{
+	"result": [{
+		"id": "2362",
+		"content": "Mẹ à, mẹ là món quà quý giá nhất mà ông trời đã ban cho con. Nhân ngày sinh nhật mẹ, con kính chúc mẹ sống lâu trăm tuổi và mãi là người mẹ tốt nhất của chúng con! Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "2363",
+		"content": "Chúc Mẹ sức khoẻ, chúc Mẹ luôn hạnh phúc bên chúng con. Chúc Mẹ giữ mãi sự tin tưởng vào các con của Mẹ. Con yêu Mẹ!",
+		"translate": ""
+	}, {
+		"id": "2364",
+		"content": "Nhân ngày sinh nhật Mẹ! Con kính chúc Mẹ luôn luôn mạnh khoẻ, hạnh phúc, vui vẻ, luôn sát cánh bên con và cho con những lời khuyên để con vững bước trong cuộc sống Mẹ nhé. Con yêu Mẹ nhiều!",
+		"translate": ""
+	}, {
+		"id": "2365",
+		"content": "Cám ơn Mẹ, người đã sinh ra chúng con và nuôi dưỡng chúng con cho đến ngày khôn lớn. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt bao năm qua….Con chúc Mẹ ngày sinh nhật vui vẻ và sống khỏe bên các con, con yêu Mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "2366",
+		"content": "Mẹ là người tuyệt vời nhất mà Thượng đế ban tặng cho chúng con. Cảm ơn Mẹ đã đến bên con, nuôi nấng và dạy dỗ con nên người. Chúc Mẹ bước sang tuổi mới mãi vui tươi và mạnh khỏe.",
+		"translate": ""
+	}, {
+		"id": "2367",
+		"content": "Cảm ơn tạo hóa đã cho Con một người mẹ dịu hiền, nhẹ nhàng, luôn bao bọc, chở che dù đứa con đã khôn lớn nhường nào. Một người mẹ luôn sẵn sàng hy sinh tất cả vì con,… Chúc mừng sinh nhật mẹ của con.",
+		"translate": ""
+	}, {
+		"id": "2368",
+		"content": "Khi con còn nhỏ, mẹ hay nói mẹ không thích hoa, không thích quà, mẹ chỉ thích con luôn khỏe mạnh và ngoan ngoãn. Nhưng chúng con đâu biết được, vì mẹ không muốn tốn kém cho bản thân mình, mà chỉ muốn dành điều ấy cho đứa con của me. Mẹ, chúng con giờ đã khôn lớn, đã hiểu cuộc đời hơn. Cảm ơn mẹ đã luôn hy sinh vì chúng con. Sinh nhật mẹ từ nay, hãy để chúng con gửi đến mẹ tình yêu và lòng ngưỡng mộ đến mẹ. cầu mong mẹ luôn mạnh khỏe và luôn vui vẻ bên cạnh chúng con. Chúng con yêu mẹ rất nhiều. cảm ơn mẹ rất nhiều.",
+		"translate": ""
+	}, {
+		"id": "2369",
+		"content": "Mẹ à. Con muốn nói với Mẹ một điều rằng, con yêu mẹ nhiều lắm, con thương Mẹ nhiều lắm. Chúc Mẹ sinh nhật vui vẻ, sang tuổi mới luôn vui vẻ và thật nhiều sức khỏe.",
+		"translate": ""
+	}, {
+		"id": "2370",
+		"content": "Mẹ thân mến, cảm ơn mẹ đã để con được làm con dâu của mẹ. Trong mắt con, mẹ là người phụ nữ thật vĩ đại, mẹ đã hết lòng vì con vì cháu, chăm lo cho gia đình, chăm sóc tận tình cho Bố và những đứa con ngoan của mẹ. cảm ơn mẹ, người phụ nữ tuyệt vời đã sinh ra, nuôi dưỡng một người chồng hoàn hảo cho con như vậy. Ngày sinh nhật mẹ, chúng con xin chúc mẹ thật nhiều niềm vui và hạnh phúc mãi mãi",
+		"translate": ""
+	}, {
+		"id": "2371",
+		"content": "Mẹ ơi!. Sinh nhật mẹ con chúc mẹ sức khỏe, thời gian qua con đã làm mẹ buồn và lo toan về con nhiều quá. Con tự hứa sẽ cố gắng học thật tốt để không làm mẹ buồn thêm nữa. Con yêu mẹ yêu lắm!",
+		"translate": ""
+	}, {
+		"id": "2372",
+		"content": "Chúc mừng sinh nhật mẹ yêu. Con chỉ muốn nói với mẹ một điều rằng không có mẹ cuộc sống của con trở nên thật tẻ nhạt và vô nghĩa. Mẹ là ánh sáng của đời con, con yêu mẹ nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2373",
+		"content": "Sinh nhật mẹ . Con mong ước nhỏ thôi, chỉ mong sao hằng đêm mỗi tin nhắn mẹ trả lời sau câu hỏi của con “Mẹ ơi, mẹ ngủ chưa” sẽ không còn là những tiếng thở dài “Mẹ đang nằm mà suy nghĩ nên mãi không ngủ được…”. Con hiểu… Con chỉ mong cho mẹ sức khỏe, trẻ mãi không già…",
+		"translate": ""
+	}, {
+		"id": "2374",
+		"content": "Chúc mừng người phụ nữ rất xinh đẹp, rất đảm đang và vô cùng tuyệt vời nhất của con…Đặc biệt rất thương chồng thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu Mẹ nhiều lắm. Con hạnh phúc vì con là con của Mẹ – một người Mẹ đảm đang và nhân hậu! Chúc mẹ inh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2375",
+		"content": "Mẹ yêu con bằng những cai ôm, cha yêu con bằng bờ vai vững chãi. Sinh nhật bố mẹ, con mong bố mẹ luôn vui khỏe, luôn cười tươi và sống bên chúng con thật lâu",
+		"translate": ""
+	}, {
+		"id": "2376",
+		"content": "Con chưa từng biết, va chưa từng tìm hiểu xem Mẹ thích gì nhất trong cuộc đời, có phải con là đứa con vô tâm quá phải không Mẹ. Chúc Mẹ sinh nhật vui vẻ, ấm áp.",
+		"translate": ""
+	}, {
+		"id": "2377",
+		"content": "Mẹ à, có một câu mà con chưa bao giờ đủ can đảm để nói ra với Mẹ: “Con yêu Mẹ nhiều lắm” mẹ à, chúc mừng sinh nhật Mẹ.",
+		"translate": ""
+	}, {
+		"id": "2378",
+		"content": "Mẹ yêu con bằng những cái ôm, cha yêu con bằng bờ vai vững chãi, cả cuộc đời con nợ hai đấng sinh thành lời nói biết ơn. Sinh nhật mẹ, con chúc mẹ niềm vui trong cuộc sống để mẹ cười thật nhiều, chúc mẹ luôn hạnh phúc và xinh đẹp.",
+		"translate": ""
+	}, {
+		"id": "2379",
+		"content": "Gửi mẹ yêu của con! Con chẳng biết nói gì hơn, nhân ngày sinh nhật của mẹ, con chỉ biết chúc mẹ yêu luôn luôn mạnh khoẻ, hạnh phúc và luôn luôn là người mẹ mà con dành tình yêu nhiều nhất.",
+		"translate": ""
+	}, {
+		"id": "2380",
+		"content": "Chúc mừng Mẹ! Chúc mừng người phụ nữ rất xinh đẹp, rất đảm đang và vô cùng tuyệt vời…Đặc biệt rất thương chồng thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu Mẹ nhiều lắm. Con hạnh phúc vì con là con của Mẹ – một người Mẹ đảm đang và nhân hậu!",
+		"translate": ""
+	}, {
+		"id": "2381",
+		"content": "Chúc mừng sinh nhật người phụ nữ của đời con. Chúc mẹ luôn xinh đẹp, luôn vui tươi. Mẹ mãi là người phụ nữ tuyệt vời nhất trong lòng bố con con.",
+		"translate": ""
+	}, {
+		"id": "2382",
+		"content": "Chúc mừng người phụ nữ vô cùng xinh đẹp, rất đảm đang và vô cùng tuyệt vời. Đặc biệt rất thương chồng thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu Mẹ nhiều lắm. Con hạnh phúc và tự hào vì con là con của Mẹ",
+		"translate": ""
+	}, {
+		"id": "2383",
+		"content": "Cám ơn Mẹ, người đã sinh ra và nuôi dưỡng con cho đến ngày trưởng thành. Cám ơn Mẹ, về những tháng ngày vất vả, nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ trở nên thâm quầng vì những đêm mất ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt quãng thời gian qua. Ngày hôm nay sinh nhật mẹ con chúc mẹ luôn vui vẻ và sống thật khỏe mạnh, con yêu Mẹ rất nhiều.",
+		"translate": ""
+	}, {
+		"id": "2384",
+		"content": "Gửi mẹ yêu của con! Con chẳng biết nói gì hơn, nhân ngày sinh nhật mẹ, con chỉ biết chúc mẹ luôn luôn mạnh khoẻ, hạnh phúc và luôn luôn là người mẹ mà con yêu quý nhất!",
+		"translate": ""
+	}, {
+		"id": "2385",
+		"content": "Gửi mẹ yêu của con! Sẽ chẳng có gì nói đủ cho công sinh thành dưỡng dục, sẽ chẳng có gì nói hết cho những hi sinh cả đời mẹ dành cho con, cho gia đình. Sinh ra là người phụ nữ, là người mẹ nghĩa là cả đời luôn vất vả. Sinh nhật mẹ, con chúc mẹ luôn mạnh khỏe, luôn vui tươi và hạnh phúc. Luôn là nơi bình yên nhất để con quay về.",
+		"translate": ""
+	}, {
+		"id": "2386",
+		"content": "Kính chúc Mẹ! Không chỉ là một ngày hôm nay mà tất cả 365 ngày mẹ đều luôn luôn vui vẻ, hạnh phúc! Để cho con luôn được nhìn thấy nụ cười, ánh mắt, cho con được cảm nhận tình yêu thương của Mẹ, mẹ cười nhìn mẹ đẹp lắm ạ. Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "2387",
+		"content": "Mẹ à, vậy là một ngày sinh nhật nữa của mẹ lại đến rồi, con biết mẹ không thích hoa, mẹ chỉ thích những gì thực tế, ý nghĩa nhất vì vậy con muốn gửi đến mẹ lời chúc sức khỏe, mong mẹ của con luôn khỏe mạnh, sống hạnh phúc bên 2 chị em con cùng với bố, con luôn bên mẹ, cùng mẹ sẻ chia bớt những gánh nặng gia đình. Dành tặng mẹ bài hát này, có thể con hát không hay nhưng đó là tất cả những gì con muốn gửi đến mẹ, đã từ lâu lắm rồi con không dám mở cho mẹ nghe, lời bài hát Tình mẹ là tất cả nỗi lòng của một đứa con gái là con muốn nói với mẹ, yêu mẹ nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2388",
+		"content": "Cảm ơn Mẹ đã đặt niềm tin vào con, cảm ơn Mẹ đã dõi theo từng bước đi của con, cảm ơn Mẹ đã ở bên động viên con những lúc con gặp bế tắc sa sút nhất. Con chẳng thể tưởng tưởng nổi, nếu không có Mẹ trên cuộc đời này có lẽ cũng chẳng thể tổn tại con Mẹ nhỉ. Chúc Mẹ sinh nhật vui vẻ và nhiều niềm vui.",
+		"translate": ""
+	}, {
+		"id": "2389",
+		"content": "Mẹ yêu ! Sinh nhật của mẹ con chúc mẹ mạnh khỏe và những may mắn, hạnh phúc nhất sẽ đến với mẹ trong cuộc đời.",
+		"translate": ""
+	}, {
+		"id": "2390",
+		"content": "Con thật tuyệt vời vì có Mẹ, từ những ngày đầu chập chững về làm dâu, còn nhiều thiếu xót và vụng về, nhưng mẹ đã luôn chỉ vảo và dạy dỗ con tận tình, để con có thể hoàn thiện bản thân như ngày hôm nay, trở thành một người con dâu ngoan, đảm của mẹ. con cảm thấy thực sự may mắn và hạnh phúc vì có mẹ, có mẹ là mẹ chồng. Hôm nay là ngày đặc biệt, ngày sinh của người phụ nữ tuyệt vời. con xin chúc mẹ sức khỏe tốt, hạnh phúc bên chúng con. Chúng con yêu mẹ nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2391",
+		"content": "Sinh nhật Mẹ con chưa có gì để tặng Mẹ cả, con luôn muốn dành những thứ tốt đẹp nhất trên cuộc đời này cho Mẹ, con luôn muốn Mẹ sống thật lâu bên chúng con. Mè à, con chúc mẹ sinh nhật ấm áp, con hứa sẽ trở thành một đứa con ngoan và hiếu thảo để Mẹ luôn vui.",
+		"translate": ""
+	}, {
+		"id": "2392",
+		"content": "Sinh nhật người phụ nữ tuyệt vời nhất của con, con chúc mẹ thật nhiều sức khỏe, để luôn bên cạnh và động viên con. Mẹ hãy mãi bên cạnh con nhé, con yêu mẹ rất nhiều",
+		"translate": ""
+	}, {
+		"id": "2393",
+		"content": "Mẹ yêu ơi ! Con chúc mẹ yêu luôn khỏe, trẻ đẹp mãi trong mắt của ba, bao la tình thương khi con lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối. Bên mẹ cha sum vầy là hạnh phúc nhất của đời con. Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "2394",
+		"content": "Chúc mừng Mẹ yêu quý của con! Mẹ ơi, con yêu Mẹ nhiều lắm. Có những lúc con đã làm Mẹ phải bận lòng về con phải không Mẹ. Nhưng con luôn yêu Mẹ, yêu Mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên con, giúp con vượt qua mọi khó khăn trong cuộc sống, Mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "2395",
+		"content": "Chúc mừng Mẹ yêu quý của con! Mẹ ơi, con yêu Mẹ nhiều lắm. Có những lúc con đã làm Mẹ phải bận lòng về một đứa như con. Nhưng con vẫn luôn yêu Mẹ, yêu Mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên cạnh con, giúp con vượt qua mọi khó khăn trong cuộc sống, Mẹ nhé! Yêu mẹ nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "2396",
+		"content": "Mẹ yêu dấu, con xin gửi đến mẹ những lời chúc tốt đẹp nhất đến mẹ nhân sinh nhật của mẹ. Con gửi cùng món quà nhỏ với tình yêu thương vô vàn và lòng thành kính mến của con đến với mẹ.",
+		"translate": ""
+	}, {
+		"id": "2397",
+		"content": "Mẹ có biết trên thế giới này ai là người đảm đang và tuyệt vời nhất không? Người đó chính là Mẹ đó ạ, cảm ơn Mẹ đã sinh ra con, con yêu Mẹ nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2398",
+		"content": "Cám ơn bà chủ của con, đã hướng dẫn cho con những kinh nghiệm trong công việc, đã cho con biết giá trị của đồng tiền, để tôi hiểu mình không nên phung phí, đã nâng đỡ, vực tôi dậy những khi con vấp ngã và luôn động viên con cố gắng để có cuộc sống tốt đẹp hơn. Chúc bà chủ của con thành công và công việc ngày càng phát triển.",
+		"translate": ""
+	}, {
+		"id": "2399",
+		"content": "Con biết, có những lúc con lầm đường lạc lối đã làm cho Mẹ buồn rất nhiều, đã làm cho Mẹ rơi nước mắt. Con muốn nói với Mẹ, con xin lỗi Mẹ, Chúc mẹ sinh nhật vui vẻ, sống thật lâu bên chúng con. ",
+		"translate": ""
+	}, {
+		"id": "2400",
+		"content": "Ngày sinh nhật mẹ đã đến thật mau. Con chúc mẹ vợ có nhiều sức khỏe để có thể dẫn dắt chúng con đi trên đường đời. Mẹ mãi mãi là người mẹ yêu quý của con, con rất mong luôn có mẹ bên cạnh!",
+		"translate": ""
+	}, {
+		"id": "2401",
+		"content": "Chúc mừng sinh nhật người Mẹ yêu quý của con! Mẹ ơi, con yêu Mẹ nhiều lắm. Có những lúc con đã làm Mẹ phải buồn phải bận lòng về con phải không Mẹ. Nhưng con vẫn luôn yêu Mẹ, thật sự yêu Mẹ rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên cạnh con, giúp con vượt qua mọi khó khăn trong cuộc sống, Mẹ nhé! Yêu mẹ. ",
+		"translate": ""
+	}, {
+		"id": "2402",
+		"content": "Mẹ yêu ! Sinh nhật của mẹ đến rồi con chúc mẹ luôn mạnh khỏe và những may mắn, điều hạnh phúc nhất sẽ đến với mẹ trong cuộc đời này.",
+		"translate": ""
+	}, {
+		"id": "2403",
+		"content": "Mẹ à, mẹ là món quà quý giá nhất mà ông trời ban cho con. Nhân ngày sinh nhật mẹ con kính chúc mẹ sức khỏe thật nhiều, hạnh phúc đong đầy, và niềm vui viên mãn. ",
+		"translate": ""
+	}, {
+		"id": "2404",
+		"content": "Tối nay, khi bố đi làm về. Bố sẽ thấy nhà mình thật khác. Bố sẽ thấy chiếc bánh của mẹ, những bông hoa con cắm và món cá kho ngon tuyệt do em Bin tự tay làm. Nhưng con biết, vui hơn cả, là bố sẽ cảm nhận được tình yêu của mọi thành viên trong gia đình dành cho bố, phải thế không bố? Chúc mừng sinh nhật bố, siêu nhân của chúng con…!",
+		"translate": ""
+	}, {
+		"id": "2405",
+		"content": "Nhân ngày sinh nhật Mẹ! Vợ chồng con kính chúc Mẹ luôn luôn mạnh khoẻ, hạnh phúc, vui vẻ, luôn sát cánh bên chúng con và cho chúng con những lời khuyên để có thể vững bước trong cuộc sống Mẹ nhé. Vợ chồng con yêu Mẹ rất nhiều!",
+		"translate": ""
+	}, {
+		"id": "2406",
+		"content": "Nhân ngày đặc biệt của người phụ nữ tuyệt vời, con gửi đến mẹ lời kính chúc Mẹ luôn luôn mạnh khỏe, hạnh phúc, vui vẻ, luôn sát cánh bên con và cho con những lời khuyên để con vững bước trong cuộc sống. con yêu mẹ rất nhiều",
+		"translate": ""
+	}, {
+		"id": "2407",
+		"content": "Mẹ luôn dạy con rất nhiều bài học, có những điều con không nghe theo, có những lần con ương ngạnh cãi lại nhưng con đã nhận ra mình bất hiếu biết bao nhiêu khi con gục ngã, khi con trống rỗng, khi con khóc sưng húp cả hai mắt vẫn là mẹ \"Con phải ăn uống đầy đủ, giữ gìn sức khỏe, cố gắng phấn đấu trở nên tốt đẹp hơn, giỏi giang hơn để những người từng đánh mất con phải hối tiếc. Mà bớt suy nghĩ đi, suy nghĩ nhiều thức khuya rồi chóng già xấu trai không ai thèm đó con...\". Con hứa...",
+		"translate": ""
+	}, {
+		"id": "2408",
+		"content": "Mẹ yêu ơi ! con chúc mẹ yêu luôn khỏe, trẻ đẹp mãi trong mắt của cha, bao la tình thương khi con lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối. Bên mẹ cha sum vầy là hạnh phúc nhất của đời con.",
+		"translate": ""
+	}, {
+		"id": "2409",
+		"content": "Con chưa từng biết, và chưa từng tìm hiểu xem Mẹ thích gì nhất trong cuộc đời, có phải con là đứa con vô tâm quá phải không Mẹ. Chúc Mẹ sinh nhật vui vẻ, ấm áp.",
+		"translate": ""
+	}, {
+		"id": "2410",
+		"content": "Chúc người phụ nữ xinh đẹp, đảm đang và tuyệt vời nhất thế giới này sinh nhật vui vẻ, hạnh phúc. Chúc mẹ luôn khỏe mạnh và vui tươi. Chúng con yêu mẹ.",
+		"translate": ""
+	}, {
+		"id": "2411",
+		"content": "Mẹ yêu dấu Con xin gởi đến mẹ những lời chúc tốt đẹp nhất nhân sinh nhật của mẹ. Con ước gì mình có thể có mặt ở đấy để có thể chia vui cùng mẹ nhưng con không thể. Con gởi cùng món qùa nhỏ này là tình yêu và tất cả lòng thành kính của con. Mẹ chắc chắn sẽ thích món quà của con đúng không??Hãy cố giữ gìn sức khỏe mẹ nhé! Con yêu mẹ rất nhiều mẹ à! Con trai của mẹ!",
+		"translate": ""
+	}, {
+		"id": "2412",
+		"content": "Ngày hôm nay là một ngày thật đặc biệt với con , vì hôm nay là ngày sinh nhật của Mẹ. Chúc Mẹ sinh nhật vui vẻ, luôn tươi trẻ và chỉ bảo, dạy dỗ con trở thành người con dâu lý tưởng như Mẹ!",
+		"translate": ""
+	}, {
+		"id": "2413",
+		"content": "Mẹ yêu dấu. Mẹ là người vĩ đại nhất trong cuộc đời con, con mong những điều tốt đẹp nhất sẽ đến với Mẹ, mong mẹ sống thật lâu, luôn vui tươi và hạnh phúc. Chúc mừng sinh nhật Mẹ.",
+		"translate": ""
+	}, {
+		"id": "2414",
+		"content": "Chúc mừng sinh nhật mẹ – người phụ nữ xinh đẹp nhất, đảm đang nhất và vô cùng tuyệt vời.. Đặc biệt người phụ nữ ấy luôn yêu thương chồng con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Mẹ ơi, con yêu mẹ rất nhiều. con hạnh phúc vì được là đứa con gái bé bỏng của mẹ – người mẹ đảm đang và nhân hậu",
+		"translate": ""
+	}, {
+		"id": "2415",
+		"content": "Sinh nhật, con chúc mẹ có nhiều sức khỏe để có thể dẫn dắt chúng con đi trên đường đời. Mẹ mãi mãi là người mẹ yêu quý của con, con rất mong luôn có mẹ bên cạnh!",
+		"translate": ""
+	}, {
+		"id": "2416",
+		"content": "Sinh nhật mẹ con vẫn chưa có gì để tặng cho mẹ cả. Mẹ là người quan trọng nhất trong cuộc đời của con. Mẹ là người đã che chở, bảo vệ cho con, những lúc con buồn, mẹ luôn an ủi cho con… Nhưng con chưa bao giờ tặng một món quà gì cho mẹ. Có lẽ con vẫn chưa ý thức được mẹ quan trọng như thế nào… Mẹ ơi, sinh nhật mẹ con không về nhà được. Con nhớ mẹ, và con chúc mẹ nhiều sức khỏe và nụ cười luôn nở trên môi. Mong cho mọi điều tốt lành sẽ đến với mẹ! Con yêu mẹ! Chúc mẹ ngày sinh nhật với hoa, và một bữa ăn ngon của bố!",
+		"translate": ""
+	}, {
+		"id": "2417",
+		"content": "Con xin gửi những gì tốt đẹp nhất đến Mẹ. Chúc Mẹ sang tuổi mới nhiều niềm vui mới, luôn trẻ mãi để bên con thật lâu.",
+		"translate": ""
+	}, {
+		"id": "2418",
+		"content": "Cảm ơn mẹ đã sinh ra người đàn ông tuyệt vời để con được may mắn làm con dâu mẹ. Cảm ơn mẹ đã luôn bao dung và yêu thương con, con chúc mẹ sinh nhật vui vẻ, hạnh phúc, luôn vui tươi và xinh đẹp.",
+		"translate": ""
+	}, {
+		"id": "2419",
+		"content": "Mẹ yêu, sinh nhật mẹ con chúc mẹ hạnh phúc vui vẻ và luôn yêu đời, chúc may mắn sẽ theo mẹ đến hết cuộc đời.",
+		"translate": ""
+	}, {
+		"id": "2420",
+		"content": "Sinh nhật, con chúc mẹ có thật nhiều sức khỏe để có thể dẫn dắt chúng con đi tiếp trên đường đời. Mẹ mãi là người mẹ yêu quý của con, con mong luôn có mẹ bên cạnh!",
+		"translate": ""
+	}, {
+		"id": "2421",
+		"content": "Hãy lấp đầy cuộc sống của mẹ mỗi ngày bằng những tiếng cười và niềm hạnh phúc mẹ nhé. Mẹ chỉ cần biết rằng con yêu mẹ nhiều lắm, con luôn hy vọng những điều tốt đẹp nhất sẽ đến với mẹ. Chúc mừng sinh nhật mẹ yêu của con. ",
+		"translate": ""
+	}, {
+		"id": "2422",
+		"content": "Kính chúc Mẹ! Không chỉ là ngày hôm nay mà tất cả 365 ngày đều luôn luôn vui vẻ, hạnh phúc! Để cho con luôn được nhìn thấy nụ cười, ánh mắt, cho con được cảm nhận tình yêu thương của Mẹ suốt cuộc đời… Và nhiều hơn thế nữa.",
+		"translate": ""
+	}, {
+		"id": "2423",
+		"content": "Chỉ một câu nói “Con yêu mẹ nhiều ” mà con cũng không thể nói ra cho Mẹ nghe. Sinh nhật Mẹ, con chúc Mẹ sức khỏe, nhiều niềm vui Mẹ nhé.",
+		"translate": ""
+	}, {
+		"id": "2424",
+		"content": "Dù cuộc sống ngoài kia có trăm gian khổ, nhưng mẹ vẫn là người con thương con yêu suốt đời. Không gì có thể thay thế được mẹ, chúc mẹ sinh nhật ấm áp, vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "2425",
+		"content": "Kính chúc Mẹ! Không chỉ là ngày hôm nay mà tất cả 365 ngày trong cả năm mẹ đều luôn luôn vui vẻ, hạnh phúc! Để cho con được nhìn thấy nụ cười hạnh phúc trong ánh mắt, cho con được cảm nhận tình yêu thương của Mẹ trong suốt cuộc đời. Yêu mẹ thật nhiều.",
+		"translate": ""
+	}, {
+		"id": "2426",
+		"content": "Mẹ ơi! Sinh nhật mẹ con chúc mẹ sức khỏe, thời gian qua con đã làm mẹ buồn và lo toan về con nhiều quá. Con tự hứa sẽ cố gắng học thật tốt để không làm mẹ buồn thêm nữa. Con yêu mẹ yêu lắm!",
+		"translate": ""
+	}, {
+		"id": "2427",
+		"content": "Con Kính chúc mẹ! Không chỉ là trong ngày sinh nhạt này mà tất cả 365 ngày đều luôn luôn vui vẻ, hạnh phúc! Để cho chúng con luôn được nhìn thấy nụ cười, ánh mắt, cho con được cảm nhận tình yêu thương của mẹ suốt cuộc đời... Và nhiều hơn thế nữa.",
+		"translate": ""
+	}, {
+		"id": "2428",
+		"content": "Mẹ à, mẹ thường dặn chúng con nhà mình không giàu như nhà người ta, các con phải biết tiết kiệm chứ không được hoang phí. Chúng con biết mẹ kiếm tiền vất vả như thế nào để nuôi chúng con ăn học. Hôm nay là sinh nhật của mẹ, mẹ chẳng thích hoa, cũng chẳng cần quà, cả đời mẹ vất vả rồi, bây giờ mẹ chỉ cần sống thật khỏe mạnh và vui vẻ, chúng con sẽ chia sẻ bớt cho mẹ gánh nặng gia đình mình.",
+		"translate": ""
+	}, {
+		"id": "2429",
+		"content": "Kính chúc Mẹ! Không chỉ là ngày hôm nay mà tất cả 365 ngày đều luôn luôn vui vẻ, hạnh phúc! Để cho con luôn được nhìn thấy nụ cười, ánh mắt, cho con được cảm nhận tình yêu thương của Mẹ suốt cuộc đời… Và nhiều hơn thế nữa.",
+		"translate": ""
+	}, {
+		"id": "2430",
+		"content": "Có ai đã từng nói với Mẹ, Mẹ là người đẹp nhất trên đời không? Trong mắt con Mẹ mãi là thiên thần, mãi là người Mẹ hiền chúng con yêu mẹ thật nhiều. Mừng Mẹ sang tuổi mới thật nhiều niềm vui và thật nhiều sức khỏe.",
+		"translate": ""
+	}, {
+		"id": "2431",
+		"content": "Mẹ yêu ơi. Con xin gửi đến mẹ những lời chúc tốt đẹp nhất trong ngày sinh nhật của mẹ. con gửi đến mẹ món quà của tình yêu thương và lòng thành kính của con đến với mẹ. Mong mọi điều tốt đẹp nhất sẽ đến với mẹ. Mẹ hãy luôn bên cạnh chúng con mẹ nhé",
+		"translate": ""
+	}, {
+		"id": "2432",
+		"content": "Con là đứa chẳng bao giờ biết nói lời hoa mỹ, con chẳng bao giờ là người khóe ăn nói, vì vậy sinh nhật Mẹ con chúc Mẹ những gì tốt đẹp nhất.",
+		"translate": ""
+	}, {
+		"id": "2433",
+		"content": "Mẹ cảm ơn Mẹ đã sinh con ra trong cuộc đời. Con chúc Mẹ sang tuổi mới mãi vui khỏe, mãi là người Mẹ vĩ đại nhất trong cuộc đời của chúng con.",
+		"translate": ""
+	}, {
+		"id": "2434",
+		"content": "Mẹ à! Thật tốt biết mấy vì con được làm con dâu Mẹ. Mẹ đã yêu thương và đối xử với con không khác gì con ruột. Hôm nay là sinh nhật Mẹ đấy Mẹ có nhớ không? Con chúc Mẹ sinh nhật vui vẻ và hạnh phúc. Đối với con được sống trong đại gia đình ta là những khoảnh khắc đáng nhớ và tuyệt vời nhất trong cuộc đời con!",
+		"translate": ""
+	}, {
+		"id": "2435",
+		"content": "Tình yêu của mẹ dành cho con không giống bất kỳ điều gì khác trên thế giới, con chúc Mẹ có hạnh phúc trọn vẹn, thật nhiều niềm vui trong cuộc sống, hi vọng con sẽ là người mang niềm vui đó đến với Mẹ.",
+		"translate": ""
+	}, {
+		"id": "2436",
+		"content": "Con xin gửi đến Mẹ nhân dịp sinh nhật của Mẹ những lời chúc tốt đẹp nhất. Chúc cho Mẹ thật nhiều sức khỏe, niềm vui và hạnh phúc trong cuộc sống!",
+		"translate": ""
+	}, {
+		"id": "2437",
+		"content": "Con và các em mong muốn sẽ tổ chức một bữa tiệc sinh nhật cho Mẹ, cho bố, nhưng chúng con vì nhiều lý do khác nhau mà chưa thể thực hiện được. Con hi vọng Mẹ mãi bên chúng con để chúng con có thể đền đáp lại công ơn to lớn mà mẹ đã dành cả cuộc này vì chúng con. Chúc mừng sinh nhật Mẹ.",
+		"translate": ""
+	}, {
+		"id": "2438",
+		"content": "Chúc mừng người phụ nữ của đời con luôn xinh đẹp, đảm đang và mẹ luôn là người tuyệt vời nhất của con… Đặc biệt rất thương chồng thương con và luôn chăm lo hết mình đến gia đình nhỏ bé của mình. Con yêu Mẹ nhiều lắm. Con hạnh phúc vì con là con của Mẹ. Chúc mẹ sinh nhật vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "2439",
+		"content": "Ngày sinh nhật của người phụ nữ quyền lực nhất trong gia đình và đáng kính nhất. chúng con vô cùng biết ơn sự hy sinh và quan tâm chăm sóc của mẹ dành đến chúng con. Ngay cả con dâu, mà mẹ còn chiều hơn cả con trai mẹ. Mẹ, ngày đặc biệt này, mẹ hãy nghỉ ngơi và để con làm điều đặc biệt gửi đến mẹ nhé. Mẹ, chúng con mong mẹ luôn thật khỏe mạnh và hạnh phúc bên cạnh chúng con. Chúng con yêu mẹ nhiều lắm",
+		"translate": ""
+	}, {
+		"id": "2440",
+		"content": "Ngày con lên đường nhập ngũ mẹ đã nói “ vất vả, khó khăn, gian khổ hãy luôn cố gắng. Cuộc sống không ai trải thảm đỏ dưới chân cho mình đi” hôm nay đã là một sĩ quan rồi nhưng sau bao khó khăn vất vả của cuộc sống ngoài kia con vẫn mong về nhà với mẹ, nơi có một vòng tay luôn chờ con. Sinh nhật me, con biết lời chúc nào cũng là không đủ. Con chỉ mong mẹ của con mãi khỏe mạnh, mãi vui tươi và hạnh phúc để những tháng ngày vất vả kia không đọng lại nếp nhăn trên gương mặt mẹ.",
+		"translate": ""
+	}, {
+		"id": "2441",
+		"content": "Mẹ yêu ! Sinh nhật của mẹ con chỉ biết chúc mẹ luôn mạnh khỏe và gặp thật nhiều những may mắn, hạnh phúc sẽ đến với mẹ trong cuộc đời.",
+		"translate": ""
+	}, {
+		"id": "2442",
+		"content": "Mẹ à, ngày sinh nhật mẹ lại đến rồi, con biết mẹ không thích hoa, mẹ chỉ thích những gì thực tế, ý nghĩa nhất vì vậy con muốn gửi đến mẹ lời chúc sức khỏe, mong mẹ luôn khỏe mạnh, sống hạnh phúc bên 2 chị em con cùng ba, con luôn bên mẹ, cùng mẹ sẻ chia bớt những gánh nặng gia đình. Dành tặng mẹ bài hát này, có thể con hát không hay nhưng đó là những gì con muốn gửi đến mẹ, đã từ lâu con không dám mở cho mẹ nghe, lời bài hát “Tình mẹ″ là những gì con muốn nói với mẹ, yêu mẹ nhiều lắm",
+		"translate": ""
+	}, {
+		"id": "2443",
+		"content": "Mẹ yêu dấu, con có thể quên mọi ngày quan trọng khác, nhưng ngày sinh nhật mẹ yêu thì không bao giờ con quên. Chúc người phụ nữ đẹp nhất lòng con sinh nhật vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "2444",
+		"content": "Sự lớn khôn của con khắc lên mẹ những nếp nhăn, sự trưởng thành của con khắc lên mẹ những đêm không ngủ, sự hi sinh mẹ dành cho con không thể đong đếm được. Mẹ vất vả rồi, con chúc mẹ sinh nhật vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "2445",
+		"content": "Một mình mẹ tôi nuôi tôi khôn lớn trưởng thành. Mẹ tôi đã phải chịu đựng biết bao gian khó nhưng mẹ không hề lùi bước, không bị khuất phục. Tất cả những gì mẹ đã làm cũng chỉ vì tôi. Bây giờ tôi đã trở thành một sinh viên đại học rồi, đó là niềm tự hào của mẹ tôi. Tôi muốn gửi mọi điều tốt đẹp nhất đến mẹ tôi ở quê. Mong mẹ giữ gìn sức khỏe và mong mẹ không bao giờ phải buồn vì con hay là bất cứ chuyện gì. Con sẽ đem đến cho mẹ vạn niềm vui. Con biết mẹ nhớ con nhiều và điều đó sẽ thôi thúc con trong con đường đi phía trước. CON YÊU MẸ NHIỀU.",
+		"translate": ""
+	}, {
+		"id": "2446",
+		"content": "Nước biển mênh mông không đong đầy tình mẹ Mây trời lồng lộng không phủ kín công cha. Mừng Mẹ sang tuổi mới vui – khỏe- hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "2447",
+		"content": "Lúc nào mẹ cũng thật nghiêm khắc với con, nhưng con phải cảm ơn mẹ vì điều này. Nếu không có sự chỉ bảo, dẫn dắt của mẹ, chắc bây giờ con đang mông lung vì không biết chọn ngành học nào. Hôm nay là sinh nhật mẹ, con chúc mẹ thật nhiều sức khỏe để dẫn dắt con đi trên đường đời mẹ nhé.",
+		"translate": ""
+	}, {
+		"id": "2448",
+		"content": "Nếu có một giải thưởng, con sẽ trao cho mẹ giải thưởng người mẹ tốt nhất của năm. Mẹ là người phụ nữ đặc biệt nhất với con, chúc mừng sinh nhật mẹ của con.",
+		"translate": ""
+	}, {
+		"id": "2449",
+		"content": "Con mong những gì tốt đẹp nhất, những gì may mắn nhất sẽ đến trong cuộc đời chúng con. Chúc mẹ bước sang tuổi mới thật nhiều niềm vui Mẹ nhé.",
+		"translate": ""
+	}, {
+		"id": "2450",
+		"content": "Mẹ – người phụ nữ tuyệt vời nhất mà con may mắn được gặp và sống chung trong cuộc đời này. Cảm ơn ông trời đã cho con làm con của mẹ. Vào ngày sinh nhật con chỉ mong mẹ của con được khỏe mạnh và thật hạnh phúc vê cạnh bố. Ước mơ của con thật sự nhỏ nhoi nhưng đó lại là tất cả những gì con muốn mẹ à. Con yêu bố và mẹ rất nhiều.",
+		"translate": ""
+	}, {
+		"id": "2451",
+		"content": "Mẹ luôn dạy con nhiều bài học, có những điều con đã không nghe theo, có những lần con ương ngạnh và cãi lại nhưng con đã nhận ra mình thật bất hiếu biết bao nhiêu khi con gục ngã, khi con trống rỗng, khi con khóc sưng húp cả hai mắt vẫn là mẹ luôn ở bên con động viên con. Con cảm ơn mẹ thật nhiều. Con yêu mẹ.",
+		"translate": ""
+	}, {
+		"id": "2452",
+		"content": "Mẹ yêu, sinh nật mẹ đến rồi, con chúc mẹ luôn mạnh khỏe và may mắn, chúc những điều hạnh phúc nhất sẽ đến với mẹ.",
+		"translate": ""
+	}, {
+		"id": "2453",
+		"content": "Từ trước đến nay con chưa thần tượng ai bao giờ cả. Nhưng từ lúc gặp Mẹ - làm con dâu Mẹ con đã ngưỡng mộ, yêu mến và kính trọng Mẹ biết chừng nào. Con yêu sự dịu dàng, tận tình chỉ bảo chúng con của Mẹ, yêu cách Mẹ chăm sóc gia đình và yêu những món ăn Mẹ nấu. Con chúc Mẹ-người Mẹ thứ 2 của con luôn vui vẻ, hạnh phúc và tràn đầy ơn của Chúa đặc biệt là trong ngày sinh nhật này!",
+		"translate": ""
+	}, {
+		"id": "2454",
+		"content": "Sinh nhật Mẹ con chưa có gì để tặng Mẹ cả, con luôn muốn dành những thứ tốt đẹp nhất trên cuộc đời này cho Mẹ, con luôn muốn Mẹ sống thật lâu bên chúng con. Mè à, con chúc mẹ sinh nhật ấm áp, con hứa sẽ trở thành một đứa con ngoan và hiếu thảo để Mẹ luôn vui.",
+		"translate": ""
+	}, {
+		"id": "2455",
+		"content": "Mẹ yêu dấu, Con xin gởi những lời chúc tốt đẹp nhân sinh nhật của mẹ. Con gửi cùng món qùa nhỏ này là tình yêu và lòng thành kính mến của con. Con hy vọng mẹ sẽ thích món qùa này. Và mẹ hãy nhớ luôn giữ gìn sức khoẻ mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "2456",
+		"content": "Ngày sinh nhật mẹ - người phụ nữ đã sinh ra người vợ hoàn hảo cho con. Con chúc mẹ vợ có thật nhiều sức khỏe, để luôn bên cạnh chúng con, yêu thương và che chở chúng con thật nhiều. Mẹ con rất tự hào vì được là con rể của mẹ, con yêu mẹ rất nhiều. Cảm ơn mẹ.",
+		"translate": ""
+	}, {
+		"id": "2457",
+		"content": "Mẹ à! Ngày sinh nhật mẹ lại đến rồi, con biết mẹ không thích hoa, mẹ chỉ thích những gì thực tế, ý nghĩa nhất vì vậy con muốn gửi đến mẹ lời chúc sức khỏe, mong mẹ luôn khỏe mạnh, sống hạnh phúc bên các con và cùng ba, con luôn bên mẹ, yêu mạ, cùng mẹ sẻ chia bớt những gánh nặng gia đình. Dành tặng mẹ bài hát này, có thể con hát không hay nhưng đó là những gì con muốn gửi đến mẹ, đã từ lâu con không dám mở cho mẹ nghe, lời bài hát “Tình mẹ” là những gì con muốn nói với mẹ, yêu mẹ nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2458",
+		"content": "Lời chúc ý nghĩa này được gửi tới người mà con yêu quý và kính trọng nhất. Ở phương xa, con chúc mẹ có một sinh nhật thật hạnh phúc và ý nghĩa.",
+		"translate": ""
+	}, {
+		"id": "2459",
+		"content": "Sinh nhật mẹ, cả nhà chúc mẹ sinh nhật vui vẻ, luôn mạnh khỏe, luôn vui vẻ và mãi bên bố và chúng con. Chúng con cám ơn mẹ đã hy sinh vất vả vì gia đình mình. ",
+		"translate": ""
+	}, {
+		"id": "2460",
+		"content": "Dù cuộc sống có trăm bề gian khổ. Mẹ mãi là người con thương, con yêu quý, không gì có thể thay thế Mẹ, con chúc Mẹ sinh nhật vui vẻ và ấm áp.",
+		"translate": ""
+	}, {
+		"id": "2461",
+		"content": "Cám ơn Mẹ, đã sinh ra con và nuôi dưỡng con cho đến ngày trưởng thành. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt bao năm qua…Con chúc Mẹ ngày sinh nhật vui vẻ và sống khỏe, con yêu Mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "2462",
+		"content": "Kính chúc mẹ không chỉ một ngày hôm nay mà tất cả 365 ngày trong năm mẹ đều luôn vui vẻ, hạnh phúc. Chúc mẹ luôn mạnh khỏe, có nhiều niềm vui trong cuộc sông để mỗi ngày tiếng cười đến với mẹ nhiều hơn.",
+		"translate": ""
+	}, {
+		"id": "2463",
+		"content": "Mẹ ơi! Sinh nhật mẹ con chúc mẹ có một sức khỏe dồi dào, thời gian qua con đã làm mẹ buồn và lo lắng về con nhiều quá. Con tự hứa sẽ cố gắng học thật tốt để không làm mẹ phải bận lòng. Con yêu mẹ nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "2464",
+		"content": "Mẹ ơi!. Sinh nhật mẹ con xin chúc mẹ sức khỏe, con biết thời gian qua con đã làm mẹ buồn và phải lo về con nhiều quá. Con tự hứa sẽ cố gắng học thật tốt để không làm mẹ buồn thêm nữa. Con yêu mẹ yêu nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "2465",
+		"content": "Mẹ yêu ơi! Con chúc mẹ yêu của con luôn khỏe, trẻ đẹp mãi trong mắt của bố, bao la tình thương khi con mắc phải những lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối và chơi vơi. Bên mẹ cha sum vầy là niềm hạnh phúc nhất của cuộc đời con. Con yêu mẹ nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "2466",
+		"content": "Mẹ à.. Con muốn nói với Mẹ một điều rằng, con yêu mẹ nhiều lắm, con thương Mẹ nhiều lắm. Chúc Mẹ sinh nhật vui vẻ, sang tuổi mới luôn vui vẻ và thật nhiều sức khỏe.",
+		"translate": ""
+	}, {
+		"id": "2467",
+		"content": "Con thật tệ mẹ ạ, suýt chút nữa thì con đã quên mất ngày đặc biệt này. Nhưng thôi, khi mẹ đọc được những dòng tin nhắn, những lời chúc này, hãy nở một nụ cười thật tươi mẹ nhé. Chúc mừng sinh nhật mẹ yêu dấu của con.",
+		"translate": ""
+	}, {
+		"id": "2468",
+		"content": "Chúc mừng sinh nhật Mẹ yêu quý của con! Mẹ ơi, con yêu Mẹ nhiều lắm. Có nhiều lúc con đã làm Mẹ phải bận lòng về con, con hứa là sẽ thay đổi. Nhưng con luôn yêu Mẹ, yêu vợ con rất nhiều. Mẹ hãy luôn mạnh khỏe và ở bên chúng con, Mẹ nhé! Happy Birthday Mẹ!!",
+		"translate": ""
+	}, {
+		"id": "2469",
+		"content": "Sinh nật mẹ, con lại ở xa. Con biết chỉ cần chúng con khốn lớn trưởng mẹ thấy đó là món quà cho mẹ rồi. Con chúc mẹ yêu sinh nhật vui vẻ, mạnh khỏe và hạnh phúc hơn trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "2470",
+		"content": "Chúc mẹ sức khoẻ, chúc mẹ luôn luôn hạnh phúc bên chúng con. chúng con đã lớn rồi mẹ hãy vui lên nhé hãy luôn cười thật nhiều mẹ nhé.",
+		"translate": ""
+	}, {
+		"id": "2471",
+		"content": "Hôm nay là một ngày thật đặc biệt, đó chính là sinh nhật mẹ yêu. Con chúc mẹ mãi vui khỏe, hạnh phúc để ở bên con cháu.",
+		"translate": ""
+	}, {
+		"id": "2472",
+		"content": "MẸ yêu ơi ! con chúc mẹ yêu luôn khỏe,trẻ đẹp mãi trong mắt của cha, bao la tình thương khi con lầm lỗi,mỗi khi mẹ cười là đời con không còn lạc lối. Bên mẹ cha sum vầy là hạnh phúc nhất của đời con.con hun mẹ cái nè…",
+		"translate": ""
+	}, {
+		"id": "2473",
+		"content": "Dành tặng mẹ vào ngày đặc biệt tất cả mọi điều tốt đẹp nhất của cuộc đời. cảm ơn mẹ đã sinh ra chúng con, nuôi dưỡng chúng con khôn lớn, trưởng thành. Cảm ơn mẹ đã hy sinh đời mình, đi qua những năm tháng nhọc nhằn, lưng mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về nỗi lo cơm áo gạo tiền… Nhưng mẹ đã vượt qua tất cả để chúng con có cuộc sống đủ đầy. cảm ơn vì đã luôn âm thầm hy sinh vì chúng con như vậy… con chúc mẹ ngày sinh nhật vui vẻ, và luôn mạnh khỏe bên cạnh những đứa con ngoan của mẹ.",
+		"translate": ""
+	}, {
+		"id": "2474",
+		"content": "Nhân ngày sinh nhật Mẹ con chúc Mẹ luôn luôn vui vẻ mạnh khoẻ, hạnh phúc, vui vẻ đặc biệt là luôn sát cánh bên con và cho con những lời khuyên để con vững bước trong cuộc sống Mẹ nhé. Con yêu Mẹ nhiều!",
+		"translate": ""
+	}, {
+		"id": "2475",
+		"content": "Cám ơn Mẹ, người đã sinh ra con và nuôi dưỡng con cho đến ngày khôn lớn. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt bao năm qua….Con chúc Mẹ ngày sinh nhật vui vẻ và sống khỏe bên các con, con yêu Mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "2476",
+		"content": "Mẹ yêu ơi ! Con chúc mẹ yêu luôn luôn khỏe, trẻ đẹp mãi trong mắt của ba, bao la tình thương khi con lầm lỗi, mỗi khi mẹ cười là đời con không còn lạc lối. Bên mẹ cha sum vầy là hạnh phúc nhất của đời con. Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "2477",
+		"content": "Sinh nhật Mẹ, con chúc Mẹ có thật nhiều sức khỏe, thật nhiều niềm vui để dõi thoe bước đường đời của chúng con. Mẹ luôn là chỗ dựa vững chắc nhất cho con mỗi khi con gục ngã và mệ mỏi. Con yêu mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "2478",
+		"content": "Người ta thường bảo mỗi năm trôi qua bố mẹ sẽ già đi 1 tuổi nhưng hình như quy luật này không đúng với mẹ thì phải, mỗi năm trôi qua con lại thấy mẹ trẻ hơn 1 tuổi. Chúc mừng sinh nhật mẹ của con.",
+		"translate": ""
+	}, {
+		"id": "2479",
+		"content": "Cảm ơn tạo hóa đã cho con sinh ra được làm con của mẹ, được mẹ yêu thương dại dỗ, được mẹ quan tâm lo lắng. Sinh nhật mẹ, con chúc mẹ sức khỏe an khang, niềm vui dồi dào, mãi ở bên chúng con.",
+		"translate": ""
+	}, {
+		"id": "2480",
+		"content": "Tặng mẹ yêu của con bông hoa đẹp nhất! Con luôn cầu mong mẹ mạnh khoẻ và hạnh phúc. Lúc nào mẹ cũng ở trong trái tim con. Con yêu mẹ nhiều, mẹ kính yêu của con!",
+		"translate": ""
+	}, {
+		"id": "2481",
+		"content": "Chúc mừng sinh nhật người phụ nữ quan trọng nhất của đời con. Mong mẹ luôn mạnh khỏe, hạnh phúc và sống khỏe mỗi ngày. I Love You.",
+		"translate": ""
+	}, {
+		"id": "2482",
+		"content": "Cám ơn Mẹ, đã sinh ra con và nuôi dưỡng con cho đến ngày trưởng thành. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt bao năm qua…Con chúc Mẹ ngày sinh nhật vui vẻ và sống khỏe, con yêu Mẹ nhiều.",
+		"translate": ""
+	}, {
+		"id": "2483",
+		"content": "Gửi mẹ xa nhớ, không quan trọng con đang ở đâu và khoảng cách giữa con và mẹ là bao xa, con chỉ muốn nói với mẹ một điều là chúc mừng sinh nhật mẹ yêu của con.",
+		"translate": ""
+	}, {
+		"id": "2484",
+		"content": "Mẹ yêu dấu! Con xin gởi tới mẹ những lời chúc tốt đẹp nhân sinh nhật. Con ước gì mình có thể có mặt ở nhà để cùng chia vui với mẹ và gia đình nhưng con không thể. Con gửi cùng món qùa nhỏ này là tất cả tình yêu và lòng thành kính của con. Hy vọng mẹ của con sẽ thích. Con mong mẹ hãy cố gắng giữ gìn sức khoẻ mẹ nhé! Con yêu của mẹ.",
+		"translate": ""
+	}, {
+		"id": "2485",
+		"content": "Mừng ngày sinh nhật của mẹ, vợ chồng con xin kính chúc mẹ luôn luôn mạnh khỏe, hạnh phúc và vui vẻ bên cạnh gia đình, bên cạnh chúng con. Cảm ơn mẹ đã sinh ra và nuôi dưỡng người vợ tuyệt vời ấy. Nếu không, con đã không được ăn những bữa ăn ngon và luôn thấy ấm áp khi trở về nhà.",
+		"translate": ""
+	}, {
+		"id": "2486",
+		"content": "Sinh nhật bố, con chúc bố luôn mạnh khỏe và thành công hơn nữa trên con đường sự nghiệp của mình. Cảm ơn tất cả mọi thứ bố đã dành cho chúng con. Chúng con yêu bố nhiều lắm",
+		"translate": ""
+	}]
+}

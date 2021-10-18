@@ -1,0 +1,91 @@
+{
+	"result": [{
+		"id": "2973",
+		"content": "Tết trung thu đã về, gửi lời chúc tới tất cả các em nhỏ từ nông thôn tới thành thị, từ bé trai tới bé gái có một trung thu vui vẻ, ấm áp tình yêu thương. Chúc các em nhận được thật thật nhiều quà và có những lời chúc ý nghĩa.",
+		"translate": ""
+	}, {
+		"id": "2974",
+		"content": "Chúc cho các bé có 1 tết trung thu thật vui vẻ và mọi điều ước sớm thành hiện thực nhé.",
+		"translate": ""
+	}, {
+		"id": "2975",
+		"content": "Chúc em trung thu này được gặp trực tiếp chị Hằng và chú Cuội nhé!",
+		"translate": ""
+	}, {
+		"id": "2976",
+		"content": "Nhân dịp Tết Trung thu, chúc các bạn nhỏ có những ước mơ sớm thành hiện thực, trung thu đáng nhớ! Hãy luôn mỉm cười và yêu đời những mầm non tương lai của đất nước nhé.",
+		"translate": ""
+	}, {
+		"id": "2977",
+		"content": "Trung thu năm nay, mẹ chỉ muốn nói rằng \"mẹ yêu con thật nhiều, yêu hơn bất cứ điều gì mẹ có\". Hãy luôn hạnh phúc thế này con nhé! ",
+		"translate": ""
+	}, {
+		"id": "2978",
+		"content": "Cuộc sống đôi lúc mệt mỏi, mẹ tưởng như không thể bước nổi, nhưng mẹ đã có một điểm tựa lớn lao là con. Mẹ chúc con một trung thu ý nghĩa.",
+		"translate": ""
+	}, {
+		"id": "2979",
+		"content": "Nhân dịp tết trung thu đã đến ba mẹ chúc con trai, con gái yêu của ba mẹ luôn mạnh khỏe và đáng yêu và học giỏi nhé",
+		"translate": ""
+	}, {
+		"id": "2980",
+		"content": "Phá cỗ thôi nào… chúc các bé một trung thu vui vẻ và nhận được thật nhiều quà. Nhớ chia cho chị Hằng và chú Cuội với nhé.",
+		"translate": ""
+	}, {
+		"id": "2981",
+		"content": "Trung thu đến rồi, chúc các bé ăn nhiều chóng lớn, chúc các bé luôn ngoan ngoãn học giỏi và nhận được nhiều phiếu bé ngoan.",
+		"translate": ""
+	}, {
+		"id": "2982",
+		"content": "Trung thu này con không về phá cỗ cùng gia đình mình. Con kính chúc bố mẹ, chúc các em đón trung thu vui vẻ, ấm áp. Con nhớ và yêu mọi người nhiều.",
+		"translate": ""
+	}, {
+		"id": "2983",
+		"content": "Con yêu của bố mẹ, con luôn là niềm tự hào lớn nhất của ba mẹ. Nhân dịp Trung thu bố mẹ chúc con ăn nhiều chóng lớn và luôn cười con nhé! Ngàn lần yêu con, thương con.",
+		"translate": ""
+	}, {
+		"id": "2984",
+		"content": "Chúc các bé luôn luôn khoẻ mạnh, ngoan ngoãn, học giỏi, luôn được yêu thương, được chăm sóc một cách tốt nhất . Chúc các bé nhận được nhiều quà nhân ngày tết trung thu.",
+		"translate": ""
+	}, {
+		"id": "2985",
+		"content": "Một mùa Trung thu nữa lại đến, tạm biệt mùa hè tiết trời đang dần mát dịu hơn cho đêm hội trăng rằm tháng 8 thêm sôi động, náo nhiệt. Chúc các bé thiếu nhi có nhiều sức khỏe, học giỏi, chăm ngoan, làm được thật nhiều việc tốt và mãi luôn là con ngoan trò giỏi- cháu ngoan bác Hồ.",
+		"translate": ""
+	}, {
+		"id": "2986",
+		"content": "Con yêu của bố mẹ, con luôn là niềm tự hào lớn nhất của ba, mẹ. Nhân dịp Trung thu bố mẹ chúc con ăn nhiều chóng lớn và luôn cười con nhé! Ngàn lần yêu con, thương con.",
+		"translate": ""
+	}, {
+		"id": "2987",
+		"content": "Chúc các bé mau ăn chóng lớn để đón những cái tết trung thu cùng với gia đình nhé",
+		"translate": ""
+	}, {
+		"id": "2988",
+		"content": "Xin được chúc các bé một Trung thu tràn đầy tình thương yêu và nhận được thật nhiều quà. Nhớ chia cho chị Hằng và chú Cuội với nhé.",
+		"translate": ""
+	}, {
+		"id": "2989",
+		"content": "Nhân dịp Tết Trung thu, chúc các bé luôn mạnh khỏe, đáng yêu và nhận được nhiều tình yêu thương hơn nữa.",
+		"translate": ""
+	}, {
+		"id": "2990",
+		"content": "Nhân dịp Tết Trung thu đã đến, ba mẹ chúc con trai, con gái yêu của ba mẹ luôn mạnh khỏe và đáng yêu và học giỏi nhé.",
+		"translate": ""
+	}, {
+		"id": "2991",
+		"content": "Năm học mới đã về, tết trung thu cũng đã đến, chúc các bạn nhỏ có những ước mơ sớm thành hiện thực, thành công trong học tập, luôn khỏe mạnh, đáng yêu và lúc nào cũng vui vẻ như khi đón tết trung thu. ",
+		"translate": ""
+	}, {
+		"id": "2992",
+		"content": "Mẹ luôn có một điểm tựa lớn lao là con. Mẹ chúc con một Trung thu ý nghĩa.",
+		"translate": ""
+	}, {
+		"id": "2993",
+		"content": "Vậy là tết Trung thu đã về, xin gửi lời chúc tới tất cả các em nhỏ từ nông thôn cho tới thành thị, từ bé trai cho tới bé gái có một Trung thu thật vui vẻ, thật ấm áp và đầy tình yêu thương. Chúc các em trong đêm hội trăng rằm sẽ nhận được thật nhiều quà và có nhiều những lời chúc ý nghĩa. ",
+		"translate": ""
+	}, {
+		"id": "2994",
+		"content": "Chúc trung thu thật vui và hạnh phúc bạn nhé",
+		"translate": ""
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Vợ yêu à! Anh thực sự thầm cảm ơn ông trời đã mang em đến bên anh. Nhân ngày 20/10, anh chúc em luôn vui tươi, xinh đẹp và mãi bên anh nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Vợ yêu quý, với anh, có em bên cạnh thực sự là một điều hằng mong ước. Trong ngày 20/10 đặc biệt này, anh muốn gửi tới em ngàn lời yêu thương và một tấm lòng với tình cảm nồng cháy. Cảm ơn em đã đến bên anh.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc người bạn “ngàn kiếp” của anh một ngày 20/10 ý nghĩa, hạnh phúc và tràn ngập niềm vui!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Vợ yêu ơi, anh đã rất may mắn vì đã có em trong cuộc đời này. Nhân ngày 20/10, anh chúc vợ luôn mạnh khỏe, vui vẻ và là hậu phương vững chắc của anh và các con nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân dịp 20/10, anh chúc “đồng chí vợ” có một ngày ý nghĩa, tuyệt vời và đầy ngọt ngào. Hơn hết, chúc em có 365 ngày luôn có nhiều niềm vui và hạnh phúc khi ở bên cạnh anh.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày 20/10, anh chúc vợ những điều tốt đẹp nhất, mọi giông tố cuộc đời để anh lo. Việc của em là hãy sống vui và luôn yêu thương, vun đắp hạnh phúc gia đình em nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc vợ yêu của anh ngày 20/10 thật ngọt ngào và tràn đầy hạnh phúc!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Happy Vietnamese Women’s Day vợ yêu, cảm ơn em rất nhiều vì đã đến bên anh, em mãi là người anh trân trọng và yêu thương đến hết cuộc đời này.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Vợ yêu của anh, chúc em một ngày 20/10 tràn ngập niềm vui, trẻ trung và mãi mãi bên anh nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Em yêu à, ngày 20/10 với anh thực sự là một ngày đặc biệt, ngày mà anh có thể lấy hết tình cảm này để bày tỏ với em. Anh mong em sẽ luôn vui tươi, xinh đẹp và là hậu phương vững chắc của anh trên mọi chặng đường.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày Phụ nữ Việt Nam 20/10, anh muốn gửi tới vợ yêu những lời ngọt ngào và chân thành nhất. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Anh thầm cảm ơn cuộc đời đã mang em tới bên anh, nhân dịp 20/10 đầy ý nghĩa, anh luôn mong những điều tốt đẹp nhất đến với vợ của anh. Happy Vietnam Women’s Day.",
+		"translate": ""
+	}]
+}

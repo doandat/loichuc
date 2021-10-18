@@ -1,0 +1,36 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Quý khách hàng kính mến, hôm nay là ngày 20/10, một ngày ý nghĩa để tôn vinh những người phụ nữ Việt Nam. Nhân đây, chúc chị có một ngày 20/10 vui vẻ, hạnh phúc và thành công trong cuộc sống, công việc.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc mừng ngày Phụ nữ Việt Nam, chúc chị có một ngày thật ý nghĩa, luôn vui vẻ và thành công!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chị A thân mến, cảm ơn chị đã đồng hành cùng công ty trong suốt thời gian qua. Hy vọng thời gian tới chúng ta sẽ tiếp tục hợp tác ở một dự án mới. Nhân ngày 20/10, chúc chị thật nhiều niềm vui, sức khỏe và thành công trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cảm ơn C đã tin tưởng và sử dụng dịch vụ của công ty chúng tôi. Nhân dịp 20/10, chúng tôi xin gửi tới bạn những lời chúc tốt đẹp nhất, bạn hãy luôn xinh đẹp, thành công và hạnh phúc trong cuộc sống nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày Phụ nữ Việt Nam, chúng tôi muốn gửi tới quý khách hàng những lời chúc tốt đẹp, lời cảm ơn chân thành nhất. Chúc bạn một ngày 20/10 ý nghĩa, vui vẻ và tràn ngập hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "D yêu quý, đây là món quà ý nghĩa nhân dịp 20/10 xin gửi tới bạn như một lời cảm ơn, lời chúc tốt đẹp nhất vì bạn đã đồng hành cùng chúng tôi trong suốt thời gian vừa qua. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Mừng ngày Phụ nữ Việt Nam 20/10, chúc cho mọi dự định của bạn sẽ luôn thành công, thuận lợi. Cảm ơn bạn đã tin tưởng và đồng hành cùng công ty trong suốt thời gian qua. Hy vọng, thời gian tới sẽ được tiếp tục hợp tác cùng bạn.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày 20/10, kính chúc quý khách hàng có một ngày lễ trọn vẹn, hạnh phúc và tràn ngập niềm vui. ",
+		"translate": ""
+	}
+    ]
+}

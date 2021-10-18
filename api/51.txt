@@ -1,0 +1,43 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Nhân ngày Phụ nữ Việt Nam, xin gửi chúc chị em phụ nữ đôi lời:\n“Tay cầm nhiều hoa, giỏ có nhiều quà\nKhông cần lo việc nhà, vẫn được đi chơi xa\nĂn uống thì thả ga, tiền lại không phải trả…”",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Gửi tới người vợ yêu thương của anh một món quà 20/10 có tên là buổi sáng tốt lành, được bọc gói cẩn thận bằng sự chân thành từ anh, buộc dây chắc chắn bằng sự quan tâm và dính keo bằng lời cầu nguyện rằng em phải thật bình an và hạnh phúc nhé! Chúc vợ yêu một ngày 20/10 thật ý nghĩa!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân dịp 20/10 chúc phái đẹp luôn rạng ngời, hạnh phúc và thành công. Chúc chị em sẽ có nhiều chàng trai theo đuổi như lửa bám xăng, răng bám chặt lợi, trời phải có mây và cây sống nhờ đất.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc các bạn nữ một ngày 20/10 hay ăn chóng gầy, tiền nhiều hơn nước, tình chặt như keo và dẻo dai như mèo, có một làn da trắng trẻo, sức khỏe như heo nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Quý khách đang liên lạc tới tổng đài Tình Yêu: bạn hãy chia sẻ hết những niềm vui, nỗi buồn, sự muộn phiền cuộc sống với chúng tôi hàng ngày, cước phí 0 đồng. Chúc quý khách một ngày 20/10 đầy trọn vẹn và tràn ngập niềm vui!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Châu Âu đang ngủ, Châu Á đang say giấc, Châu Mỹ cũng đang tối dần, chỉ có đôi mắt này là đang đọc những lời chúc ngày 20/10 của anh. Chúc em có một ngày 20/10 thật tuyệt vời nhé người yêu!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nếu em đang cảm thấy lạc lõng, bơ vơ và muộn phiền, hãy gọi ngay cho anh. Tổng đài của anh chỉ dành riêng cho em. Chúc em một ngày 20/10 thật tuyệt vời nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Phiên tòa này được diễn ra vào ngày 20/10: Em bị triệu tập vì đã đi vào cuộc sống của anh, lấy cắp trái tim anh, cướp đi mọi thứ cảm xúc khiến anh lao đao cả ngày. Tòa tuyên án em phải ở bên anh suốt đời, em có biện hộ điều gì không?",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Hôm nay là ngày Phụ nữ Việt Nam, anh không ở gần em nhưng đã nhờ bưu điện gửi tặng em một món quà, đó là nỗi nhớ dành cho em lúc này. Tuy nhiên, bưu điện họ lại từ chối vì họ nói rằng nó quá lớn. Anh phải làm sao?",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Em yêu, anh mong rằng 1 ngày sẽ có 25 giờ để anh có một giờ không nhớ đến em. Yêu em, chúc em một ngày 20/10 thật vui vẻ và hạnh phúc.",
+		"translate": ""
+	}]
+}

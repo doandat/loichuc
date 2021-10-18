@@ -1,0 +1,51 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Nhân ngày Phụ nữ Việt Nam 20/10, chúc người mẹ thân yêu, quan trọng nhất trong cuộc đời con có thật nhiều sức khỏe, luôn vui vẻ, tươi cười, tràn ngập niềm vui trong cuộc sống. Con yêu mẹ!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày 20/10, con cảm ơn mẹ rất nhiều vì đã sinh ra và nuôi chúng con nên người. Chúc mẹ luôn sức khỏe, vui vẻ và hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Hôm nay là một ngày ý nghĩa, ngày quan trọng và cũng là dịp để con bày tỏ lòng biết ơn đối với mẹ. Dù nhiều lần đã làm mẹ phải suy nghĩ, lo lắng nhưng con xin hứa sẽ sống thật tốt, trưởng thành hơn đúng như kỳ vọng của mẹ.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Con chúc mẹ luôn an yên, hạnh phúc trong cuộc sống. Mẹ đã vất vả nuôi nấng chúng con thành người, mẹ hãy luôn vui vẻ, sống mãi với chúng con, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Ngày 20/10, con xin gửi tới mẹ những lời chúc tốt đẹp nhất. Mong mẹ không phải suy nghĩ, lo toan để cuộc sống tuổi già được an nhàn, hạnh phúc. Con yêu mẹ rất nhiều!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Mừng ngày Phụ nữ Việt Nam 20/10, con chúc mẹ yêu luôn sức khỏe, cảm ơn mẹ đã hy sinh thầm lặng để nuôi nấng chúng con thành người. Mẹ hãy luôn vui vẻ, sống bình an bên bố và chúng con, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc cho người mẹ thân yêu của con đang đọc tấm thiệp này có một sức khỏe dẻo dai, hạnh phúc ngập tràn, luôn tươi cười hạnh phúc. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Gửi ngàn lời yêu thương đến mẹ của con nhân dịp ngày 20/10. Mong rằng mẹ luôn mạnh khỏe, vui vẻ. Mẹ luôn ở trong trái tim của chúng con, con yêu mẹ nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày 20/10 ý nghĩa, con cảm ơn mẹ đã nuôi dưỡng, che chở, bao bọc con thành người. Mẹ hãy luôn vui vẻ, trẻ khỏe và hạnh phúc, mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Gửi mẹ thân yêu, ngày hôm nay 20/10 thực sự là một ngày đặc biệt, không có từ ngữ nào có thể diễn tả được hết sự kính trọng, lòng yêu thương, tình cảm của con dành cho mẹ. Con luôn tự hào là con của mẹ!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân dịp 20/10, con chúc mẹ luôn mạnh khỏe, sống đời đời kiếp kiếp với chúng con. Không chỉ riêng hôm nay, 364 ngày còn lại mẹ phải hạnh phúc và luôn tươi cười mẹ nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc người mẹ thân yêu của con ngày 20/10 thật hạnh phúc, vạn sự như ý, sức khỏe dồi dào. Con yêu mẹ rất nhiều.",
+		"translate": ""
+	}]
+}

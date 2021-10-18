@@ -1,0 +1,603 @@
+{
+	"result": [{
+		"id": "222",
+		"content": "Noel của anh năm nay sẽ không còn giá rét, cô đơn nữa, vì anh biết sẽ có một vòng tay ôm anh thật chặt và cùng anh đi đến hết con đường em nhé. Yêu em thật nhiều <3 <3 <3",
+		"translate": ""
+	}, {
+		"id": "223",
+		"content": "Chúc cho ngày Giáng sinh tràn đầy niềm vui, hạnh phúc vừa đủ và bình yên thật nhiều! Không chỉ là nụ cười mà đôi khi những giọt nước mắt cũng là niềm hạnh phúc, không có tình yêu nào là vĩnh cửu, chỉ có những giây phút vĩnh cửu của tình yêu. Chúc cho ai đó sẽ giữ được những giây phút ấy suốt cả cuộc đời! Merry Chrismas!",
+		"translate": ""
+	}, {
+		"id": "224",
+		"content": "Giáng sinh đến. Chúc cho ai đó được hạnh phúc bên nửa yêu thương! Chúc cho ai đó còn cô đơn sẽ tìm thấy một bờ vai chia sẽ! Chúc cho ai đó sẽ tìm lại được nhau sau những tháng ngày xa cách!",
+		"translate": ""
+	}, {
+		"id": "225",
+		"content": "Chúc mọi người thân yêu bên cạnh tôi một mùa Giáng sinh vui vẻ, may mắn và an lành. Chúc cho tất cả mọi người trên thế giới này luôn hạnh phúc, chúc cho những em nhỏ không có mái ấm gia đình ấm áp hơn, chúc cho những người già bách niên giai lão, chúc cho mọi điều luôn tốt đẹp nhất. Chúc anh luôn yêu em như vậy. Tôi nguyện cầu mọi điều an lành may mắn đến những người thân yêu của tôi. Merry Chrismas!",
+		"translate": ""
+	}, {
+		"id": "226",
+		"content": "Ông già Noel đang gõ cửa em kìa, mau ra mở cửa và nhắm mắt lại nhé. Em biết không anh đã nhờ ông già Noel mang đến cho em một món quà cực kỳ đặc biệt đó là gửi đến em lời chúc Giáng sinh an lành, ấm áp và luôn vui cười, cô bé của anh nhé! <3 <3 <3",
+		"translate": ""
+	}, {
+		"id": "227",
+		"content": "Chúc cho bạn tôi giáng sinh này sẽ nhận được nhiều quà và được nhiều lời mời đi chơi từ các hot boy nhé.",
+		"translate": ""
+	}, {
+		"id": "228",
+		"content": "Noel ấp áp ngập tràn Tình yêu chan chứa nụ cười trên môi Chúc này tôi chúc bạn tôi Gia đình hạnh phúc an lành Noel. Chúc Noel và năm mới 2021 nhé",
+		"translate": ""
+	}, {
+		"id": "229",
+		"content": "Hôm nay khi Chúa mở cánh cửa thiên đường, Người nhìn anh và hỏi: Con muốn ước điều gì? Anh trả lời rằng: con xin Người hãy ban cho người con yêu sức khỏe, sự an lành! Chúa lại hỏi: Con muốn ta che chở và mang lại hạnh phúc cho người đó không? Anh trả lời: cảm ơn Người, nhưng điều đó sẽ do chính con mang lại Thiên Thần à, chúc em một mùa giáng sinh vui vẻ, Noel này anh không thể bên em được nhưng anh hi vọng trái tim em luôn được sưởi ấm!",
+		"translate": ""
+	}, {
+		"id": "230",
+		"content": "Nếu ông già Noel có thật - như truyền thuyết vẫn nói và những nguyện cầu đêm Giáng Sinh đều thành hiện thực, thì ước gì em được là hơi ấm bao quanh anh giữa mùa đông lạnh giá... Là luồng khí mát ôm lấy anh giữa mùa hè rực nắng... Là làn gió nhẹ vờn tóc anh giữa mùa thu dịu dàng... Là cơn mưa bụi khẽ hôn lên má anh mỗi khi xuân về... Bởi điều em mong muốn nhất là anh được hạnh phúc, bình yên.",
+		"translate": ""
+	}, {
+		"id": "231",
+		"content": "Hạnh phúc, an bình và tình yêu sẽ được chúa và các thánh thần ban cho bạn yêu dấu của tôi. Chúc cho thành công ngập tràn cuộc đời bạn! Giáng sinh vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "232",
+		"content": "Nếu một sáng mai thức dậy, bạn bỗng thấy mình bị nhét vào một cái bao bố thật to và bị lôi đi... thì đừng hoảng sợ nhé, bởi vì tôi đã xin ông già Noel rằng món quà tôi muốn duy nhất chính là bạn! Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "233",
+		"content": "Mùa đông lạnh nhưng rất lãng mạn, nắng của mùa đông yếu nhưng đủ làm ấm trái tim một ai đó. Noel là dịp bạn và những người xung quanh tận hưởng những giây phút ngọt ngào của tình yêu thương. Đừng đóng chặt trái tim mình, hãy mở cửa trái tim để biết rằng giữa mùa đông mình vẫn thấy ấm áp. Chúc các bạn của tôi một mùa Giáng Sinh vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "234",
+		"content": "Ai đang đọc tin nhắn này là những người rất đặc biệt trong trái tim tôi! Vì thế, hãy tự hào rằng mỗi sáng khi bạn thức dậy vẫn có tôi đang nghĩ đến bạn. Tự tin với chính mình rằng dù bạn không cao thì vẫn có tôi đang ngước nhìn bạn! Tôi đủ tự tin để nói cho bạn biết bạn quan trọng và hoàn hảo trong mắt tôi thế nào. Chúc bạn một mùa Noel vui vẻ và ấm áp.",
+		"translate": ""
+	}, {
+		"id": "235",
+		"content": "Con gửi lời chúc Giáng sinh đến bố, ở nơi xa đó mùa này lạnh lắm phải không bố. Bố ơi, con yêu bố, con muốn gọi tiếng bố thật nhiều, thật lớn chứ không phải gọi thầm trong giấc ngủ của con. Con gửi lời chúc Giáng sinh đến mẹ, mẹ đã phải vất vả vì chúng con. Con xin lỗi mẹ vì con không phải là đứa con ngoan, con không mong mẹ tha thứ nhưng tận trong thâm tâm, con luôn muốn nói rằng con yêu mẹ.",
+		"translate": ""
+	}, {
+		"id": "236",
+		"content": "Em yêu à, thú thật với em đây là lần đầu tiên anh có kế hoạch đi chơi Noel. Chúng mình sẽ quàng khăn đội mũ thật ấm và cầm tay nhau đi dạo bất kể thời tiết lạnh thế nào phải không em? Anh hy vọng đây sẽ là Giáng sinh ấm áp nhất tới giờ của em, mặc cho mùa đông ở đây lạnh hơn ở nhà rất nhiều. Chúc em yêu một giáng sinh vui vẻ, ấm áp, em yêu nhé.",
+		"translate": ""
+	}, {
+		"id": "237",
+		"content": "“Ngốc Yêu ơi? Ai đó từng nói: “Mùa đông lạnh... nhưng với anh chỉ em là đủ!”. Anh rất thích mùa đông, vì anh có thể sưởi ấm cho ai đó của anh. Và năm nay là mùa đông đầu tiên chúng ta bên nhau, có nhiều thứ để nói lên suy nghĩ của anh, của em và của 2 đứa mình. Anh biết và hiểu những điều đó em àh. Anh luôn tin và khẳng định với bản thân mình đã có 1 người con gái luôn hiểu anh nghĩ gì? em biết là ai không? Là em đó ngốc yêu của anh à. Noel đến rồi, anh chúc em những gì tốt đẹp nhất, chúc cho người con gái anh yêu lúc nào cũng nở tươi nụ cười! Yêu em nhiều lắm lắm!” ",
+		"translate": ""
+	}, {
+		"id": "238",
+		"content": "Hãy tặng người con yêu thương nụ cười khi họ cảm thấy đau buồn để họ không gục ngã... Hãy tặng họ những giọt nước mắt khi vui để lòng biết ơn xuất hiện trong họ... Hãy tặng họ tình thương để họ không vô cảm trước cuộc sống khó khăn của bao người... Tặng họ những ước mơ, những ước mơ đơn giản giúp họ luôn phấn đấu... Tặng họ niềm vui dù chỉ là nhỏ bé...Tặng họ hy vọng dù chỉ là mong manh... Tặng họ những giấc ngủ an lành, sự yên bình sau những ngày mệt mỏi...\"",
+		"translate": ""
+	}, {
+		"id": "239",
+		"content": "Chúc bạn một giáng sinh Ấm áp bên cạnh nữa trái tim Vui vẻ bên cạnh nữa còn lại trọn vẹn Hạnh phúc bên cạnh một bờ vai ai đó Một đêm cho ngày mai và một khắc cho mãi mãi Giáng sinh an lành, ấm áp tình yêu thương bên người thân yêu!",
+		"translate": ""
+	}, {
+		"id": "240",
+		"content": "- Ấm áp không phải khi ngồi bên đống lửa, mà là bên cạnh người bạn thương yêu. - Ấm áp không phải khi bạn đội chiếc mũ len, mà là khi đầu bạn dựa vào một bờ vai tin cậy. - Ấm áp không phải khi bạn dùng hai tay xuýt xoa, mà là khi tay ai kia khẽ nắm lấy bàn tay bạn. - Ấm áp không phải khi bạn nói “ấm quá”, mà là khi có người thì thầm với bạn: “Có lạnh không?”. - Ấm áp chưa hẳn là khi bạn ôm ai đó thật chặt, mà là khi ai đó khoác vai bạn thật khẽ. Và ấm áp là khi mùa thu qua, cái lạnh ùa về, có một ai đó khẽ thì thầm vào tai bạn: “Chúc bạn một Mùa Noel hạnh phúc!”",
+		"translate": ""
+	}, {
+		"id": "241",
+		"content": "Em thật đặc biệt. Em thật tuyệt vời! Chúc Giáng Sinh này của em cũng đặc biệt và tuyệt vời như em vậy.",
+		"translate": ""
+	}, {
+		"id": "242",
+		"content": "Tình Yêu, An Bình và Niềm Vui đã đến trên địa cầu trong lễ Giáng Sinh để làm cho em hạnh phúc và hân hoan. Chúc cho niềm hạnh phúc tràn ngập cuộc đời em!",
+		"translate": ""
+	}, {
+		"id": "243",
+		"content": "Chúc cha mẹ và cả gia đình chúng ta đón một giáng sinh ấm áp yêu thương. Cầu chúc gia đình ta luôn mạnh khỏe, vui vẻ, hạnh phúc. Con yêu tất cả mọi người!",
+		"translate": ""
+	}, {
+		"id": "244",
+		"content": "Thế giới đã sinh ra chúng ta, ban cho chúng ta mỗi người một sứ mệnh, một nhiệm vụ thiêng liêng. Ông già Noel đến gõ cửa mỗi nhà và tặng chúng ta món quà vô giá đó là thời gian. Con sẽ dùng thời gian để trân trọng yêu thương bố mẹ, gia đình. Hãy để cho gia đình của chúng ta luôn có nhưng niềm vui, hạnh phúc và tràn đầy tiếng cười. Con yêu gia đình mình. Giáng sinh an lành, hạnh phúc nha ông nội, bà nội, ba, mẹ và cả thằng em bướng bỉnh.",
+		"translate": ""
+	}, {
+		"id": "245",
+		"content": "Tặng em niềm vui để bạn ngọt ngào, tặng em nụ cười để bạn rạng rỡ, tặng em nhiều điều tốt lành để anh vẫn là người mà em yêu mãi! Chúc em một ngày Noel ấm áp, an lành.",
+		"translate": ""
+	}, {
+		"id": "246",
+		"content": "Nửa đêm Giáng Sinh, nếu một ông già mập mặc đồ đỏ nhảy qua cửa sổ, gói em lại và cho vào bao tải thì đừng có chống cự nhé. Vì anh đã nói với ông già Noel rằng: anh muốn có em trong suốt cuộc đời này.",
+		"translate": ""
+	}, {
+		"id": "247",
+		"content": "Nghe tiếng chuông vang vọng từ nhà thờ, anh biết rằng mùa Noel đã đến. Nhờ gió gửi đến em ngàn lời chúc tốt đẹp nhất. Chúc một nửa yêu thương của anh luôn hạnh phúc, xinh đẹp và thành công trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "248",
+		"content": "Giáng Sinh là mùa giá rét. Nhưng khi có em cầm tay anh, mùa giá rét trở thành mùa nồng ấm. Anh mong tình yêu của chúng mình sẽ mãi là ngọn lửa xua tan lạnh giá của mùa đông.",
+		"translate": ""
+	}, {
+		"id": "249",
+		"content": "Gấu yêu! Giáng sinh năm nay, em nhờ ông già Noel gửi đến anh một món quà. Đó là nỗi nhớ em dành cho anh lúc này. Chàng trai của em, dù cho anh có bận gì trong đêm Giáng sinh, hãy nhớ rằng, có một người con gái đang chờ đợi anh quay về.",
+		"translate": ""
+	}, {
+		"id": "250",
+		"content": "Em thích những điều giản dị. Lời chúc cho nhau cũng vậy. Mùa Giáng Sinh, em thường chúc tất cả bằng câu: “Noel an lành nhé”. Em nghĩ vậy là đủ rồi. Còn với riêng anh, em mong anh sẽ thấy sự an lành từ tình yêu mà em đã dành cho anh.",
+		"translate": ""
+	}, {
+		"id": "251",
+		"content": "Chúc em, một nửa của đời anh luôn cảm thấy hanh phúc khi có anh luôn bên cạnh. Dù em đi tới đâu anh vẫn theo từng bước chân em. Anh chỉ mong được theo em trên đoạn đường còn lại để có thể dìu em khi em ngã, hạnh phục khi được thấy em cười, và bên cạnh em khi em cô đơn nhất, với anh như thế là đủ. Mãi yêu em.",
+		"translate": ""
+	}, {
+		"id": "252",
+		"content": "Mùa Giáng Sinh là mùa giá rét. Nhưng khi có anh cầm tay em, mùa giá rét trở thành mùa nồng ấm. Em mong tình yêu của chúng mình sẽ mãi là ngọn lửa xua tan lạnh giá của mùa đông.",
+		"translate": ""
+	}, {
+		"id": "253",
+		"content": "Khi bạn nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn hạnh phúc, vui vẻ và luôn yêu đời. Khi đọc xong thì đừng ngại ngần mà gửi nó đi, nếu không gửi thì chẳng có điều gì tồi tệ xảy đến với bạn cả nhưng nếu bạn gửi thì sẽ có ai đó ở một đâu đó mỉm cười với bạn. Và đó mới là điều quan trọng… Và bây giờ, bạn cười trông đáng yêu hơn đấy, đừng chọn vẻ bề ngoài, vì nó là giả dối; đừng chọn vật chất vì nó có thể mất đi; hãy chọn nụ cười nhé bạn của tôi. Mùa đông ấm áp hơn khi có một nụ cười. Merry Xmas!",
+		"translate": ""
+	}, {
+		"id": "254",
+		"content": "Thay cho một món quà tặng có giá trị, xin gửi những lời chúc tốt đẹp, hạnh phúc tới tất cả mọi người. Chúc mọi người một mùa Giáng sinh an lành, một năm mới nhiều may mắn, một mùa đông thật ấm áp bên gia đình và người thương yêu. Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "255",
+		"content": "Chúc cho ngày Giáng sinh tràn đầy niềm vui, hạnh phúc vừa đủ và bình yên thật nhiều! Không chỉ là nụ cười mà đôi khi những giọt nước mắt cũng là niềm hạnh phúc, không có tình yêu nào là vĩnh cửu, chỉ có những giây phút vĩnh cửu của tình yêu. Chúc cho ai đó sẽ giữ được những giây phút ấy suốt cả cuộc đời! Merry Xmas!",
+		"translate": ""
+	}, {
+		"id": "256",
+		"content": "Nửa đêm Giáng Sinh, nếu một ông già mập mặc đồ đỏ nhảy qua cửa sổ, gói bạn lại và cho vào bao tải thì đừng có chống cự nhé. Tôi đã nói với ông Noel rằng tôi muốn có BẠN trong Giáng Sinh này.",
+		"translate": ""
+	}, {
+		"id": "257",
+		"content": "Bạn thật đặc biệt. Bạn thật tuyệt vời! Chúc Giáng Sinh của bạn cũng đặc biệt và tuyệt vời như bạn vậy.",
+		"translate": ""
+	}, {
+		"id": "258",
+		"content": "Love, Peace and Joy came down on earth on Christmas day to make you happy and cheerful. May Christmas spread cheer in your lives!",
+		"translate": ""
+	}, {
+		"id": "259",
+		"content": "Gửi tặng bạn những lời chúc sâu sắc với hy vọng bạn có nhiều niềm vui và những người yêu quý trong mùa Giáng sinh này.",
+		"translate": ""
+	}, {
+		"id": "260",
+		"content": "Gửi tình yêu và nhiều niềm vui Giáng sinh tới bạn và gia đình bạn. Giáng sinh vui vẻ nhé.",
+		"translate": ""
+	}, {
+		"id": "261",
+		"content": "Giáng sinh là mùa hoàn hảo để tiến gần tới những người khác khi tiếng cười và những tin tốt lành lan tỏa trong không bầu không khí này. Hy vọng rằng bạn cùng gia đình và bạn bè của bạn chia sẻ không khí mùa Giáng sinh này.",
+		"translate": ""
+	}, {
+		"id": "262",
+		"content": "Vào ngày vui vẻ này, và chúc cho cuộc sống trong suốt năm mới của bạn tràn ngập tình yêu.",
+		"translate": ""
+	}, {
+		"id": "263",
+		"content": "Chúc bạn năm mới an lành và thanh bình, và con đường bạn đi đầy sự mãn nguyện.",
+		"translate": ""
+	}, {
+		"id": "264",
+		"content": "Hãy để trái tim bạn tràn ngập niềm vui khi cho đi, như thể hiện tình yêu trong trái tim bạn và lòng tốt trong tâm hồn bạn.",
+		"translate": ""
+	}, {
+		"id": "265",
+		"content": "Chúc ánh sáng tình yêu chiếu lên bạn, và cuộc sống của bạn tràn ngập phước lành trong mùa Giáng sinh này.",
+		"translate": ""
+	}, {
+		"id": "266",
+		"content": "Chúc bạn Giáng sinh vui vẻ và mong rằng mùa lễ này sẽ mang thật nhiều niềm vui và hạnh phúc đến cuộc sống của bạn!",
+		"translate": ""
+	}, {
+		"id": "267",
+		"content": "Cầu mong Giáng sinh này sẽ là một Giáng sinh thật đặc biệt để bạn không còn cảm thấy cô đơn và sẽ luôn được hạnh phúc bên cạnh những người bạn thân yêu!",
+		"translate": ""
+	}, {
+		"id": "268",
+		"content": "Giáng sinh vui vẻ, và cầu mong năm mới này mang lại cho bạn nhiều niềm vui và tiếng cười. Điều mong ước lớn nhất đời là bạn được hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "269",
+		"content": "Chúc ngôi nhà bạn tràn ngập niềm vui mùa Giáng sinh. Mong bạn có một Giáng sinh may mắn và Chúc mừng năm mới!",
+		"translate": ""
+	}, {
+		"id": "270",
+		"content": "Giáng sinh là thời gian yêu thương những người mang lại nhiều hạnh phúc cho cuộc sống của chúng ta. Hãy để trái tim bạn cảm nhận được tình yêu trong mùa Giáng sinh này và trong suốt năm mới tới.",
+		"translate": ""
+	}, {
+		"id": "271",
+		"content": "Niềm tin làm mọi thứ trở nên tràn đầy hi vọng; Hi vọng mọi thứ xung quanh bạn đều tốt đẹp và Tình Yêu sẽ làm mọi thứ trở nên thật lộng lẫy. Chúc bạn có cả 3 điều ấy trong mùa Giáng Sinh này.",
+		"translate": ""
+	}, {
+		"id": "272",
+		"content": "Chúc cậu có một Giáng sinh ấm áp và hạnh phúc, tràn đầy an lành, hạnh phúc và tình yêu mà cậu xứng đáng được nhận. Chúc bạn một Giáng sinh và Năm mới tuyệt diệu!",
+		"translate": ""
+	}, {
+		"id": "273",
+		"content": "Mùa đông lạnh nhưng rất lãng mạn, nắng của mùa đông yếu nhưng đủ làm ấm trái tim một ai đó. Noel là dịp em và những người xung quanh tận hưởng những giây phút ngọt ngào của tình yêu thương. Đừng đóng chặt trái tim mình, hãy mở cửa trái tim để biết rằng giữa mùa đông mình vẫn thấy ấm áp. Chúc tình yêu của anh Giáng sinh vui vẻ và hạnh phúc!",
+		"translate": ""
+	}, {
+		"id": "274",
+		"content": "Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng suốt những năm qua. Con chúc Mẹ có một ngày giáng sinh thật ấm áp và vui bên chúng con, con yêu Mẹ nhiều!",
+		"translate": ""
+	}, {
+		"id": "275",
+		"content": "Anh biết không lúc này có 9 tỷ người đang ngủ, 3 tỷ người đang yêu, 2 tỷ người đang đón giáng sinh bên gia đình. Và chỉ có một người trên thế giới nay đang đọc tin nhắn của em. Noel hạnh phúc và ngọt ngào ấm áp anh nhé. Em yêu anh rất nhiều!",
+		"translate": ""
+	}, {
+		"id": "276",
+		"content": "Jingel cu Bell! Lại một mùa Noel nữa em được cùng ở bên anh. Chúc anh có một ngày Noel vui vẻ hạnh phúc bên em và gia đình. Mãi yêu anh!",
+		"translate": ""
+	}, {
+		"id": "277",
+		"content": "Em yêu của anh, mùa Giáng sinh đã đến. Giáng sinh là mùa lạnh, nhớ mặc áo ấm vào em nhé. Chúc em một mùa Giáng sinh vui vẻ và hạnh phúc trong tình yêu của Chúa. I love u so much and forever <3 <3 <3",
+		"translate": ""
+	}, {
+		"id": "278",
+		"content": "Nếu một sáng mai thức dậy, cậu bỗng thấy mình bị nhét vào một cái bao bố thật to và bị lôi đi xềnh xệch… thì đừng hoảng sợ nhé, bởi vì tớ đã xin ông già Noel, món quà tớ ao ước nhất chính là cậu! Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "279",
+		"content": "Em thích những điều giản dị. Lời chúc cho nhau cũng vậy. Mùa Giáng Sinh, em thường chúc tất cả bằng câu: “Noel an lành nhé”. Em nghĩ vậy là đủ rồi. Còn với riêng anh, em mong anh sẽ thấy sự an lành từ tình yêu mà em đã dành cho anh!",
+		"translate": ""
+	}, {
+		"id": "280",
+		"content": "Mùa đông lạnh nhưng rất lãng mạn, nắng của mùa đông yếu nhưng đủ làm ấm trái tim một ai đó. Noel là dịp bạn và những người xung quanh tận hưởng những giây phút ngọt ngào của tình yêu thương. Đừng đóng chặt trái tim mình, hãy mở cửa trái tim để biết rằng giữa mùa đông mình vẫn thấy ấm áp. Chúc các bạn của tôi một mùa giáng sinh vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "281",
+		"content": "Chúc mọi người thân yêu bên cạnh tôi một mùa Giáng sinh vui vẻ, may mắn và an lành. Chúc cho tất cả mọi người trên thế giới này luôn hạnh phúc, chúc cho những em nhỏ không có mái ấm gia đình ấm áp hơn, chúc cho những người già bách niên giai lão, chúc cho mọi điều luôn tốt đẹp nhất. Chúc anh luôn yêu em như vậy. Tôi nguyện cầu mọi điều an lành may mắn đến những người thân yêu của tôi.",
+		"translate": ""
+	}, {
+		"id": "282",
+		"content": "I wish Santa brings you the gift of never ending happiness this Christmas! May you and your family be blessed abundantly. Merry Christmas and a Prosperous New Year!",
+		"translate": ""
+	}, {
+		"id": "283",
+		"content": "The tree is decorated, the cookies are made, the gifts are wrapped; now all that’s left is to wish you a Merry Christmas. So, Merry Christmas dear friend.",
+		"translate": ""
+	}, {
+		"id": "284",
+		"content": "I want to wish you and your family all the happiness and joy of Christmas. I hope we can get together this holiday season and spend quality time together.",
+		"translate": ""
+	}, {
+		"id": "285",
+		"content": "At the stroke of midnight on Christmas, if a fat man dressed in a red suit jumps through your window, grabs you and puts you in a sack, don’t panic. I told Santa I wanted YOU for Christmas!",
+		"translate": ""
+	}, {
+		"id": "286",
+		"content": "Christmas time is here. I hope you have a wonderful New Year. May every day hold happy hours for you.",
+		"translate": ""
+	}, {
+		"id": "287",
+		"content": "Faith makes all things possible. Hope makes all things work and Love makes all things beautiful. May you have all the three for this Christmas. Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "288",
+		"content": "I wish you a blessed holiday season. May this Christmas bring you comfort, joy, peace and happiness to last throughout the coming year!",
+		"translate": ""
+	}, {
+		"id": "289",
+		"content": "May the light of love shine upon you, and may your life be filled with blessings in this Christmas season.",
+		"translate": ""
+	}, {
+		"id": "290",
+		"content": "This is another good beginning. May you be richly blessed with a successful new year. May my sincere blessing suround spendid travel of you life.",
+		"translate": ""
+	}, {
+		"id": "291",
+		"content": "May this Christmas be so special that you never ever feel lonely again and be surrounded by loved ones throughout!",
+		"translate": ""
+	}, {
+		"id": "292",
+		"content": "Christmas is about sharing and spending time with family and friends. It’s about creating happy memories with those you love.",
+		"translate": ""
+	}, {
+		"id": "293",
+		"content": "Christmas fills me with hope, joy, love, and happiness. I want you to know that your friendship makes me feel the same way.",
+		"translate": ""
+	}, {
+		"id": "294",
+		"content": "It’s Christmas time! May love, success, luck and friendship come knocking at your door throughout this Christmas season. Have a wonderful Christmas.",
+		"translate": ""
+	}, {
+		"id": "295",
+		"content": "Here’s to wishing you a warm and happy Christmas, filled with the peace, joy and love you deserve. Have a fantastic Christmas and New Year!",
+		"translate": ""
+	}, {
+		"id": "296",
+		"content": "May this Christmas be so special that you never ever feel lonely again and be surrounded by loved ones throughout!",
+		"translate": ""
+	}, {
+		"id": "297",
+		"content": "You are special, you are unique; may your Christmas be also as special and unique as you are! Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "298",
+		"content": "So thankful am I for having a friend like you. Wishing you blessings for the holidays and the coming year.",
+		"translate": ""
+	}, {
+		"id": "299",
+		"content": "There are so many gifts I want to give to you this Christmas. Peace, love, joy, happiness are all presents I am sending your way.",
+		"translate": ""
+	}, {
+		"id": "300",
+		"content": "Wish you a Merry Christmas and may this festival bring abundant joy and happiness in your life!",
+		"translate": ""
+	}, {
+		"id": "301",
+		"content": "May your life be filled with joy and happiness and may each new day bring you moments to cherish.",
+		"translate": ""
+	}, {
+		"id": "302",
+		"content": "May this new year bring you peace and tranquility, and as you walk your path may it bring you contentment.",
+		"translate": ""
+	}, {
+		"id": "303",
+		"content": "Sending thoughtful wishes your way in the hope you have the joy and treasures that come with the Christmas season.",
+		"translate": ""
+	}, {
+		"id": "304",
+		"content": "You are special, you are unique, may your Christmas be also as special and unique as you are! Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "305",
+		"content": "Christmas waves a magic wand over this world, making everything softer than snowflakes and all the more beautiful. Wish you a Magical Christmas.",
+		"translate": ""
+	}, {
+		"id": "306",
+		"content": "Bringing your good wishes of happiness this Chritmas and on the coming year.",
+		"translate": ""
+	}, {
+		"id": "307",
+		"content": "This is another good beginning. May you be richly blessed with a succesfull new year. May my sincere blessing suround spendid travel of you life.",
+		"translate": ""
+	}, {
+		"id": "308",
+		"content": "Christmas is the perfect season to reach out to others when laughter and good tidings are in the air. Here’s hoping that your Christmas will find you among family and friends, sharing the spirit of the season.",
+		"translate": ""
+	}, {
+		"id": "309",
+		"content": "Merry Christmas and may you live a long and happy life filled with goodwill and friendship.",
+		"translate": ""
+	}, {
+		"id": "310",
+		"content": "On this joyous day, and throughout the coming year, may your life be filled with good luck and prosperity.",
+		"translate": ""
+	}, {
+		"id": "311",
+		"content": "On this most blessed day, I wish you love for all your kindness, and I hope the new year will bring you many days of happiness.",
+		"translate": ""
+	}, {
+		"id": "312",
+		"content": "With all good wishes for a brilliant and happy Christmas season. Hope things are going all right with you.",
+		"translate": ""
+	}, {
+		"id": "313",
+		"content": "I know we are always busy this holiday season but I want to take the time to wish you and yours, Merry Christmas. I hope we can spend time together soon.",
+		"translate": ""
+	}, {
+		"id": "314",
+		"content": "One of the greatest joys of Christmas is having your whole family by your side to celebrate it with you. I wish you and your entire family a Merry Christmas and a very Happy New Year.",
+		"translate": ""
+	}, {
+		"id": "315",
+		"content": "Christmas time is always so hectic. That’s why I’m so glad I have a friend like you to help me out during the holidays.",
+		"translate": ""
+	}, {
+		"id": "316",
+		"content": "May your heart and home be filled with all of the joys the season brings. Merry Christmas and a wonderful New Year!",
+		"translate": ""
+	}, {
+		"id": "317",
+		"content": "Christmas waves a magic wand over this world, making everything softer than snowflakes and all the more beautiful. Wish you a Magical Christmas.",
+		"translate": ""
+	}, {
+		"id": "318",
+		"content": "As Christmas and the New Year approaches, I want to take time to tell you how blessed I feel to have you as a friend. Here’s to wishing you a very Merry Christmas and amazing New Year.",
+		"translate": ""
+	}, {
+		"id": "319",
+		"content": "Merry Christmas, and may this new year bring you joy and laughter. To be happy is the greatest wish in life.",
+		"translate": ""
+	}, {
+		"id": "320",
+		"content": "On this joyous day, and throughout the new year, may your life be filled with an abundance of love.",
+		"translate": ""
+	}, {
+		"id": "321",
+		"content": "May your heart be filled with the joy of giving, as it is the expression of the love in your heart and the kindness in your soul.",
+		"translate": ""
+	}, {
+		"id": "322",
+		"content": "At the stroke of midnight on Christmas, if a fat man dressed in a red suit jumps through your window, grabs you and puts you in a sack, don”t panic. I told Santa I wanted you for Christmas!",
+		"translate": ""
+	}, {
+		"id": "323",
+		"content": "May this Christmas be so special that you never ever feel lonely again and be surrounded by loved ones throughout!",
+		"translate": ""
+	}, {
+		"id": "324",
+		"content": "Sang năm mới chúc mọi người có một bầu trời sức khoẻ, Một biển cả tình thương, Một đại dương tình cảm, Một điệp khúc tình yêu, Một người yêu chung thủy, Một tình bạn mênh mông, Một gia đình thịnh vượng. Chúc các bà, các ông, các cô, các chú, các chị, Các anh sang năm mới vạn sự như ý, Tỷ sự như mơ, Làm việc như thơ, Đời vui như nhạc, Coi tiền như rác, Coi bạc như rơm, Chung thủy với cơm và sắc son với phở! Chúc mừng năm mới 2021!",
+		"translate": ""
+	}, {
+		"id": "870",
+		"content": "Trong không khí rộn rã của Noel năm nay, chúc mọi người một mùa Giáng sinh thật an lành và hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "871",
+		"content": "Khi bạn nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn hạnh phúc, vui vẻ và luôn yêu đời. Khi đọc xong thì đừng ngại ngần mà gửi nó đi, nếu không gửi thì chẳng có điều gì tồi tệ xảy đến với bạn cả nhưng nếu bạn gửi thì sẽ có ai đó ở một đâu đó mỉm cười với bạn. Và đó mới là điều quan trọng… Và bây giờ, bạn cười trông đáng yêu hơn đấy, đừng chọn vẻ bề ngoài, vì nó là giả dối; đừng chọn vật chất vì nó có thể mất đi; hãy chọn nụ cười nhé bạn của tôi. Mùa đông ấm áp hơn khi có một nụ cười. Merry Xmas!",
+		"translate": ""
+	}, {
+		"id": "872",
+		"content": "Nếu ông già Noel có thật như truyền thuyết vẫn nói và những nguyện cầu đêm Giáng sinh đều thành hiện thực, thì ước gì em được là hơi ấm bao quanh anh giữa mùa đông lạnh giá… Là luồng khí mát ôm lấy anh giữa mùa hè rực nắng… Là làn gió nhẹ vờn tóc anh giữa mùa thu dịu dàng… Là cơn mưa bụi khẽ hôn lên má anh mỗi khi xuân về… Bởi điều em mong muốn nhất là anh được hạnh phúc, bình yên.",
+		"translate": ""
+	}, {
+		"id": "873",
+		"content": "Thiên Thần à, chúc em một mùa Giáng sinh vui vẻ, Noel này anh không thể bên em được nhưng anh hi vọng trái tim em luôn được sưởi ấm!",
+		"translate": ""
+	}, {
+		"id": "874",
+		"content": "Nếu có một điều ước, con sẽ ước ông già Noel sẽ đem thật nhiều niềm vui và hạnh phúc đến với ba mẹ. Chúc gia đình mình Giáng sinh an lành, ấm áp.",
+		"translate": ""
+	}, {
+		"id": "875",
+		"content": "Chúc những người bạn bên cạnh tôi một mùa Giáng sinh vui vẻ, may mắn và an lành. Tôi nguyện cầu mọi điều an lành may mắn sẽ đến với bạn.",
+		"translate": ""
+	}, {
+		"id": "876",
+		"content": "Chúc em và toàn thể gia đình hưởng mùa Giáng sinh an bình thánh thiện và năm mới được vui tươi, sức khỏe dồi dào và tràn đầy hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "877",
+		"content": "Giáng sinh chào đến mọi nhà Cùng nhau vui hát, lời ca chúc mừng Nào nào cùng đến ăn mừng Vui say no đủ, rượu mừng trao nhau Ngày tháng dần nhẹ trôi mau Đông vừa nhẹ lướt phủ màu nắng xuân.",
+		"translate": ""
+	}, {
+		"id": "878",
+		"content": "Chúc cho Giáng Sinh này đặc biệt đến nỗi bạn sẽ không bao giờ còn cảm thấy cô đơn nữa và luôn có những người thương yêu bên cạnh.",
+		"translate": ""
+	}, {
+		"id": "879",
+		"content": "Năm ngoái, Chúa chứng kiến thấy một người say xỉn không biết đường về phải ngồi nghỉ giữa đường trong đêm khuya vắng lạnh. Năm nay, hy vọng Chúa không còn thấy hình ảnh đó nữa. Đón giáng sinh yên lành nhé!",
+		"translate": ""
+	}, {
+		"id": "880",
+		"content": "“Gửi vợ yêu: \"... Vậy là vợ chồng mình sắp đoàn tụ rồi. Gia đình sẽ trở nên ấm cúng và hạnh phúc hơn rất nhiều trong dịp tết này vợ nhỉ... Chồng ngóng chờ ngày con gái ra đời quá! Dẫu cho Giáng sinh này có lạnh giá và không có chồng bên cạnh thì vợ vẫn phải ăn thật nhiều, ngủ thật ngon nha... Nhớ vợ và con gái trong bụng nhiều lắm”.",
+		"translate": ""
+	}, {
+		"id": "881",
+		"content": "Chồng yêu à, thế là một mùa Giáng sinh nữa lại về. Em mong đến đêm Noel quá để vợ chồng mình được gặp nhau, được bên nhau trong cái không khí lạnh như cắt da cắt thịt của mùa đông này! Nhưng em biết chúng mình sẽ không cảm thấy lạnh chút nào mà ngược lại, thấy rất ấm áp vì được bên nhau phải không anh? Chúc chồng yêu hoàn thành kì thi này thật tốt, chúc chồng yêu một Giáng sinh vui vẻ và một năm mới thật nhiều may mắn và nụ cười nhé! Em yêu chồng nhiều lắm!",
+		"translate": ""
+	}, {
+		"id": "882",
+		"content": "Zing cu beo! Zing cu beo! Lại một mùa Giáng sinh FA nữa lại đến rồi. Chúc mày đếm giáng sinh thả được nhiều thính, có nhiều cá ăn thính để thoát kiếp FA nhé. Giáng sinh an lành ấm áp. Merry christmas!",
+		"translate": ""
+	}, {
+		"id": "883",
+		"content": "Em yêu của anh mùa giáng sinh đã đến, giáng sinh là mùa lạnh nhớ mặc áo ấm vào,chúc em một mùa giáng sinh vui vể và hạnh phúc trong tình yêu của Chúa, I love u so much...and forever.....",
+		"translate": ""
+	}, {
+		"id": "884",
+		"content": "Noel lạnh, nhưng sao lạnh bằng khi không có em. Mùa hè ấm, nhưng sao ấm bằng khi được bên em. Nửa vòng Trái Đất xa, nhưng vẫn có chuyến bay đến, một vòng Trái Đất khi bên em, chẳng có đường bay nào khi em quay lưng lại. Nhưng anh biết chắc, chúng ta luôn hướng về nhau. Chúc em Giáng sinh vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "885",
+		"content": "Giáng Sinh vẫy cây gậy thần kỳ làm cho mọi thứ mềm mại hơn cả bông tuyết rơi và đẹp hơn bao giờ hết. Chúc bạn một Giáng Sinh thần kỳ.",
+		"translate": ""
+	}, {
+		"id": "886",
+		"content": "Em biết không lúc này có 4 triệu người đang ngủ, 3 triệu người đang yêu, 2 triệu người đang đón giáng sinh bên gia đình. Và chỉ có một người trên thế giới nay đang đọc tin nhắn của anh. Noel hạnh phúc và ngọt ngào em nhé.",
+		"translate": ""
+	}, {
+		"id": "887",
+		"content": "Chúc cho ngày Giáng sinh 2021 tràn đầy niềm vui, hạnh phúc vừa đủ và bình yên thật nhiều! Không chỉ là nụ cười mà đôi khi những giọt nước mắt cũng là niềm hạnh phúc, không có tình yêu nào là vĩnh cửu, chỉ có những giây phút vĩnh cửu của tình yêu. Chúc cho ai đó sẽ giữ được những giây phút ấy suốt cả cuộc đời! Merry Xmas!",
+		"translate": ""
+	}, {
+		"id": "888",
+		"content": "Ngốc Yêu ơi? Ai đó từng nói: “Mùa đông lạnh… nhưng với anh chỉ em là đủ!”. Anh rất thích mùa đông, vì anh có thể sưởi ấm cho ai đó của anh. Và năm nay là mùa đông đầu tiên chúng ta bên nhau, có nhiều thứ để nói lên suy nghĩ của anh, của em và của 2 đứa mình. Anh biết và hiểu những điều đó em àh. Anh luôn tin và khẳng định với bản thân mình đã có 1 người con gái luôn hiểu anh nghĩ gì? em biết là ai không? Là em đó ngốc yêu của anh à. Noel đến rồi, anh chúc em những gì tốt đẹp nhất, chúc cho người con gái anh yêu lúc nào cũng nở tươi nụ cười! Yêu em nhiều lắm lắm!",
+		"translate": ""
+	}, {
+		"id": "889",
+		"content": "Giáng sinh đang đến, con ngỗng đang béo dần. Tôi thường ít khi gửi thiệp cho một những người bạn. Nhưng tôi muốn gửi cho riêng bạn. Thế nhé bạn thân của tôi!",
+		"translate": ""
+	}, {
+		"id": "890",
+		"content": "Nếu ông già Noel đẹp trai có thật - như truyền thuyết vẫn nói và những nguyện cầu đêm Giáng Sinh đều thành hiện thực, thì ước gì em được là hơi ấm bao quanh anh giữa mùa đông lạnh giá... Là luồng khí mát ôm lấy anh giữa mùa hè rực nắng... Là làn gió nhẹ vờn tóc anh giữa mùa thu dịu dàng... Là cơn mưa bụi khẽ hôn lên má anh mỗi khi xuân về... Bởi điều em mong muốn nhất là anh được hạnh phúc, bình yên.",
+		"translate": ""
+	}, {
+		"id": "891",
+		"content": "Con chúc gia đình mình một Giáng sinh vui vẻ và thật khoẻ để vui với ngày lễ này. Con yêu cả nhà! Một Giáng sinh an lành sẽ đến với tất cả chúng ta.",
+		"translate": ""
+	}, {
+		"id": "892",
+		"content": "Gửi ông già Noel: \"Có lẽ con quá tham lam nhưng ông ơi, con không chỉ ước cho riêng con, con ước cho những người mà con yêu thương nhất!",
+		"translate": ""
+	}, {
+		"id": "893",
+		"content": "Noel lại về rồi anh nhỉ. Noel năm nay không còn giống như noel năm nào bởi em đã không còn có anh bên cạnh. Ước gì em được ở bên anh trong ngày lễ Giáng sinh! Trời ơi cho con hỏi: có ông già tuyết không nhỉ? nếu có liệu ông có thể nghe những lời nguyện cầu của con? liệu ông có thể cho con một điều ước? Cầu chúc anh có một mùa Noel thật ấm áp bên người con gái anh yêu…",
+		"translate": ""
+	}, {
+		"id": "894",
+		"content": "Chúc mừng giáng sinh. Anh là một người bạn mới của em, một người bạn dễ thương và thú vị. Em biết Giáng sinh này với anh có vẻ hơi ảm đạm, em mong đây là một trong những món quà có thể làm anh vui. Chúc anh một Giáng sinh thật ấm áp và biết đâu đấy, Chúa sẽ nghe lời nguyện cầu của anh.",
+		"translate": ""
+	}, {
+		"id": "895",
+		"content": "Một mùa Giáng sinh mới đã đến, con kính chúc gia đình mình luôn mạnh khỏe, luôn vui vẻ quây quần bên nhau. Cám ơn bố mẹ đã sinh ra con, đã gian khó nuôi con trưởng thành như hôm nay. Con yêu ba mẹ nhất trên đời.",
+		"translate": ""
+	}, {
+		"id": "896",
+		"content": "Chưa một lần được ở bên em vào đêm Giáng sinh. Anh đã kiên trì chờ đợi và hy vọng sẽ có một năm anh được thức suốt đêm và cùng em đón Giáng sinh. Nhưng đến Noelnày, tất cả đã không thành hiện thực tưởng chừng như giản đơn ấy nữa. Dù sao, anh cũng cầu chúc cho trái tim em luôn được ấm áp, anlành trong đêm Noel năm nay. Giáng sinh vui vẻ, ấm áp và thật hạnh phúc nhé!",
+		"translate": ""
+	}, {
+		"id": "897",
+		"content": "Trong đêm Noel, anh cầu nguyện đức chúa hãy che chở cho em, ngọn gió thơm hãy thổi đi những ưu phiền và những ngôi sao lấp lánh dẫn đường cho em đến bên cạnh anh, người yêu bé nhỏ.",
+		"translate": ""
+	}, {
+		"id": "898",
+		"content": "Hạnh phúc không phải là bạn được tặng một cây thông to lớn trước nhà, được đi ăn ở những nơi sang trọng, tặng nhau những món quà đắt giá. Hạnh phúc là khi bạn thấy ấm áp trong cái lạnh của đêm Giáng Sinh, hơi ấm từ bạn bè và người thân mà họ dành tặng cho bạn trong một tấm thiệp, một lời chúc dí dỏm, một buổi đi chơi giản dị nhưng đầy ắp tình cảm. ",
+		"translate": ""
+	}, {
+		"id": "899",
+		"content": "Giáng sinh năm nay anh sẽ xin ông già Noel một điều ước đó là mang những nỗi buồn của em đi chỉ để lại những khoảnh khắc vui nhất cho em.",
+		"translate": ""
+	}, {
+		"id": "900",
+		"content": "Chồng yêu à, thế là 1 mùa Giáng sinh nữa lại về. Em mong đến đêm Noel quá để vợ chồng mình được gặp nhau, được bên nhau trong cái không khí lạnh như cắt của mùa đông này! Nhưng em biết chúng mình sẽ không cảm thấy lạnhchút nào mà ngược lại, thấy rất ấm áp vì được bên nhau phải không anh? Chúc chồng yêu hoàn thành kìthi này thật tốt, chúc chồng yêu 1 Giáng sinh vui vẻ và một năm mới thật nhiều may mắn và nụ cười nhé! E yêu chồng lắm!",
+		"translate": ""
+	}, {
+		"id": "901",
+		"content": "Khi thế giới sinh ra chúng ta, người đã ban cho chúng ta một món quà thật sự vô giá: đó là thời gian. Con cảm ơn thế giới này đã sinh ra thời gian để con có thể được ở bên cạnh những người mà con yêu thương. Giáng Sinh đến rồi, con chúc cho cả gia đình ta có một mùa giáng sinh ấm áp , hạnh phúc, chúc cho chúng ta có thêm thật nhiều thời gian để có những khoảnh khắc ở bên nhau.",
+		"translate": ""
+	}, {
+		"id": "902",
+		"content": "Giáng sinh và năm mới sắp đến rồi. Chúc chị em: Trẻ trung như heo sữa, Bốc lửa như heo hơi, Chịu chơi như heo nái, Hăng hái như heo con, Sắc son như heo đất, Đủ chất như ..heo thịt! Chúc anh em: Tươi vui như heo cắn, đỏ đắn như heo lai, sức dai như… heo nọc, xốc vác như heo rừng, bừng bừng như… heo quay! Merry Christmas!",
+		"translate": ""
+	}, {
+		"id": "903",
+		"content": "Gửi tới cậu, người bạn của tớ. Chúc cậu đón Giáng sinh an lành và một năm mới hạnh phúc!",
+		"translate": ""
+	}, {
+		"id": "904",
+		"content": "Giáng sinh đã bắt đầu. Tôi xin trân trọng thông báo: tôi chấp nhận mọi thứ quà bằng tiền mặt, séc và chuyển khoản điện tử. Đừng ngại ngày lễ đông đúc, cứ gửi đi. Chúc Giáng sinh vui vẻ.",
+		"translate": ""
+	}, {
+		"id": "905",
+		"content": "Ông già Noel đang gõ cửa kìa, mau ra mở cửa và nhắm mắt lại nhé. Bạn biết không mình đã nhờ ông già Noel mang đến một món quà cực kỳ đặc biệt đó là gửi đến bạn lời chúc Giáng sinh an lành, ấm áp và luôn vui cười bạn nhé!",
+		"translate": ""
+	}, {
+		"id": "906",
+		"content": "Anh đã ngủ thiên thu, Noel này em một mình ngơ ngác giữa Sài thành hoa lệ. Chốn đông người nhưng em lạc lõng bơ vơ. Sắp đến ngày kỷ niệm tình yêu của hai ta, anh có thể trốn thiên đàng về với em giây lát? Em nhớ anh, Cơn gió ơi",
+		"translate": ""
+	}, {
+		"id": "907",
+		"content": "Noel 2021 đến rồi! Mong một Giáng sinh thật ấm áp, an lành tới người yêu của anh! Mong em mãi tươi trẻ, hạnh phúc và luôn là bông hoa đẹp nhất trong lòng anh!",
+		"translate": ""
+	}, {
+		"id": "908",
+		"content": "Anh xin gửi em nhưng lời chúc giáng sinh an lành và sẽ là người anh luôn thương yêu nhất. Chúc em luôn xinh đẹp, hạnh phúc hơn, cười nhiều hơn mỗi ngày.",
+		"translate": ""
+	}, {
+		"id": "909",
+		"content": "Tặng bạn niềm vui để bạn ngọt ngào, tặng bạn nụ cười để bạn rạng rỡ, tặng bạn nhiều điều tốt lành để bạn mãi là người bạn thân yêu của mình! Merry Christmas and Happy new year!",
+		"translate": ""
+	}, {
+		"id": "910",
+		"content": "Tình yêu của em, đêm Giáng sinh năm nay lạnh hơn mọi năm, có lẽ vì em đã xa vòng tay anh mất rồi, nhưng em biết, dù ở xa nhưng vẫn chung nhịp thở, dù chẳng gần nhưng vẫn ở trong tim. Giáng sinh hạnh phúc anh nhé!",
+		"translate": ""
+	}, {
+		"id": "911",
+		"content": "Truyền thuyết kể rằng nếu người nào đó được tặng 1.000 con hạc giấy được gấp từ tờ polime 500.000 vào đêm Noel thì sẽ rất hạnh phúc, buồn đau đều vượt qua hết... nếu là bạn tui thi hãy gửi cho tui 1.000 con hạc giấy như thế nhé, nếu không có thời gian gấp thì cứ gửi cho tui 1.000 tờ 500.000đ để tui tự gấp cũng được^^... Noel vui vẻ!",
+		"translate": ""
+	}, {
+		"id": "912",
+		"content": "Giáng sinh thật sự ấm áp khi được ở bên những người thân yêu. Con cảm ơn trời đất vì đã được sinh ra là con của bố mẹ, và được ở bên bố mẹ trong những thời khắc đặc biệt như thế này trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "913",
+		"content": "Hôm nay ông già Noel không thể đi tặng quà cho mọi người vì đàn tuần lộc của ông đã chạy mất. Có 10 con chạy đi nhưng chỉ tìm lại được 9 con, còn 1 con đang ngồi đọc tin nhắn này... Haha! Noel vui vẻ nhé!",
+		"translate": ""
+	}, {
+		"id": "914",
+		"content": "Bây giờ, nếu có điều ước anh sẽ ước rằng: “Giá như thế gian này là một buổi hoàng hôn tím. Em là đại dương bao la, xanh thẳm. Còn anh là mặt trời rực rỡ, lung linh ánh nắng vàng. Và giờ đâykhi mùa đông Pari giá lạnh đã đến… Anh không biết nói gì hơn, chỉ muốnnhờ cơn gió nhắn với em một lời. Hãy vui lên em nhé, em yêu dấu của anh. Cho dù đi đến nơi nào thì tình yêu của anh dành cho em mãi mãi không bao giờ thay đổi. Chúc em Giáng sinh ấm áp và hạnh phúc… Anh yêu em… ",
+		"translate": ""
+	}, {
+		"id": "915",
+		"content": "Chương trình dự báo thời tiết đêm Noel xin kính chào quý khách. Hôm nay thời tiết rất lạnh! Nếu vì một lý do nào đấy hôm nay cái máy sưởi ấm di động của quý khách không thể bên cạnh quý khách thì quý khách hãy nhận một chút ấm áp từ số máy này nhé! Chúc quý khách Noel ấm áp!",
+		"translate": ""
+	}, {
+		"id": "916",
+		"content": "Noel đã đến! Tớ chúc cậu một lời chúc một đêm Noel an lành, tràn đầy niềm vui và hạnh phúc bên người thân của mình. Chúc cậu mạnh khoẻ và thành đạt trong cuộc sống.",
+		"translate": ""
+	}]
+}

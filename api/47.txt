@@ -1,0 +1,27 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Nhân ngày Phụ nữ Việt Nam, em chúc cô luôn thành công, mạnh khỏe, hạnh phúc trong cuộc sống. Cảm ơn cô đã dạy dỗ và dìu dắt chúng em qua quãng thời gian thanh xuân tươi đẹp.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cô giáo kính mến, nhân ngày 20/10 - là một trong những ngày quan trọng nhất của phái đẹp Việt Nam. Em chúc cô có thêm nhiều sức khỏe, năng lượng dồi dào để tiếp lối dẫn dắt thêm nhiều thế hệ học trò. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cô giáo thân mến, nhân ngày 20/10, em xin phép gửi tới cô lời chúc sức khỏe, thành công và những lời tri ân từ tận đáy lòng. Cảm ơn cô đã dạy dỗ và đồng hành cùng chúng em qua những năm tháng học trò đáng nhớ.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân ngày 20/10 - Phụ nữ Việt Nam, em chúc cô giáo thật hạnh phúc, vui tươi, thành công và đạt được nhiều mong ước trong cuộc sống.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cô giáo mến thương, nhân ngày Phụ nữ Việt Nam, em xin gửi tới cô những lời chúc sâu sắc nhất, mong cô sẽ có sức khỏe để luôn hoàn thành tốt nhiệm vụ trồng người cao cả.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cô giáo - người mẹ thứ hai đã luôn đồng hành cùng chúng em để chinh phục được chặng đường tri thức gian khổ, mỗi lời động viên của cô như là một nguồn động lực lớn lao đối với chúng em. Nhân ngày 20/10, chúc cô luôn xinh đẹp, tươi vui và rạng rỡ. Chúng em yêu cô rất nhiều.",
+		"translate": ""
+	}]
+}

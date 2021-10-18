@@ -1,0 +1,279 @@
+{
+	"result": [{
+		"id": "2241",
+		"content": "Châu Âu ngủ, châu Á cũng đang ngủ, châu Mỹ đang tối dần, chỉ có đôi mắt đẹp nhất trên thế giới này đang đọc tin nhắn của anh. Happy White Day.",
+		"translate": ""
+	}, {
+		"id": "2242",
+		"content": "Thầy Toán dạy anh 1 giờ = 60 phút, 1 phút = 60 giây, nhưng thầy chẳng nói với anh 1 giây không có em lại bằng tới 100 năm. Nhớ em!",
+		"translate": ""
+	}, {
+		"id": "2243",
+		"content": "Anh sẽ là dòng sông, để em là biển rộng. Anh sẽ là gió lộng, để em là mây bay. Hãy cho anh luôn được ở bên em trong cuộc đời này!",
+		"translate": ""
+	}, {
+		"id": "2244",
+		"content": "Được yêu em đối với anh mỗi ngày như là hơi thở, như là nhịp đập con tim em có biết không. Anh chúc em luôn tràn đầy hạnh phúc ngọt ngào, hãy gìn giữ và nuôi dưỡng tình yêu của chúng mình em nhé.",
+		"translate": ""
+	}, {
+		"id": "2245",
+		"content": "Xin chào bạn. Đây là tổng đài tin nhắn. Ấn phím 1 để có 1 lời khen. Phím 2 cho một lời chúc tốt đẹp. Phím 3 cho 1 nụ hôn. Phím 4 cho 1 cuộc hẹn. Nếu muốn tất cả hãy bấm số của tôi.",
+		"translate": ""
+	}, {
+		"id": "2246",
+		"content": "Ngốc ơi! Nếu tình yêu là lực hấp dẫn, thì anh là trái đất, còn nếu xinh đẹp là tội ác, thì có lẽ em đáng bị kết án tử hình. Em yêu anh nhiều lắm ngốc à. Hãy bên em và cùng sát cánh với em nha ngốc.",
+		"translate": ""
+	}, {
+		"id": "2247",
+		"content": "Mong tình yêu thương chân thành anh dành cho em sẽ mãi ngân vang như bản nhạc trong trái tim dịu dàng của em. Chúc em có ngày lễ Valentine trắng ngọt ngào, hạnh phúc nhé.",
+		"translate": ""
+	}, {
+		"id": "2248",
+		"content": "Em muốn nói với anh rằng anh là cả cuộc đời em. Yêu anh tận sâu thẳm trong trái tim. Em không thể thiếu anh. Anh là tình yêu của em.",
+		"translate": ""
+	}, {
+		"id": "2249",
+		"content": "Xin lỗi anh, hôm nay em bị hạn chế nhắn tin cho anh rồi. Hôm nay khám bệnh, bác sỹ bảo em phải hạn chế với những gì ngọt ngọt mà anh lại là điều ngọt ngào nhất. Em đang liều mạng với tin nhắn này đấy. Happy White Valentine!",
+		"translate": ""
+	}, {
+		"id": "2250",
+		"content": "Em luôn khởi đầu và kết thúc 1 ngày bằng cách nghĩ về anh, nghĩ về ánh mắt say đắm của anh,nghĩ về nụ cười rạng rỡ của anh, giọng nói ấm áp và nụ hôn ấm áp của anh. Làm như thế em sẽ có thêm sức mạnh để chiến đấu với bao khó khăn mệt mỏi của cuộc sống. Cám ơn anh nhé – tình yêu của em!",
+		"translate": ""
+	}, {
+		"id": "2251",
+		"content": "Trên thiên đường có 10 thiên thần: 5 thiên thần đang chơi đùa, 4 thiên thần đang nói chuyện và 1 thiên thần đang đọc tin nhắn này… Happy White Valentine!",
+		"translate": ""
+	}, {
+		"id": "2252",
+		"content": "Đời người là hoa và Tình yêu là mật ngọt. Anh đã may mắn tìm được giọt mật của đời mình, là Em đó, Em yêu à! Hãy nắm chặt tay anh trên con đường tình yêu em nhé! Happy Valentine’s Day!",
+		"translate": ""
+	}, {
+		"id": "2253",
+		"content": "Dù không gian có phân cách chúng ta và thời gian có trôi đi mỗi ngày, anh vẫn giữ trong tim sự quan tâm và những lời chúc tốt đẹp cho em. Gửi đến em những lời chúc tốt đẹp nhất, ngọt ngào nhất.",
+		"translate": ""
+	}, {
+		"id": "2254",
+		"content": "Anh không lãng mạn để có thể làm thơ tặng em, anh không tài giỏi để có thể vẽ tranh tặng em, anh không giàu có để có thể mua cả vườn hồng dành cho em. Nhưng anh đủ hào phóng để có thể tặng em cả trái tim anh, đủ dũng cảm để bảo vệ em suốt cuộc đời, đủ chung thủy để mãi yêu chỉ mình em trong đời.",
+		"translate": ""
+	}, {
+		"id": "2255",
+		"content": "Hôm nay anh nhờ bưu điện gửi tới tặng em một món quà. Đó là nỗi nhớ của anh dành cho em lúc này. Nhưng rất tiếc họ từ chối. Họ bảo vì nó quá lớn. Anh phải làm sao đây?",
+		"translate": ""
+	}, {
+		"id": "2256",
+		"content": "Nếu có bản án dành cho anh vì đã yêu em thì anh xin đứng trước toà và nhận bản án chung thân được bên em suốt đời…",
+		"translate": ""
+	}, {
+		"id": "2257",
+		"content": "Em bị triệu đến toà án vì đã bước vào ước mơ của anh, đánh cắp trái tim anh, và cướp đi mọi cảm xúc trong anh. Em bị kết án ở bên anh mãi mãi. Em có gì biện hộ không?",
+		"translate": ""
+	}, {
+		"id": "2258",
+		"content": "Em bị triệu đến tòa án vì đã bước vào giấc mơ của anh, đánh cắp trái tim anh, và cướp đi mọi cảm xúc trong anh. Em bị kết án ở bên anh mãi mãi. Em có gì biện hộ không?",
+		"translate": ""
+	}, {
+		"id": "2259",
+		"content": "Thuyền có trôi dạt về phương nào thì cũng vẫn quay về với bến. Em có đi đến chân trời nào thì cũng vẫn quay về bên anh vì em không thể sống, không thể tồn tại mà không có anh. Cuộc đời anh chính là cuộc đời em. Em yêu anh.",
+		"translate": ""
+	}, {
+		"id": "2260",
+		"content": "Xin hỏi cô có bản đồ không? Tôi cứ bị lạc hoài trong đôi mắt cô.",
+		"translate": ""
+	}, {
+		"id": "2261",
+		"content": "Ngày Valentine Trắng có 3 người hỏi anh về em đó, anh đã cho họ một chút thông tin về em, họ sẽ tìm thấy em trong thời gian sớm nhất. Họ chính là 3 vị thần: Sức Khỏe, May Mắn và Tình Yêu.",
+		"translate": ""
+	}, {
+		"id": "2262",
+		"content": "Chúng ta đã cùng vượt qua những khoảng thời gian khó khăn, em yêu. Anh chỉ muốn cho tất cả mọi người biết rằng: em là duy nhất của anh… Anh yêu em rất nhiều.",
+		"translate": ""
+	}, {
+		"id": "2263",
+		"content": "Anh không còn yêu vợ nữa, sau những năm chúng mình sống cùng nhau. Bởi vì anh đã \"quá yêu\", \"quá cần\" vợ rồi.",
+		"translate": ""
+	}, {
+		"id": "2264",
+		"content": "Anh đã luôn mơ những giấc mơ thật đẹp, những giấc mơ trong đó có em…Em đến bên anh thật nồng nàn, say đắm như sự sắp đặt của số phận. Trong mơ, anh là người hạnh phúc, và anh cứ muốn kéo dài giấc mơ hạnh phúc ấy, kéo dài mãi mãi…Chúc em yêu một Valentine thật vui vẻ và hãy nhớ đến anh.",
+		"translate": ""
+	}, {
+		"id": "2265",
+		"content": "Nếu không có anh cuộc sống của em chỉ tồn tại một gam màu tối u buồn chứ không phải là ánh sáng huyền diệu muôn màu muôn vẻ và em sẽ không còn là em nữa. Em luôn cần anh như con người cần hơi thở.",
+		"translate": ""
+	}, {
+		"id": "2266",
+		"content": "Ngốc ơi! Nếu tình yêu là lực hấp dẫn, thì em là trái đất, còn nếu xinh đẹp là tội ác, thì có lẽ em đáng bị kết án tử hình… Anh yêu em nhiều lắm ngốc à! Hãy bên anh và cùng sát cánh với anh nha ngốc.",
+		"translate": ""
+	}, {
+		"id": "2267",
+		"content": "Anh sẽ là dòng sông, để em là biển rộng. Anh sẽ là gió lộng, để em là mây bay. Hãy cho anh luôn được ở bên em trong cuộc đời này! Gửi em Valentine đầy yêu thương.",
+		"translate": ""
+	}, {
+		"id": "2268",
+		"content": "Không có ánh mặt trời, làm sao có cầu vồng sau cơn mưa. Em là ánh mặt trời, khiến cuộc đời anh thêm rạng rỡ. Chúc em mãi tỏa sáng trong trái tim anh. Valentine ấm áp nhé em.",
+		"translate": ""
+	}, {
+		"id": "2269",
+		"content": "Thầy dạy anh 1 giờ = 60 phút, 1 phút = 60 giây nhưng thầy chẳng nói với anh 1 giây không có em lại bằng tới 100 năm. Nhớ em nhiều lắm.",
+		"translate": ""
+	}, {
+		"id": "2270",
+		"content": "Giờ đây nhìn lên bầu trời em muốn nói rằng em yêu anh. Bây giờ và mãi mãi. Lại một mùa valetine nữa em thật hạnh phúc bên anh.",
+		"translate": ""
+	}, {
+		"id": "2271",
+		"content": "Xin chào bạn. Đây là tổng đài tin nhắn. Ấn phím 1 để nhận một lời khen. Phím 2 để nhận một lời chúc tốt đẹp. Phím 3 để nhận một nụ hôn. Phím 4 để có cuộc hẹn. Nếu muốn tất cả hãy bấm số của tôi.",
+		"translate": ""
+	}, {
+		"id": "2272",
+		"content": "Anh muốn nói rằng anh yêu và nhớ em rất nhiều…Nhưng anh hứa chúng ta sẽ cùng ăn mừng ngày này với thật nhiều tình yêu và hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "2273",
+		"content": "Tôi có 1 trái tim và nó là sự thật. Nhưng giờ đây nó đã đi theo em. Hãy quan tâm đến nó như anh đã từng làm em nhé. Bởi vì anh ko có nó nữa rồi. Và em đã có cả 2.",
+		"translate": ""
+	}, {
+		"id": "2274",
+		"content": "Em rất vui vì đã có mặt trong giấc mơ của anh, giấc mơ mà anh là người hạnh phúc. Em mong rằng mình sẽ có mặt trong cuộc sống của anh, nơi mà cả hai chúng ta đều hạnh phúc.",
+		"translate": ""
+	}, {
+		"id": "2275",
+		"content": "Valentine Trắng vui vẻ nhé vợ yêu. Chồng hứa sẽ về sớm với vợ, cùng vợ nấu một bữa cơm thật ngon. Chờ chồng nhé.",
+		"translate": ""
+	}, {
+		"id": "2276",
+		"content": "Liệu cha của em có phải là một tên trộm hay không? Vì ông ấy đã lấy cắp những vì sao trên trời và đưa chúng vào mắt em.",
+		"translate": ""
+	}, {
+		"id": "2277",
+		"content": "Nếu anh không bao giờ gặp em…Anh sẽ không thích em. Nếu anh không thích em…Anh sẽ không yêu em. Nếu anh không yêu em...Anh sẽ không nhớ em. Nhưng anh đã làm…đang làm và sẽ làm. Yêu em thật nhiều…hôn em. ",
+		"translate": ""
+	}, {
+		"id": "2278",
+		"content": "1 tuần có 7 ngày. 1 ngày có 24 giờ. 1h có 60 phút. 1 phút có 60s. không ngày nào,giờ nào là em không nhớ anh. Không giây phút nào em không nghĩ về anh. Tâm hồn và trái tim em đã ngập tràn hình bóng anh. Nhớ và yêu anh nhiều.",
+		"translate": ""
+	}, {
+		"id": "2279",
+		"content": "Xin chúc mừng! Bạn là khách hàng may mắn nhất trong chương trình “mở nắp trái tim trúng thưởng” nhân ngày Valentine Trắng. Và phần thưởng của bạn nhận được là trái tim của người sở hữu số thuê bao: 09xx.***.***",
+		"translate": ""
+	}, {
+		"id": "2280",
+		"content": "Anh yêu những điều em làm, lời em nói. Yêu cách em trở thành một phần cuộc sống của anh mỗi ngày. Valentine ấm áp, Hạnh phúc trọn vẹn, em nhé!",
+		"translate": ""
+	}, {
+		"id": "2281",
+		"content": "Không gì có thể thay đổi được tình yêu của anh dành cho em, bởi vì em là linh hồn của anh.",
+		"translate": ""
+	}, {
+		"id": "2282",
+		"content": "Em bị triệu đến tòa án vì đã bước vào ước mơ của anh, đánh cắp trái tim anh, và cướp đi mọi cảm xúc trong anh. Em bị kết án ở bên anh mãi mãi. Em có gì biện hộ không?",
+		"translate": ""
+	}, {
+		"id": "2283",
+		"content": "Hôm nay em nhờ bưu điện gửi tới tặng anh một món quà. Đó là nỗi nhớ của em dành cho anh lúc này. Nhưng rất tiếc họ từ chối. Họ bảo vì nó quá lớn. Em phải làm sao đây?",
+		"translate": ""
+	}, {
+		"id": "2284",
+		"content": "Anh sẽ luôn nắm tay em ở chỗ đông người, không phải vì sợ em lạc mất, mà để mọi người nhìn vào trầm trồ rằng “hai đứa nó đang yêu nhau đấy”.",
+		"translate": ""
+	}, {
+		"id": "2285",
+		"content": "Được yêu em đối với anh mỗi ngày như là hơi thở, như là nhịp đập con tim em có biết không. Anh chúc em luôn tràn đầy hạnh phúc ngọt ngào, hãy gìn giữ và nuôi dưỡng tình yêu của chúng mình em nhé.",
+		"translate": ""
+	}, {
+		"id": "2286",
+		"content": "Trong mắt anh, em nhìn thấy ngày mai…Trong vòng tay của anh, em tìm thấy tình yêu. Yêu anh hôm nay và mãi mãi.",
+		"translate": ""
+	}, {
+		"id": "2287",
+		"content": "Anh yêu – đừng bao giờ rời xa em nhé. Nếu không có anh, em sẽ như những con sóng ngoài khơi không biết trôi dạt về phương nào. Nếu không có anh, em sẽ như những chiếc lá rơi rụng cuối thu buồn tẻ, vô nghĩa.",
+		"translate": ""
+	}, {
+		"id": "2288",
+		"content": "Cảm ơn anh đã cho em những kỉ niệm tuyệt vời của ngày hôm qua, hạnh phúc ngập tràn của ngày hôm nay, và lời hứa ngọt ngào của tất cả những ngày sau đó!",
+		"translate": ""
+	}, {
+		"id": "2289",
+		"content": "Ở Châu Âu mọi người đang ngủ, Châu Á cũng đang ngủ, Châu Mỹ trời đang tối dần, chỉ có đôi mắt đẹp nhất trên thế giới này đang đọc tin nhắn của anh. Happy White Valentine!",
+		"translate": ""
+	}, {
+		"id": "2290",
+		"content": "Anh đã đợi từ rất lâu một Valentine như thế này, để yêu em và thực sự được em yêu. Một Valentine trắng của riêng hai đứa mình, dẫu không hoa hồng, không socola nhưng vẫn quá đủ với anh bởi có hai trái tim yêu thương trọn vẹn.",
+		"translate": ""
+	}, {
+		"id": "2291",
+		"content": "Hôm nay có 3 người hỏi anh về em đó, anh đã cho họ một chút thông tin về em, họ sẽ tìm thấy em trong thời gian sớm nhất. Họ chính là 3 vị thần: sức khỏe, may mắn và tình yêu. ",
+		"translate": ""
+	}, {
+		"id": "2292",
+		"content": "Tặng niềm vui để em ngọt ngào, tặng nụ cười để em rạng rỡ, tặng trái tim anh để em mãi là vợ yêu của anh.",
+		"translate": ""
+	}, {
+		"id": "2293",
+		"content": "Anh sẽ hồ hởi thức dậy vào lúc 4h sáng để nhắn tin cho em rằng: “Anh yêu em nhiều lắm”.",
+		"translate": ""
+	}, {
+		"id": "2294",
+		"content": "Là 1 tỷ phú ư? Thật sung sướng. Em có thể mua nhiều thứ, ăn nhiều món ngon và đi đến bất cứ nơi nào. Là 1 người nổi tiếng ư? Cũng tuyệt vời đấy vì em luôn có nhiều Fan hâm mộ và sống trong vầng hào quang rực rỡ. Nhưng tất cả sẽ là vô nghĩa nếu bên em không còn anh nữa.",
+		"translate": ""
+	}, {
+		"id": "2295",
+		"content": "Cảm ơn thượng đế đã ban tặng cho anh một người vợ hiền đảm đang và xinh đẹp. Nếu có kiếp sau vẫn sẽ là vợ của anh nhé. Yêu em lắm lắm.",
+		"translate": ""
+	}, {
+		"id": "2296",
+		"content": "Anh sẽ ngồi im nhìn em khóc và làm nhiệm vụ tiếp tế khăn giấy cho em mỗi khi chúng mình xem phim buồn, dù anh thấy cái cảnh ấy chả có gì đáng rỏ nước mắt cả.",
+		"translate": ""
+	}, {
+		"id": "2297",
+		"content": "Cảm ơn bố mẹ đã sinh ra chồng, để vợ có được một người đàn ông tốt bên đời",
+		"translate": ""
+	}, {
+		"id": "2298",
+		"content": "Chúng mình hãy cùng nhau chia sẻ thế giới. Và nếu biển là dành cho em, thì sóng là dành cho anh. Bầu trời kia là dành cho em thì các ngôi sao lấp lánh kia sẽ dành cho anh. Nếu mặt trời là dành cho em, thì ánh sáng là dành cho anh… Và tất cả mọi thứ dành cho em thì em nguyện sẽ dành cho anh.",
+		"translate": ""
+	}, {
+		"id": "2299",
+		"content": "Người ta bảo: thứ mất đi mới là thứ đáng quý nhất. Nhưng thứ đáng quý nhất với anh, là thứ mà mỗi ngày, mỗi giờ nghĩ đến anh đều cầu mong sẽ đi cùng anh đến hết cuộc đời, không bao giờ mất đi, chính là Em.",
+		"translate": ""
+	}, {
+		"id": "2300",
+		"content": "Nếu thượng đế chỉ cho em một ngày để sống. Em sẽ dành ngày đó để yêu anh, nồng nàn và cháy bỏng. Em ngốc đúng không anh, nhưng tình yêu trong em thì luôn dành trọn cho anh. Happy White Day My Love!",
+		"translate": ""
+	}, {
+		"id": "2301",
+		"content": "Tối qua anh đi ngủ với một nụ cười vì anh biết anh sẽ mơ thấy em… Và sáng nay anh thức dậy cũng với một nụ cười vì anh biết em không là một giấc mơ.",
+		"translate": ""
+	}, {
+		"id": "2302",
+		"content": "Valentine vui vẻ nhé vợ yêu. Chồng hứa sẽ về sớm với vợ, cùng vợ nấu một bữa cơm thật ngon và tận hưởng giây phút hạnh phúc bên nhau. Chờ chồng nhé.",
+		"translate": ""
+	}, {
+		"id": "2303",
+		"content": "Liệu cha của em có phải là một tay trộm hay không? Vì ông ấy đã lấy cắp những vì sao trên trời và đưa chúng vào mắt em.",
+		"translate": ""
+	}, {
+		"id": "2304",
+		"content": "Nếu giọt nước là những nụ hôn, anh sẽ trao em biển cả. Nếu là những ôm ấp vuốt ve anh sẽ tặng em cả rừng cây. Nếu đêm dài là tình yêu anh gửi em cả trời sao lấp lánh. Nhưng anh không có quyền tặng em trái tim vì nơi đó đã thuộc về em.",
+		"translate": ""
+	}, {
+		"id": "2305",
+		"content": "Vợ yêu, vợ đảm, vợ hiền, vợ tâm lý của anh - mãi mãi là như thế, vợ nhé!",
+		"translate": ""
+	}, {
+		"id": "2306",
+		"content": "Em à, nếu có kiếp sau thì anh vẫn muốn được yêu em thêm một lần nữa, nhưng anh không biết có kiếp sau hay không nên anh sẽ cố gắng yêu em hết lòng ở kiếp này. Valentine trắng vui vẻ, hạnh phúc em nhé.",
+		"translate": ""
+	}, {
+		"id": "2307",
+		"content": "Thi thoảng anh tự hỏi liệu có đáng để đấu tranh cho tình yêu không nhưng rồi nhớ tới khuôn mặt em và anh lại sẵn sàng cho trận chiến mới",
+		"translate": ""
+	}, {
+		"id": "2308",
+		"content": "Cảm ơn chồng vì đã làm cho vợ và con chúng ta luôn được tự hào về người đàn ông lớn của gia đình.",
+		"translate": ""
+	}, {
+		"id": "2309",
+		"content": "Nhân ngày Thầy thuốc Việt Nam xin gửi lời chúc tốt đẹp nhất và mong bác sĩ luôn khỏe mạnh để mang lại hạnh phúc cho nhiều người hơn nữa.",
+		"translate": ""
+	}]
+}

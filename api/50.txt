@@ -1,0 +1,43 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Gửi tới lời chúc thân thương nhất đến cô bạn/đồng nghiệp luôn tươi vui, hạnh phúc nhé. Hy vọng bạn sẽ đạt được mọi dự định trong tương lai. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc bạn thân của mình sẽ nhận được thật nhiều quà vào ngày hôm nay. Sớm có người yêu để mình còn được ăn cỗ nhé!!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Thay mặt 2 mì chính cánh của lớp, chúc các bạn nữ luôn xinh đẹp, học giỏi, thành công và đặc biệt luôn vui cười, rạng rỡ nhé!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân dịp 20/10, thay mặt anh em trong công ty, chúc chị em phái nữ luôn xinh đẹp, làm việc thì hết sức, vui chơi thì hết mình.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc phái đẹp của công ty có một ngày 20/10 thật ý nghĩa, tràn ngập hạnh phúc. Đặc biệt là luôn rạng ngời, xinh đẹp trong mắt một nửa còn lại.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc cô bạn thân của tôi ngày 20/10 nhận được nhiều hoa, nhiều quà, nhiều lời chúc nhé. Ai có chồng thì luôn tươi vui, hạnh phúc. Ai chưa có người yêu thì sớm có người yêu nha!",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Chúc bạn một ngày 20/10 thật ý nghĩa bên người mình yêu thương. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Nhân dịp 20/10, chúc một nửa thế giới vạn sự như ý, trăm điều bình an.",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Xin gửi tới cô bạn đồng nghiệp lời chúc thật đẹp, ý nghĩa nhân dịp 20/10. Chúc bạn luôn vui vẻ, tràn đầy năng lượng để hoàn thành tốt những nhiệm vụ được giao. ",
+		"translate": ""
+	}, {
+		"id": "",
+		"content": "Cầu chúc cho toàn thể chị em phụ nữ một ngày 20/10 đầy ý nghĩa, luôn là người phụ nữ đẹp và rạng rỡ nhất trong mắt của một nửa còn lại. ",
+		"translate": ""
+	}]
+}
