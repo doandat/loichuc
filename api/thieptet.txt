@@ -186,13 +186,6 @@
 "thiep2022/thiep184.jpg",
 "thiep2022/thiep185.jpg",
 "thiep2022/thiep186.jpg",
-"thiep2022/thiep187.jpg",
-"thiep2022/thiep188.jpg",
-"thiep2022/thiep189.jpg",
-"thiep2022/thiep190.jpg",
-"thiep2022/thiep191.jpg",
-"thiep2022/thiep192.jpg",
-"thiep2022/thiep193.jpg",
-"thiep2022/thiep194.jpg"
+"thiep2022/thiep187.jpg"
     ]
 }
