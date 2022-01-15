@@ -25,7 +25,7 @@
 		"translate": ""
 	}, {
 		"id": "228",
-		"content": "Noel ấp áp ngập tràn Tình yêu chan chứa nụ cười trên môi Chúc này tôi chúc bạn tôi Gia đình hạnh phúc an lành Noel. Chúc Noel và năm mới 2021 nhé",
+		"content": "Noel ấp áp ngập tràn Tình yêu chan chứa nụ cười trên môi Chúc này tôi chúc bạn tôi Gia đình hạnh phúc an lành Noel. Chúc Noel và năm mới 2022 nhé",
 		"translate": ""
 	}, {
 		"id": "229",
@@ -409,7 +409,7 @@
 		"translate": ""
 	}, {
 		"id": "324",
-		"content": "Sang năm mới chúc mọi người có một bầu trời sức khoẻ, Một biển cả tình thương, Một đại dương tình cảm, Một điệp khúc tình yêu, Một người yêu chung thủy, Một tình bạn mênh mông, Một gia đình thịnh vượng. Chúc các bà, các ông, các cô, các chú, các chị, Các anh sang năm mới vạn sự như ý, Tỷ sự như mơ, Làm việc như thơ, Đời vui như nhạc, Coi tiền như rác, Coi bạc như rơm, Chung thủy với cơm và sắc son với phở! Chúc mừng năm mới 2021!",
+		"content": "Sang năm mới chúc mọi người có một bầu trời sức khoẻ, Một biển cả tình thương, Một đại dương tình cảm, Một điệp khúc tình yêu, Một người yêu chung thủy, Một tình bạn mênh mông, Một gia đình thịnh vượng. Chúc các bà, các ông, các cô, các chú, các chị, Các anh sang năm mới vạn sự như ý, Tỷ sự như mơ, Làm việc như thơ, Đời vui như nhạc, Coi tiền như rác, Coi bạc như rơm, Chung thủy với cơm và sắc son với phở! Chúc mừng năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "870",
@@ -481,7 +481,7 @@
 		"translate": ""
 	}, {
 		"id": "887",
-		"content": "Chúc cho ngày Giáng sinh 2021 tràn đầy niềm vui, hạnh phúc vừa đủ và bình yên thật nhiều! Không chỉ là nụ cười mà đôi khi những giọt nước mắt cũng là niềm hạnh phúc, không có tình yêu nào là vĩnh cửu, chỉ có những giây phút vĩnh cửu của tình yêu. Chúc cho ai đó sẽ giữ được những giây phút ấy suốt cả cuộc đời! Merry Xmas!",
+		"content": "Chúc cho ngày Giáng sinh 2022 tràn đầy niềm vui, hạnh phúc vừa đủ và bình yên thật nhiều! Không chỉ là nụ cười mà đôi khi những giọt nước mắt cũng là niềm hạnh phúc, không có tình yêu nào là vĩnh cửu, chỉ có những giây phút vĩnh cửu của tình yêu. Chúc cho ai đó sẽ giữ được những giây phút ấy suốt cả cuộc đời! Merry Xmas!",
 		"translate": ""
 	}, {
 		"id": "888",
@@ -561,7 +561,7 @@
 		"translate": ""
 	}, {
 		"id": "907",
-		"content": "Noel 2021 đến rồi! Mong một Giáng sinh thật ấm áp, an lành tới người yêu của anh! Mong em mãi tươi trẻ, hạnh phúc và luôn là bông hoa đẹp nhất trong lòng anh!",
+		"content": "Noel 2022 đến rồi! Mong một Giáng sinh thật ấm áp, an lành tới người yêu của anh! Mong em mãi tươi trẻ, hạnh phúc và luôn là bông hoa đẹp nhất trong lòng anh!",
 		"translate": ""
 	}, {
 		"id": "908",

@@ -21,7 +21,7 @@
 		"translate": ""
 	}, {
 		"id": "2025",
-		"content": "Nhân dịp năm mớiTân Sửu 2021, con chúc thầy/cô có thật nhiều sức khỏe, gặp nhiều may mắn và nụ cười lúc nào cũng nở trên môi. Cảm ơn thầy/cô vì những đã không quản khó khăn vất vả để dạy dỗ chúng con nên người.",
+		"content": "Nhân dịp năm mớiNhâm Dần 2022, con chúc thầy/cô có thật nhiều sức khỏe, gặp nhiều may mắn và nụ cười lúc nào cũng nở trên môi. Cảm ơn thầy/cô vì những đã không quản khó khăn vất vả để dạy dỗ chúng con nên người.",
 		"translate": ""
 	}, {
 		"id": "2026",
@@ -49,15 +49,15 @@
 		"translate": ""
 	}, {
 		"id": "2032",
-		"content": "Nhân dịp năm mới Tân Sửu 2021 Con xin gửi lời tri ân chân thành, sâu lắng tới những người cha, người mẹ thứ hai trong cuộc đời chúng con: “Chúc thầy cô năm mới hạnh phúc sức khỏe”.",
+		"content": "Nhân dịp năm mới Nhâm Dần 2022 Con xin gửi lời tri ân chân thành, sâu lắng tới những người cha, người mẹ thứ hai trong cuộc đời chúng con: “Chúc thầy cô năm mới hạnh phúc sức khỏe”.",
 		"translate": ""
 	}, {
 		"id": "2033",
-		"content": "Xuân Chúc Thầy Xuân mới đến, 2021. Sự bình an, sánh bước cùng Thầy. Gia đình, hạnh phúc sum vầy. An khang, thịnh vượng, ngày ngày luôn xuân. Công danh giữa chốn thương trường, Trên yêu, dưới mến, cầm cương vững vàng, Chiến công, thành tựu huy hoàng, Luôn mang ý đẹp, Rạng danh công thầy.",
+		"content": "Xuân Chúc Thầy Xuân mới đến, 2022. Sự bình an, sánh bước cùng Thầy. Gia đình, hạnh phúc sum vầy. An khang, thịnh vượng, ngày ngày luôn xuân. Công danh giữa chốn thương trường, Trên yêu, dưới mến, cầm cương vững vàng, Chiến công, thành tựu huy hoàng, Luôn mang ý đẹp, Rạng danh công thầy.",
 		"translate": ""
 	}, {
 		"id": "2034",
-		"content": "Xuân chúc Cô Xuân mới 2021, Con chúc Cô vạn ý viên thành, Gia Đình hưởng trọn yên Bình, Lộc tài thịnh vượng, thắm tình như xuân, Trên yêu mến, dưới thương toại ý. Công danh luôn thành ý, toại lòng, Cô luôn kết quả, thành công Xuân vui hoa nở, tổ tông mĩm cười.",
+		"content": "Xuân chúc Cô Xuân mới 2022, Con chúc Cô vạn ý viên thành, Gia Đình hưởng trọn yên Bình, Lộc tài thịnh vượng, thắm tình như xuân, Trên yêu mến, dưới thương toại ý. Công danh luôn thành ý, toại lòng, Cô luôn kết quả, thành công Xuân vui hoa nở, tổ tông mĩm cười.",
 		"translate": ""
 	}, {
 		"id": "2035",
@@ -97,7 +97,7 @@
 		"translate": ""
 	}, {
 		"id": "2044",
-		"content": "Sang năm 2021, kính chúc qúy Thầy Cô cùng tất cả các anh chị, các bạn một năm mới bình an, sức khoẻ dồi dào. Công danh thuận lợi, gặp nhiều may mắn và thành công.",
+		"content": "Sang năm 2022, kính chúc qúy Thầy Cô cùng tất cả các anh chị, các bạn một năm mới bình an, sức khoẻ dồi dào. Công danh thuận lợi, gặp nhiều may mắn và thành công.",
 		"translate": ""
 	}, {
 		"id": "2045",
@@ -117,7 +117,7 @@
 		"translate": ""
 	}, {
 		"id": "2049",
-		"content": "Em chúc tất cả các thầy cô giáo năm mới 2021 luôn mạnh khỏe, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và tình yêu dành cho những đứa học trò nghịch như quỷ sứ bọn em.",
+		"content": "Em chúc tất cả các thầy cô giáo năm mới 2022 luôn mạnh khỏe, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và tình yêu dành cho những đứa học trò nghịch như quỷ sứ bọn em.",
 		"translate": ""
 	}, {
 		"id": "2050",

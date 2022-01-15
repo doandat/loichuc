@@ -5,7 +5,7 @@
 		"translate": ""
 	}, {
 		"id": "326",
-		"content": "Chúc mừng năm mới Tân Sửu 2021. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công!",
+		"content": "Chúc mừng năm mới Nhâm Dần 2022. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công!",
 		"translate": ""
 	}, {
 		"id": "327",
@@ -21,7 +21,7 @@
 		"translate": ""
 	}, {
 		"id": "330",
-		"content": "Mừng 2021 phát tài phát lộc Tiền vô xồng xộc, tiền ra từ từ Sức khoẻ có dư Công danh tấn tới Tình duyên phơi phới Hạnh phúc thăng hoa Xin chúc mọi nhà một năm đại thắng",
+		"content": "Mừng 2022 phát tài phát lộc Tiền vô xồng xộc, tiền ra từ từ Sức khoẻ có dư Công danh tấn tới Tình duyên phơi phới Hạnh phúc thăng hoa Xin chúc mọi nhà một năm đại thắng",
 		"translate": ""
 	}, {
 		"id": "331",
@@ -45,11 +45,11 @@
 		"translate": ""
 	}, {
 		"id": "336",
-		"content": "Năm hết Tết đến Chúc ông chúc bà Chúc cha chúc mẹ Chúc cô chúc cậu Chúc chú chúc dì Chúc anh chúc chị Chúc luôn các em Chúc cả các cháu Dồi dào sức khoẻ Có nhiều niềm vui Tiền xu nặng túi Tiền giấy đầy bao Đi ăn được khao Về nhà người rước Tiền vô như nước Tình vào đầy tim Chăn ấm nệm êm Sung sướng ban đêm Hạnh phúc ban ngày Luôn luôn gặp may Suốt năm mới 2021!",
+		"content": "Năm hết Tết đến Chúc ông chúc bà Chúc cha chúc mẹ Chúc cô chúc cậu Chúc chú chúc dì Chúc anh chúc chị Chúc luôn các em Chúc cả các cháu Dồi dào sức khoẻ Có nhiều niềm vui Tiền xu nặng túi Tiền giấy đầy bao Đi ăn được khao Về nhà người rước Tiền vô như nước Tình vào đầy tim Chăn ấm nệm êm Sung sướng ban đêm Hạnh phúc ban ngày Luôn luôn gặp may Suốt năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "337",
-		"content": "Năm Tân Sửu 2021Chúc bạn luôn Đong cho đầy hạnh phúc Gói cho trọn lộc tài Giữ cho mãi an khang Thắt cho chặt phú quý!",
+		"content": "Năm Nhâm Dần 2022Chúc bạn luôn Đong cho đầy hạnh phúc Gói cho trọn lộc tài Giữ cho mãi an khang Thắt cho chặt phú quý!",
 		"translate": ""
 	}, {
 		"id": "338",
@@ -77,15 +77,15 @@
 		"translate": ""
 	}, {
 		"id": "344",
-		"content": "Chúc Tết đến trăm điều như ý Mừng Xuân sang vạn sự thành công Chúc mừng năm mới 2021!",
+		"content": "Chúc Tết đến trăm điều như ý Mừng Xuân sang vạn sự thành công Chúc mừng năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "345",
-		"content": "Vui vẻ, lạc quan Yêu đời phơi phới Hạnh phúc sẽ tới Niềm vui sẽ về Cùng với năm Sửu Hả hê năm mới Chúc mừng năm mới 2021!",
+		"content": "Vui vẻ, lạc quan Yêu đời phơi phới Hạnh phúc sẽ tới Niềm vui sẽ về Cùng với năm Sửu Hả hê năm mới Chúc mừng năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "346",
-		"content": "Làm sao kiếm được nhiều tiền? Làm sao giấc ngủ cho tròn? Làm sao khi chết vẫn còn lưu danh? Làm sao để tiền bóng banh? Làm sao để nó nhanh nhanh sinh lời? Làm sao sống giữa cuộc đời? Làm sao sống được chơi bời xa hoa? Làm sao cứ mãi trêu hoa? Làm sao biết được người ta yêu mình? Làm sao biết cách tỏ tình? Làm sao biết được rằng mình đang yêu? Làm sao phải hỏi bạn ơi Những câu hỏi đó cứ để năm nay Năm nay năm mới đã về Nâng ly ta chúc đón chào 2021!",
+		"content": "Làm sao kiếm được nhiều tiền? Làm sao giấc ngủ cho tròn? Làm sao khi chết vẫn còn lưu danh? Làm sao để tiền bóng banh? Làm sao để nó nhanh nhanh sinh lời? Làm sao sống giữa cuộc đời? Làm sao sống được chơi bời xa hoa? Làm sao cứ mãi trêu hoa? Làm sao biết được người ta yêu mình? Làm sao biết cách tỏ tình? Làm sao biết được rằng mình đang yêu? Làm sao phải hỏi bạn ơi Những câu hỏi đó cứ để năm nay Năm nay năm mới đã về Nâng ly ta chúc đón chào 2022!",
 		"translate": ""
 	}, {
 		"id": "347",
@@ -141,7 +141,7 @@
 		"translate": ""
 	}, {
 		"id": "360",
-		"content": "Tôi chúc bạn một năm mới Chủ Nhật ngọt ngào nhất Thứ hai kỳ diệu Thứ ba ngon tuyệt Thứ tư tuyệt vời Cảm ơn Thứ năm, Thân thiện Thứ sáu, Thứ bảy thành công Có một năm tuyệt vời Chúc mừng năm mới 2021",
+		"content": "Tôi chúc bạn một năm mới Chủ Nhật ngọt ngào nhất Thứ hai kỳ diệu Thứ ba ngon tuyệt Thứ tư tuyệt vời Cảm ơn Thứ năm, Thân thiện Thứ sáu, Thứ bảy thành công Có một năm tuyệt vời Chúc mừng năm mới 2022",
 		"translate": ""
 	}, {
 		"id": "361",
@@ -149,7 +149,7 @@
 		"translate": ""
 	}, {
 		"id": "362",
-		"content": "Chúc mừng năm mới 2021, chúc mọi điều bằng an và tốt đẹp tới bạn và gia đình.",
+		"content": "Chúc mừng năm mới 2022, chúc mọi điều bằng an và tốt đẹp tới bạn và gia đình.",
 		"translate": ""
 	}, {
 		"id": "363",
@@ -161,11 +161,11 @@
 		"translate": ""
 	}, {
 		"id": "365",
-		"content": "Chàng Tân Sửu vui vẻ mời. Nàng Sửu 2021 tươi trẻ tới. Pháo hoa rực sáng đêm giao thừa. Chúng ta vui mừng đón chào năm mới! ",
+		"content": "Chàng Tân Sửu vui vẻ mời. Nàng Sửu 2022 tươi trẻ tới. Pháo hoa rực sáng đêm giao thừa. Chúng ta vui mừng đón chào năm mới! ",
 		"translate": ""
 	}, {
 		"id": "366",
-		"content": "2021, 8 thì quá phát, 1 năm may mắn, 0 gì cản trở, 2 mình tiến lên. Chúc mừng năm mới.",
+		"content": "2022, 8 thì quá phát, 1 năm may mắn, 0 gì cản trở, 2 mình tiến lên. Chúc mừng năm mới.",
 		"translate": ""
 	}, {
 		"id": "367",
@@ -177,15 +177,15 @@
 		"translate": ""
 	}, {
 		"id": "369",
-		"content": "Trẻ trung như heo sữa, Bốc lửa như heo hơi, Chịu chơi như heo nái, Hăng hái như heo con, Sắc son như heo đất, Đủ chất như ..heo thịt! Chúc mừng năm mới 2021 Chúc bạn một năm mới vui vẻ, thêm tươi trẻ, luôn mới mẻ, càng mạnh khỏe. À... Luôn sạch sẽ. Không có... ghẻ nhé!",
+		"content": "Trẻ trung như heo sữa, Bốc lửa như heo hơi, Chịu chơi như heo nái, Hăng hái như heo con, Sắc son như heo đất, Đủ chất như ..heo thịt! Chúc mừng năm mới 2022 Chúc bạn một năm mới vui vẻ, thêm tươi trẻ, luôn mới mẻ, càng mạnh khỏe. À... Luôn sạch sẽ. Không có... ghẻ nhé!",
 		"translate": ""
 	}, {
 		"id": "370",
-		"content": "Chúc bạn và gia đình năm mới đong đầy niềm vui, an lành hạnh phúc và thịnh vượng. Một năm rất tuyệt vời, Chúc mừng năm mới 2021!",
+		"content": "Chúc bạn và gia đình năm mới đong đầy niềm vui, an lành hạnh phúc và thịnh vượng. Một năm rất tuyệt vời, Chúc mừng năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "371",
-		"content": "Chúc bạn một năm mới đạt được tất cả những ước mơ của mình... Chúc mừng năm mới 2021!",
+		"content": "Chúc bạn một năm mới đạt được tất cả những ước mơ của mình... Chúc mừng năm mới 2022!",
 		"translate": ""
 	}, {
 		"id": "372",
@@ -193,7 +193,7 @@
 		"translate": ""
 	}, {
 		"id": "373",
-		"content": "Vợ ta tuy không sinh ra ta, nhưng có công nuôi dưỡng ta Cơm ta ăn, vợ ta nấu, quần áo ta mặc vợ và máy ta giặt Hoặc là máy ta giặt mà vợ ta là, vì lẽ đó Ta phải xem vợ ta như mẹ của ta. Dân gian có câu Kính vợ mới đắc thọ Nể vợ mới sống lâu Nịnh vợ mới bớt u sầu Để vợ lên đầu là .. trường sinh bất tử Chúc mừng các chị, em năm mới 2021 vui vẻ!!!",
+		"content": "Vợ ta tuy không sinh ra ta, nhưng có công nuôi dưỡng ta Cơm ta ăn, vợ ta nấu, quần áo ta mặc vợ và máy ta giặt Hoặc là máy ta giặt mà vợ ta là, vì lẽ đó Ta phải xem vợ ta như mẹ của ta. Dân gian có câu Kính vợ mới đắc thọ Nể vợ mới sống lâu Nịnh vợ mới bớt u sầu Để vợ lên đầu là .. trường sinh bất tử Chúc mừng các chị, em năm mới 2022 vui vẻ!!!",
 		"translate": ""
 	}, {
 		"id": "374",
@@ -253,7 +253,7 @@
 		"translate": ""
 	}, {
 		"id": "388",
-		"content": "CHÚC MỪNG NĂM MỚI 2021 .12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công 31536000 giây VẠN SỰ NHƯ Ý.",
+		"content": "CHÚC MỪNG NĂM MỚI 2022 .12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công 31536000 giây VẠN SỰ NHƯ Ý.",
 		"translate": ""
 	}, {
 		"id": "389",
@@ -269,7 +269,7 @@
 		"translate": ""
 	}, {
 		"id": "392",
-		"content": "Năm mới chúc nhau sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2021!",
+		"content": "Năm mới chúc nhau sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2022!",
 		"translate": ""
 	}, {
 		"id": "393",
@@ -297,11 +297,11 @@
 		"translate": ""
 	}, {
 		"id": "399",
-		"content": "I wish you to have a Sweetest Sunday Marvelous Monday Tasty Tuesday Wonderful Wednesday Thankful Thursday, Fridendly Friday, Successful Saturday Have a great year Happy new year 2021!",
+		"content": "I wish you to have a Sweetest Sunday Marvelous Monday Tasty Tuesday Wonderful Wednesday Thankful Thursday, Fridendly Friday, Successful Saturday Have a great year Happy new year 2022!",
 		"translate": ""
 	}, {
 		"id": "400",
-		"content": "Wishing You A Year Filled With Great Joy Peace And Prosperity Have A Wonderful Year Ahead Happy New Year 2021!",
+		"content": "Wishing You A Year Filled With Great Joy Peace And Prosperity Have A Wonderful Year Ahead Happy New Year 2022!",
 		"translate": ""
 	}, {
 		"id": "401",
@@ -309,15 +309,15 @@
 		"translate": ""
 	}, {
 		"id": "402",
-		"content": "Forget the pains, sorrows, and sadness behind, Let us welcome this New Year with big smile, Wish you Happy New Year 2021!",
+		"content": "Forget the pains, sorrows, and sadness behind, Let us welcome this New Year with big smile, Wish you Happy New Year 2022!",
 		"translate": ""
 	}, {
 		"id": "403",
-		"content": "I wish that all your wishes are fulfilled this year... Happy new year 2021!",
+		"content": "I wish that all your wishes are fulfilled this year... Happy new year 2022!",
 		"translate": ""
 	}, {
 		"id": "404",
-		"content": "In this New Year, I wish you achieve all your goals in life, And get success at every step of life, enjoy a wonderful 2021!",
+		"content": "In this New Year, I wish you achieve all your goals in life, And get success at every step of life, enjoy a wonderful 2022!",
 		"translate": ""
 	}, {
 		"id": "405",
@@ -349,7 +349,7 @@
 		"translate": ""
 	}, {
 		"id": "922",
-		"content": "Năm mới chúc bạn sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2021 !!!",
+		"content": "Năm mới chúc bạn sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2022 !!!",
 		"translate": ""
 	}, {
 		"id": "923",
@@ -397,7 +397,7 @@
 		"translate": ""
 	}, {
 		"id": "934",
-		"content": "Thế là đã qua Ta chào năm mới Chúc nhau lời ca Bình an vô sự, mọi điều tốt lành Chúc mừng năm mới 2021.",
+		"content": "Thế là đã qua Ta chào năm mới Chúc nhau lời ca Bình an vô sự, mọi điều tốt lành Chúc mừng năm mới 2022.",
 		"translate": ""
 	}, {
 		"id": "935",
@@ -433,7 +433,7 @@
 		"translate": ""
 	}, {
 		"id": "943",
-		"content": "Năm mới năm mới: \"Tránh xa điểm 1, thui chột điểm 2, bye điểm 3, xa điểm 4, trốn điểm 5, căm điểm 6, quý báu gì điểm 7, quyết nhảy qua điểm 8, bám chặt điểm 9, vịn chắc điểm 10\". Hehe, chúc mừng năm mới 2021.",
+		"content": "Năm mới năm mới: \"Tránh xa điểm 1, thui chột điểm 2, bye điểm 3, xa điểm 4, trốn điểm 5, căm điểm 6, quý báu gì điểm 7, quyết nhảy qua điểm 8, bám chặt điểm 9, vịn chắc điểm 10\". Hehe, chúc mừng năm mới 2022.",
 		"translate": ""
 	}, {
 		"id": "944",
@@ -445,7 +445,7 @@
 		"translate": ""
 	}, {
 		"id": "946",
-		"content": "Chúc năm mới 2021 phát tài, phát lộc, phát tướng, phát tình nhưng đừng phát phì!",
+		"content": "Chúc năm mới 2022 phát tài, phát lộc, phát tướng, phát tình nhưng đừng phát phì!",
 		"translate": ""
 	}, {
 		"id": "947",
@@ -497,7 +497,7 @@
 		"translate": ""
 	}, {
 		"id": "959",
-		"content": "Chúc bạn năm mới Tân Sửu 2021 có cái ví căng phồng và cái bụng xẹp lép chứ không phải là điều ngược lại. => Cho bạn bè.",
+		"content": "Chúc bạn năm mới Nhâm Dần 2022 có cái ví căng phồng và cái bụng xẹp lép chứ không phải là điều ngược lại. => Cho bạn bè.",
 		"translate": ""
 	}, {
 		"id": "960",
@@ -505,7 +505,7 @@
 		"translate": ""
 	}, {
 		"id": "961",
-		"content": "Nếu một bông hoa tượng trưng cho 1 lời chúc Tôi sẽ tặng bạn cả một bó hoa Happy new year - Chúc mừng năm mới 2021.",
+		"content": "Nếu một bông hoa tượng trưng cho 1 lời chúc Tôi sẽ tặng bạn cả một bó hoa Happy new year - Chúc mừng năm mới 2022.",
 		"translate": ""
 	}, {
 		"id": "962",
@@ -593,7 +593,7 @@
 		"translate": ""
 	}, {
 		"id": "983",
-		"content": "Chúc tình yêu của em năm mới 2021 luôn có sức khoẻ dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh!",
+		"content": "Chúc tình yêu của em năm mới 2022 luôn có sức khoẻ dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh!",
 		"translate": ""
 	}, {
 		"id": "984",
@@ -617,7 +617,7 @@
 		"translate": ""
 	}, {
 		"id": "989",
-		"content": "Em yêu! Chúng ta đã cùng vượt qua những khoảng thời gian khó khăn. Anh chỉ muốn cho tất cả mọi người biết rằng: em là duy nhất của anh… Anh yêu em rất nhiều! Năm mới 2021 anh chúc em luôn hạnh phúc và gặp thật nhiều may mắn.",
+		"content": "Em yêu! Chúng ta đã cùng vượt qua những khoảng thời gian khó khăn. Anh chỉ muốn cho tất cả mọi người biết rằng: em là duy nhất của anh… Anh yêu em rất nhiều! Năm mới 2022 anh chúc em luôn hạnh phúc và gặp thật nhiều may mắn.",
 		"translate": ""
 	}, {
 		"id": "990",

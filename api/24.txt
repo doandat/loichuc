@@ -17,7 +17,7 @@
 		"translate": ""
 	}, {
 		"id": "1754",
-		"content": "Mừng 2021 phát tài phát lộc Tiền vô xồng xộc, tiền ra từ từ Sức khoẻ có dư, công danh tấn tới Tình duyên phơi phới, hạnh phúc thăng hoa Xin chúc mọi nhà một năm đại thắng.",
+		"content": "Mừng 2022 phát tài phát lộc Tiền vô xồng xộc, tiền ra từ từ Sức khoẻ có dư, công danh tấn tới Tình duyên phơi phới, hạnh phúc thăng hoa Xin chúc mọi nhà một năm đại thắng.",
 		"translate": ""
 	}, {
 		"id": "1755",
@@ -53,7 +53,7 @@
 		"translate": ""
 	}, {
 		"id": "1763",
-		"content": "Năm Tân Sửu 2021 – Chúc bạn luôn: Đong cho đầy hạnh phúc – Gói cho trọn lộc tài – Giữ cho mãi an khang – Thắt cho chặt phú quý.",
+		"content": "Năm Nhâm Dần 2022 – Chúc bạn luôn: Đong cho đầy hạnh phúc – Gói cho trọn lộc tài – Giữ cho mãi an khang – Thắt cho chặt phú quý.",
 		"translate": ""
 	}, {
 		"id": "1764",
@@ -77,7 +77,7 @@
 		"translate": ""
 	}, {
 		"id": "1769",
-		"content": "Năm mới 2021, xin chúc tất cả các đồng chí: “Dù thất bại hay thành công, dù lông bông hay đang làm việc, dù đang ăn tiệc hay ở nhà, dù già hay trẻ, dù đang sắp đẻ hay chưa có chồng, dù là rồng hay là tôm, dù đang bia ôm hay trà đá, dù có hút thuốc… lá hay là không, dù có công hay có tội, dù bơi lội hay karate, dù đi xe hay đi bộ… Năm mới vui vẻ hạnh phúc”.",
+		"content": "Năm mới 2022, xin chúc tất cả các đồng chí: “Dù thất bại hay thành công, dù lông bông hay đang làm việc, dù đang ăn tiệc hay ở nhà, dù già hay trẻ, dù đang sắp đẻ hay chưa có chồng, dù là rồng hay là tôm, dù đang bia ôm hay trà đá, dù có hút thuốc… lá hay là không, dù có công hay có tội, dù bơi lội hay karate, dù đi xe hay đi bộ… Năm mới vui vẻ hạnh phúc”.",
 		"translate": ""
 	}, {
 		"id": "1770",
@@ -97,7 +97,7 @@
 		"translate": ""
 	}, {
 		"id": "1774",
-		"content": "Năm mới 2021 xin chúc: Đủ tiền bạc để gia đình sung túc. Đủ hạnh phúc để tâm luôn ngọt ngào. Đủ ồn ào để đời không lặng lẽ. Đủ sức khỏe để có thể rong chơi. Đủ thảnh thơi để tràn đầy sự sống. Đủ hy vọng để giữ mãi niềm tin.",
+		"content": "Năm mới 2022 xin chúc: Đủ tiền bạc để gia đình sung túc. Đủ hạnh phúc để tâm luôn ngọt ngào. Đủ ồn ào để đời không lặng lẽ. Đủ sức khỏe để có thể rong chơi. Đủ thảnh thơi để tràn đầy sự sống. Đủ hy vọng để giữ mãi niềm tin.",
 		"translate": ""
 	}, {
 		"id": "1775",
@@ -201,7 +201,7 @@
 		"translate": ""
 	}, {
 		"id": "1800",
-		"content": "Mừng 2021 Phát tài phát lộc Tiền vô xồng xộc Tiền ra từ từ Sức khỏe có dư Công danh tấn tới Tình duyên phơi phới Hạnh phúc thăng hoa Xin chúc mọi nhà Một năm đại thắng.",
+		"content": "Mừng 2022 Phát tài phát lộc Tiền vô xồng xộc Tiền ra từ từ Sức khỏe có dư Công danh tấn tới Tình duyên phơi phới Hạnh phúc thăng hoa Xin chúc mọi nhà Một năm đại thắng.",
 		"translate": ""
 	}, {
 		"id": "1801",
@@ -293,7 +293,7 @@
 		"translate": ""
 	}, {
 		"id": "1823",
-		"content": "Chúc mừng 2021, phát tài, phát lộc, phát phú quý, phát nhà, phát xế, phát an khang, tuy nhiên… cần tránh xa phát hỏa, cộng với lạm phát cứ tràn lan nhé. CHÚC MỪNG XUÂN MỚI!",
+		"content": "Chúc mừng 2022, phát tài, phát lộc, phát phú quý, phát nhà, phát xế, phát an khang, tuy nhiên… cần tránh xa phát hỏa, cộng với lạm phát cứ tràn lan nhé. CHÚC MỪNG XUÂN MỚI!",
 		"translate": ""
 	}, {
 		"id": "1824",
@@ -325,7 +325,7 @@
 		"translate": ""
 	}, {
 		"id": "1831",
-		"content": "Năm Tân Sửu 2021 – Chúc bạn luôn: Đong đầy hạnh phúc – Gói trọn lộc tài – Giữ mãi an khang – Thắt chặt phú quý.",
+		"content": "Năm Nhâm Dần 2022 – Chúc bạn luôn: Đong đầy hạnh phúc – Gói trọn lộc tài – Giữ mãi an khang – Thắt chặt phú quý.",
 		"translate": ""
 	}, {
 		"id": "1832",
@@ -373,7 +373,7 @@
 		"translate": ""
 	}, {
 		"id": "1843",
-		"content": "Bạn ơi cho hỏi, hôm nay ngày gì, thấy PHÚC LỘC đến, đen đủi lại đi, ông THỌ gói bánh, ông TÀI rửa hành, ông MAY sóc gạo, ông QÚY nhân xào? Bạn ơi cho hỏi, còn thiếu ông nào, tôi điểm DANH nốt, cho theo bạn nào? Chúc mừng 2021!",
+		"content": "Bạn ơi cho hỏi, hôm nay ngày gì, thấy PHÚC LỘC đến, đen đủi lại đi, ông THỌ gói bánh, ông TÀI rửa hành, ông MAY sóc gạo, ông QÚY nhân xào? Bạn ơi cho hỏi, còn thiếu ông nào, tôi điểm DANH nốt, cho theo bạn nào? Chúc mừng 2022!",
 		"translate": ""
 	}, {
 		"id": "1844",
@@ -409,7 +409,7 @@
 		"translate": ""
 	}, {
 		"id": "1852",
-		"content": "Chúc mừng năm mới Tân Sửu 2021. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công.",
+		"content": "Chúc mừng năm mới Nhâm Dần 2022. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công.",
 		"translate": ""
 	}, {
 		"id": "1853",
@@ -417,7 +417,7 @@
 		"translate": ""
 	}, {
 		"id": "1854",
-		"content": "Chúc mừng năm mới 2021! VẠN chuyện lo toan thay đổi hết SỰ gì bế tắc thảy hanh thông NHƯ anh, như chị, bằng bè bạn Ý nguyện trọn đời đẹp ước mong CHÚC MỪNG NĂM MỚI - XUÂN Tân Sửu 2021!",
+		"content": "Chúc mừng năm mới 2022! VẠN chuyện lo toan thay đổi hết SỰ gì bế tắc thảy hanh thông NHƯ anh, như chị, bằng bè bạn Ý nguyện trọn đời đẹp ước mong CHÚC MỪNG NĂM MỚI - XUÂN Nhâm Dần 2022!",
 		"translate": ""
 	}, {
 		"id": "1855",

@@ -89,7 +89,7 @@
 		"translate": ""
 	}, {
 		"id": "1992",
-		"content": "Năm mới 2021, con chúc mẹ yêu của con sẽ mãi trẻ mãi không già, sức khỏe thật dẻo dai Con mãi yêu gia đình nhỏ bé và luôn luôn yêu mẹ nhiều!!! Chúc mẹ một năm mới thật nhiều niềm vui và hạnh phúc!",
+		"content": "Năm mới 2022, con chúc mẹ yêu của con sẽ mãi trẻ mãi không già, sức khỏe thật dẻo dai Con mãi yêu gia đình nhỏ bé và luôn luôn yêu mẹ nhiều!!! Chúc mẹ một năm mới thật nhiều niềm vui và hạnh phúc!",
 		"translate": ""
 	}, {
 		"id": "1993",
@@ -193,11 +193,11 @@
 		"translate": ""
 	}, {
 		"id": "2018",
-		"content": "Tuy không nói ra miệng nhưng sâu trong lòng mình con vẫn luôn hi vọng rằng mẹ sẽ có một sức khỏe dồi dào, minh mẫn trong dịp năm mới 2021 này và cả năm tới nữa. Mẹ của con đã vất vả quá nhiều rồi bây giờ con sẽ cố gắng làm việc thật tốt để đỡ đần mẹ. Chúc mẹ có một năm mới thật hạnh phúc và bình an !!! CON LUÔN YÊU MẸ <3",
+		"content": "Tuy không nói ra miệng nhưng sâu trong lòng mình con vẫn luôn hi vọng rằng mẹ sẽ có một sức khỏe dồi dào, minh mẫn trong dịp năm mới 2022 này và cả năm tới nữa. Mẹ của con đã vất vả quá nhiều rồi bây giờ con sẽ cố gắng làm việc thật tốt để đỡ đần mẹ. Chúc mẹ có một năm mới thật hạnh phúc và bình an !!! CON LUÔN YÊU MẸ <3",
 		"translate": ""
 	}, {
 		"id": "2019",
-		"content": "Kính chúc qúy Thầy Cô và gia đinh một năm mới Tân Sửu 2021 An Khang Thịnh Vượng, Dồi Dào Sức Khỏe và Vạn Sự Như Ý.",
+		"content": "Kính chúc qúy Thầy Cô và gia đinh một năm mới Nhâm Dần 2022 An Khang Thịnh Vượng, Dồi Dào Sức Khỏe và Vạn Sự Như Ý.",
 		"translate": ""
 	}]
 }

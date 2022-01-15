@@ -1,7 +1,7 @@
 {
 	"result": [{
 		"id": "1866",
-		"content": "Em yêu! Chúng ta đã cùng vượt qua những khoảng thời gian khó khăn. Anh chỉ muốn cho tất cả mọi người biết rằng: em là duy nhất của anh… Anh yêu em rất nhiều! Năm mới 2021 anh chúc em luôn hạnh phúc và gặp thật nhiều may mắn.",
+		"content": "Em yêu! Chúng ta đã cùng vượt qua những khoảng thời gian khó khăn. Anh chỉ muốn cho tất cả mọi người biết rằng: em là duy nhất của anh… Anh yêu em rất nhiều! Năm mới 2022 anh chúc em luôn hạnh phúc và gặp thật nhiều may mắn.",
 		"translate": ""
 	}, {
 		"id": "1867",
@@ -141,7 +141,7 @@
 		"translate": ""
 	}, {
 		"id": "1901",
-		"content": "Năm 2021 chúc cho ấy của anh luôn trẻ, khỏe, năng động trong học tập và cuộc sống. Chúc ấy yêu năm mới đạt được thật nhiều thành công hơn năm cũ! Cố lên nhé!",
+		"content": "Năm 2022 chúc cho ấy của anh luôn trẻ, khỏe, năng động trong học tập và cuộc sống. Chúc ấy yêu năm mới đạt được thật nhiều thành công hơn năm cũ! Cố lên nhé!",
 		"translate": ""
 	}, {
 		"id": "1902",
@@ -205,7 +205,7 @@
 		"translate": ""
 	}, {
 		"id": "1917",
-		"content": "Em yêu! Niềm khao khát lớn nhất của cuộc đời anh chính là được dành tặng cả cuộc đời mình cho em. Năm mới anh chúc em mãi xinh đẹp và bình an trong cuộc sống. Chúc cho tình yêu của anh và em sẽ có một happy ending thật là lãng mạn! HAPPY NEW YEAR 2021!",
+		"content": "Em yêu! Niềm khao khát lớn nhất của cuộc đời anh chính là được dành tặng cả cuộc đời mình cho em. Năm mới anh chúc em mãi xinh đẹp và bình an trong cuộc sống. Chúc cho tình yêu của anh và em sẽ có một happy ending thật là lãng mạn! HAPPY NEW YEAR 2022!",
 		"translate": ""
 	}, {
 		"id": "1918",
@@ -237,7 +237,7 @@
 		"translate": ""
 	}, {
 		"id": "1925",
-		"content": "Chúc anh Năm Mới 2021: Sức khỏe Kinh Kông - Như Lý Tiểu Long - Vạn sự Thành công - Sách vở tinh thông - Cho thỏa ước mong - Của người uy phong - Tài trí vô song.",
+		"content": "Chúc anh Năm Mới 2022: Sức khỏe Kinh Kông - Như Lý Tiểu Long - Vạn sự Thành công - Sách vở tinh thông - Cho thỏa ước mong - Của người uy phong - Tài trí vô song.",
 		"translate": ""
 	}, {
 		"id": "1926",
@@ -249,7 +249,7 @@
 		"translate": ""
 	}, {
 		"id": "1928",
-		"content": "Tết nguyên đán 2021 chúc cho ấy của anh luôn trẻ, khỏe, năng động trong học tập và cuộc sống. Chúc ấy yêu năm mới đạt được thật nhiều thành công hơn năm cũ! Cố lên nhé!",
+		"content": "Tết nguyên đán 2022 chúc cho ấy của anh luôn trẻ, khỏe, năng động trong học tập và cuộc sống. Chúc ấy yêu năm mới đạt được thật nhiều thành công hơn năm cũ! Cố lên nhé!",
 		"translate": ""
 	}, {
 		"id": "1929",
@@ -281,7 +281,7 @@
 		"translate": ""
 	}, {
 		"id": "1936",
-		"content": "Chúc tình yêu của em năm mới 2021 luôn có sức khỏe dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh.",
+		"content": "Chúc tình yêu của em năm mới 2022 luôn có sức khỏe dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh.",
 		"translate": ""
 	}, {
 		"id": "1937",

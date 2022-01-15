@@ -141,7 +141,7 @@
 		"translate": ""
 	}, {
 		"id": "637",
-		"content": "Năm 2021 qua đi và năm mới 2021 tới! Người ta lớn lên sẽ mất đi nhiều thứ! suy nghĩ cũng khác! Không còn nét hồn nhiên và vô tư như trước! Sẽ nghĩ và già nhanh đi hơn! Dù thế thì bạn vẫn phải thở! Vẫn phải ăn! May mắn hơn là yêu và được yêu! Hãy cảm ơn cuộc đời vì điều đó! Nó giá trị hơn tất cả những điều còn lại! Chúc bạn của tớ một ngày Valentine vui vẻ, may mắn và hạnh phúc!!! Happy Valentine Day!!!",
+		"content": "Năm 2022 qua đi và năm mới 2022 tới! Người ta lớn lên sẽ mất đi nhiều thứ! suy nghĩ cũng khác! Không còn nét hồn nhiên và vô tư như trước! Sẽ nghĩ và già nhanh đi hơn! Dù thế thì bạn vẫn phải thở! Vẫn phải ăn! May mắn hơn là yêu và được yêu! Hãy cảm ơn cuộc đời vì điều đó! Nó giá trị hơn tất cả những điều còn lại! Chúc bạn của tớ một ngày Valentine vui vẻ, may mắn và hạnh phúc!!! Happy Valentine Day!!!",
 		"translate": ""
 	}, {
 		"id": "638",
