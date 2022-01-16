@@ -40,6 +40,6 @@
 		"id": "",
 		"content": "Đừng để âu lo của ngày hôm qua làm phai mờ vẻ đẹp của ngày hôm nay.",
 		"translate": ""
-	},
+	}
 	]
 }

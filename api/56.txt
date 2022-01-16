@@ -52,6 +52,6 @@
 		"id": "",
 		"content": "Người ta chào buổi sáng khi thức giấc. Còn anh chào buổi sáng khi ngày mới bắt đầu.",
 		"translate": ""
-	},
+	}
 	]
 }

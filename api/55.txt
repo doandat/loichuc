@@ -122,6 +122,6 @@
 		"id": "",
 		"content": "Rút ra bài học trong cuộc sống và có tầm nhìn tốt hơn cho tương lai bằng cách tạo nên một ngày đáng nhớ vào hôm nay. Chúc bạn một ngày may mắn!",
 		"translate": ""
-	},
+	}
 	]
 }
