@@ -1,0 +1,127 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Chúc buổi sáng an lành, một ngày làm việc may mắn và thành công, chúc bạn luôn vui vẻ tràn ngập tiếng cười.",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Người ta nói rằng một nụ cười là hệ thống siêu ánh sáng cho khuôn mặt, hệ thống làm mát cho cái đầu và hệ thống sưởi ấm cho trái tim. Vì vậy, bạn hãy mỉm cười mỗi ngày bạn nhé! Ngày mới vui vẻ!^^",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc bạn buổi sáng tốt lành, thật sự tốt lành đủ để bạn có thể mỉm cười được ấy!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Khi nhận được tin nhắn này thì bạn hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn hạnh phúc, vui vẻ và luôn yêu đời. He, chúc bạn một ngày tươi trẻ nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Này bạn, bạn nợ tớ thì phải trả đi chứ! Tính xù hả? Ng đâu mà... Bạn nợ tớ 1 NỤ CƯỜI ĐÓ! Chúc 1 ngày đầy niềm vui và những bất ngờ! SMILE",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ông mặt trời mọc rồi kìa, với nụ cười ấm áp biết bao! Ông chúc bạn một buổi sáng tốt lành và mong bạn sẽ có một ngày thật tuyệt!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy nhớ mặt trời vẫn luôn chiếu sáng, khi cơn bão có vẻ như kéo dài vô tận. Bạn hãy tin rằng một người yêu thương bạn thật sự là khi họ không có ở bên cạnh bạn nhưng bạn vẫn cảm nhận được tình yêu và sự quan tâm của người ấy!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mặt trời đã hé rạng đằng Đông và những con chim đang ca hót vui vẻ. Bươm bướm đang bay lượn quanh những cành hoa. Đã đến lúc dậy và ngáp một cái thật to nào! Chúc buổi sáng tốt lành !!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Trên thế giới này chỉ có 2 loại người hạnh phúc... thứ nhất là kẻ điên và thứ hai là trẻ con. Hãy bị điên để thực hiện những điều mà bạn mong muốn và hãy trẻ con để tận hưởng những gì bạn có. Buổi sáng tốt lành nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc buổi sáng tốt lành. Chúc bạn có một ngày tràn ngập những khoảnh khắc hào hứng và tuyệt vời.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Những tia nắng của ngày hôm nay cho bạn thấy cơ hội mới để thực hiện giấc mơ đã ấp ủ bấy lâu. Hãy nắm bắt cơ hội, làm việc chăm chỉ và theo đuổi ước mơ của mình nhé.",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Một bàn tay gạt đi nước mắt lúc chúng ta thất bại còn quý giá hơn 10 bàn tay tung hô khi chúng ta thành công! Chúc cậu một ngày vui vẻ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Điều tuyệt vời nhất khi ở bên cạnh người tốt không phải bạn nhận được gì từ họ mà bạn sẽ càng trở nên tốt hơn. Chúc ngày mới tốt lành!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hai điều bất diệt mà bạn không thể thay đổi, đó là ngày hôm qua và ngày mai. Ngày hôm qua đã qua còn ngày mai thì chưa đến. Vì thế, hãy sống trọn vẹn cho ngày hôm nay. Chúc cậu ngày mới vui vẻ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Cho dù điều gì xảy ra chăng nữa, hãy cứ thoải mái và mỉm cười bạn nhé. Cuộc sống không phải là những khó khăn cần phải giải quyết mà là những món quà để thưởng thức. Chúc ngày mới tốt lành!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đừng lo âu về ngày mai vì ngày hôm nay của bạn chỉ vừa mới bắt đầu. Nỗ lực làm việc ngày hôm nay rồi bạn sẽ sẵn sàng chào đón một ngày mới khác. Đừng lãng phí thời gian. Chúc bạn một ngày tuyệt vời!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sự khác biệt giữa một ngày tuyệt vời và ngày kinh hoàng phụ thuộc vào cái nhìn của bạn, vì thử thách cũng chính là cơ hội. Mọi thứ rồi sẽ tốt đẹp cả thôi.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngày hôm nay mình chúc cho bạn: trái tim không có buồn đau, tâm trí không còn lo lắng; Cuộc sống chỉ toàn niềm vui và hân hoan; Sức khỏe dồi dào và gặp nhiều may mắn. Chúc một ngày tuyệt vời sẽ đến với bạn!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Bất cứ lúc nào cậu cảm thấy nhụt chí và không còn động lực để tiếp tục tiến về phía trước, hay gọi cho tớ. Tớ sẽ nhắc cho cậu nhớ cậu tuyệt vời ra sao. Good morning!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nếu không có đường thì kẹo cũng là thứ bỏ đi. Nếu không có cà phê, buổi sáng sẽ chẳng còn tinh thần. Và nếu không có tin nhắn của tớ, ngày hôm nay của cậu cũng chẳng còn nghĩa lý gì. Haha. Ngày mới vui nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mỗi ngày là một phước lành mà Chúa ban cho chúng ta. Cậu sẽ làm được nhiều thứ để có một cuộc sống tốt đẹp hơn. Vì thế hãy làm mọi thứ cậu cần làm để thành công nhé. Chúc ngày mới tốt lành!",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Đêm lạnh đã qua và bắt đầu ngày mới ấm áp. Chúc em luôn mỉm cười như những vệt nắng lấp lánh lúc bình minh và một ngày thật tuyệt em nha.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc cho cả ngày may mắn, niềm vui nối tiếp niềm vui, còn nỗi buồn thì ở lại... ! Good morning!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mong một ngày mới tốt lành, ngập tràn tình yêu, niềm vui và hạnh phúc sẽ đến với cậu.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Vầng dương ló rạng và chiếu sáng khắp nơi trên trái đất, đang chào đón bạn đến với buổi sáng rực rỡ ánh nắng. Chúc ngày mới vui vẻ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngày mới là một cơ hội khác để chúng ta tận hưởng cuộc sống và mang ấm áp đến cho nhau. Ngày mới tốt lành, em yêu!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Trong ngày đầy nắng này, tớ muốn gửi lời chúc này đến với một người vô cùng tuyệt vời, chính là cậu. Chúc ngày hôm nay của cậu cũng tỏa sáng như ánh mặt trời!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một cốc cà phê nóng và lời nhắn ngọt ngào của em đang chào đón anh bước vào ngày mới đầy nắng. Ngày mới may mắn, anh yêu!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngày mới là cơ hội để bạn làm những điều khác biệt, nếu bạn chưa hài lòng với cuộc sống của mình, hãy dũng cảm thay đổi.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Rút ra bài học trong cuộc sống và có tầm nhìn tốt hơn cho tương lai bằng cách tạo nên một ngày đáng nhớ vào hôm nay. Chúc bạn một ngày may mắn!",
+		"translate": ""
+	},
+	]
+}

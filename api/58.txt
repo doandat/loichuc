@@ -1,0 +1,45 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Khó khăn vẫn cứ đến trên con đường chúng ta đi, bất kể nó là gì thì chỉ cần chúng ta đối mặt, mọi chuyện rồi sẽ ổn thôi. Ngày mới tốt lành!",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Đừng để nỗi lo âu của ngày hôm qua làm phai mờ vẻ đẹp của ngày hôm nay. Chúc một ngày may mắn!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy bắt đầu ngày mới bằng một nụ cười, vì điều đó sẽ đem lại may mắn cho chúng ta suốt cả ngày.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngày mới giống như tờ giấy trắng. Bạn sẽ là người sẽ vẽ lên đó, vì thế hãy vẽ sao cho khôn ngoan. Chào buổi sáng!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tất cả những ai vững niềm tin thì nhất định sẽ gặp may mắn và thành công.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sương mai long lanh trên cành, hoa nở, chim hot đầy sức sống, hãy đứng dậy và bước đi vững chắc trong ngày mới với những hy vọng cho tương lai của bạn nhé.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngủ ngon không em? Ngày mới thật tốt lành em nhé, và nhớ là đừng bỏ bữa sáng đó nhé.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Cuộc sống luôn cho ta cơ hội thứ hai, đó gọi là ngày mai.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Cuộc sống thật ngắn ngủi, hãy tận dụng mỗi ngày của bạn để làm những điều ý nghĩa.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đừng để âu lo của ngày hôm qua làm phai mờ vẻ đẹp của ngày hôm nay.",
+		"translate": ""
+	},
+	]
+}

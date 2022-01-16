@@ -1,0 +1,123 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Em hãy tin rằng, nhưng những dòng tin nhắn gửi đến em vào buổi sáng chỉ có thể là lời chúc ngọt ngào: Chúc em một ngày mới đầy tiếng cười.",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Tình yêu của anh dành cho em đang lớn lên mỗi ngày. Hãy để anh chúc em một buổi sáng tốt lành.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chào anh yêu! Em thấy rất hạnh phúc, và luôn thầm cảm ơn cuộc đời đã mang người em yêu nhất đến bên em và cho em hạnh phúc. Một ngày mới thắng lợi nhé anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ví dụ như anh sẽ có một điều ước ngay lúc này, thì anh không cần phải suy nghĩ mà sẽ ước người yêu anh có một ngày vui vẻ và hạnh phúc. Một buổi sáng thật tuyệt em nhé.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh chúc em một ngày mới tuyệt vời. Luôn mỉm cười em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Thế là một đêm lạnh giá đã qua đi, một ngày mới ấm áp bắt đầu. Anh chúc em luôn mỉm cười, luôn hạnh phúc và luôn thành công.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Điều đầu tiên anh muốn làm trước khi anh mở mắt là nhìn thấy em trong tâm trí anh. Điều này giúp anh thức giấc với nhiều năng lượng cho ngày mới, bởi vì em là lý do anh sống. Anh yêu em.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mỗi ngày khi anh thức dậy, em biết không, điều anh ước trước tiên là hy vọng người nhận được tin nhắn này sẽ có một ngày mới luôn vui vẻ và hạnh phúc.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em à, quen biết em là điều anh thích nhất, yêu em là điều anh hạnh phúc nhất và mỗi sớm mai thức dậy anh lại có thêm động lực bởi người anh nghĩ đến đầu tiên là em.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh có nhờ một thiên thần đến đánh thức em dậy vào sớm nay, nhưng đáng tiếc thiên thần ấy cũng ngái ngủ giống em nên anh phải tự mình nhắn tin đánh thức em dậy. Dậy đi nhé, chúc em một buổi sáng tốt lành.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy nhận một món quà đơn giản của anh vào mỗi buổi sáng, được bao bọc bởi sự chân thành, được buộc lại bằng sự quan tâm và được gắn vào với lời cầu xin cho em được bình yên và hạnh phúc mỗi ngày!",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Một vòng tay ban đêm sưởi ấm trái tim, một nụ hôn ban đêm thắp sáng bình minh và một buổi sáng tốt lành để bắt đầu một ngày cho em!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sáng nay em vẫn khỏe chứ? Đêm qua lang thang trong giấc mơ của anh chắc mệt lắm phải không em?",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nếu như anh có một điều ước ngay lúc này, anh sẽ ước người yêu anh có một ngày vui vẻ và hạnh phúc. Buổi sáng tốt lành em nhé.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tặng em người con gái anh yêu món quà có tên “buổi sáng tốt lành” được gói bởi sự chân thành, buộc bằng sợi dây quan tâm và đính kèm một lời nguyện cầu cho em được bình an và hạnh phúc trọn ngày.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh gửi cho em những cái ôm và nụ hôn của tình yêu trong tin nhắn chúc buổi sáng này và chúc em có một ngày tuyệt vời!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một đóa hoa cho ngày mới hạnh phúc. Một lời chúc cho vạn sự bình an.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc cho người tôi yêu đón nhận ngày mới với trái tim yêu thương!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Có hai điều anh thích nhất đó chính là Em và công việc. Và có một điều anh ghét nhất là có Công việc mà không có em. Đi làm đi nhé, anh đợi em ở công ty.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Trời cao trong xanh sương sớm lung linh mặt nước rung rinh, bầy chim non, hót ca vang, theo bước chân em tới trường... Dậy thôi nhóc đáng yêu, ngày mới với niềm vui bên bạn bè và người thân nhé.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh gửi cho em 1000 nụ cười, bây giờ em hãy cười đi nhé! Còn 999 nụ cười em hãy để dành dưới gối, mỗi sáng thức dậy em hãy lấy ra 1 nụ cười nha ^^. Vì anh mong muốn em luôn vui vẻ mừ. Hihi (khi nào hết thì bảo anh!)",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Em à, đi ăn với anh, em nhé. Anh có thể nghe thấy bụng em than thở với anh rằng: chủ nhân của nó chưa cho nó ăn sáng kìa... Hi, chúng mình cùng đi ăn để chuẩn bị cho một ngày mới dồi dào năng lượng nhé. ",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Không phải giấc mơ nào cũng có lý do, nhưng mọi giấc mơ đều đáng để cố gắng. Buổi sáng tốt lành.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh muốn nói với em là anh... ghét em lắm. Đêm qua em cứ chạy lung tung trong giấc mơ của anh, cả sáng nay cũng thế. Từ sáng tới giờ anh chưa làm được gì đâu nhé, mải nghĩ đến em đấy. Em thương anh thì làm việc cho chăm chỉ vào đấy. Một ngày vui vẻ nữa em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nụ cười là thứ ngôn ngữ mà ai cũng hiểu. Nó chẳng tốn gì mà lại tạo ra rất nhiều. Anh nhớ nụ cười của em! Hãy luôn nở nụ cười cho ngày mới thêm sảng khoái em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tối qua anh đi ngủ với một nụ cười vì anh biết anh sẽ mơ thấy em... Và sáng nay anh thức dậy cùng với một nụ cười vì anh biết em không phải là một giấc mơ.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nếu ai vô tình hoặc cố tình gây thương nhớ cho người khác, để lại hậu quả làm tan nát trái tim người đó, thì phải chịu hình phạt chung sống trọn đời với người đó. Chiếu theo bộ luật này thì bắt đầu từ sáng nay em phải chịu hình phạt đó đấy.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chiếc chìa khoá nhỏ có thể mở ổ khoá lớn, lời nói đơn giản có thể biểu lộ tư tưởng vĩ đại và chỉ một tin nhắn của em sẽ khiến anh vui cười suốt cả ngày. Lời chúc ngày mới hạnh phúc và đầy nhiệt huyết!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Lời này chẳng có chất béo, cholesterol hay các chất phụ gia, hoàn toàn chiết xuất từ tự nhiên, ngoại trừ có rất nhiều đường. Nhưng chắc chắn nó chẳng bao giờ ngọt hơn người đọc nó. Cười lên em nhé cho ngày mới rạng rỡ!",
+		"translate": ""
+	}
+	]
+}

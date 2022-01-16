@@ -1,0 +1,57 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Gửi tặng đến tất cả mọi người 20 lời chúc buổi sáng vui nhộn, để mang đến niềm vui, năng lượng cho một ngày mới thật năng động và thật bổ ích. Đó là lời động viên, khích lệ để mọi người cùng cố gắng hoàn thành công việc, học tập của mình một cách tốt nhất.",
+		"translate": ""
+	},
+	{
+		"id": "",
+		"content": "Khi bạn nhận được tin nhắn này, hãy mỉm cười thật tươi nhé. Bởi vì ít nhất đâu đó có người đang mong bạn được hạnh phúc, vui vẻ. Good Morning.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ánh trăng hết rồi nhóc ơi. Dậy nào, đánh răng, rửa mặt và lên giường ngủ nướng tiếp (chủ nhật mà).",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tin nhắn này chẳng có chất béo, cholesterol hay các chất phụ gia, hoàn toàn chiết xuất từ tự nhiên, ngoại trừ có rất nhiều đường. Nhưng chắc chắn nó chẳng bao giờ ngọt hơn người đọc nó. Cười lên bạn nhé cho ngày mới rạng rỡ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đây là lời bác sĩ khuyên: Ăn sáng đều đặn, uống nhiều nước, đừng quên vitamin C và nhắn tin cho anh ít nhất 3 lần/ngày. Chúc bạn ngày mới nhiều niềm vui!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Reng! Reng! Reng! Đồng hồ báo thức của bạn đây. He, dậy chưa bạn, muộn rồi đấy. Chúc bạn một ngày vui vẻ nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ê đồ lười! hãy dậy và ăn sáng đi chứ. Mình chúc bạn buổi sáng ấm áp và đầy năng lượng. Good morning!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Các nghiên cứu khoa học đã chỉ ra rằng một nụ cười là hệ thống siêu ánh sáng cho khuôn mặt, hệ thống làm mát cho cái đầu và là hệ thống sưởi ấm cho trái tim. Vì vậy, em yêu hãy mỉm cười mỗi ngày nhé! Chúc em yêu ngày mới vui vẻ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ông mặt trăng đi ngủ rồi, em định đi ngủ luôn cùng ông trăng đấy hả? Mau dậy đánh răng, rửa mặt và ăn sáng đi nhé. Chúc em có một ngày mới vui vẻ và tràn đầy năng lượng! Yêu em!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngủ ngon không cục cưng béo ú của anh? Ngày mới thật tốt lành em nhé và nhớ là đừng bỏ bữa sáng đó nha!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Kính chào buổi sáng! Chúc em có một buổi sáng bớt mơ màng nhé MÈO LƯỜI.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em có nghe tiếng đàn vào buổi sáng không. Nhạc chào buổi sáng mặc dù có thể giờ phút này nó đối với em cũng chỉ là: “Đàn gẩy tai trâu” thôi! Ngày mới vui vẻ!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Người ta chào buổi sáng khi thức giấc. Còn anh chào buổi sáng khi ngày mới bắt đầu.",
+		"translate": ""
+	},
+	]
+}
