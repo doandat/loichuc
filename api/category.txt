@@ -85,6 +85,28 @@
             "image": "img/bg_caunoihay.jpg"
         }, 
         {
+            "id": "chucngungon",
+            "type": "1",
+            "name": "Lời chúc ngủ ngon hay và ý nghĩa",
+            "sub": [{
+                "id": "53",
+                "type": "1",
+                "CatId": "caunoihay",
+                "name": "Lời chúc ngủ ngon dành cho người yêu",
+                "color": "#449944",
+                "image": "img/bg_caunoihay.jpg"
+            }, {
+                "id": "54",
+                "type": "1",
+                "CatId": "caunoihay",
+                "name": "Lời chúc ngủ ngon dành cho bạn bè",
+                "color": "#449944",
+                "image": "img/bg_caunoihay.jpg"
+            }],
+            "color": "#bbbefe",
+            "image": "img/bg_caunoihay.jpg"
+        }, 
+        {
             "id": "7",
             "type": "1",
             "CatId": "4",

@@ -1,0 +1,364 @@
+{
+	"result": [{
+		"id": "",
+		"content": "Một ngày nữa lại trôi qua và ngày mới lại bắt đầu, chúc em ngủ ngon và có giấc mơ đẹp.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em yêu mơ những giấc mơ đẹp và biến nó thành thực nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc ngủ ngon người yêu của anh, đêm nay chúc em có một giấc mơ ngập tràn hạnh phúc và tiếng cười.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Khi anh cô đơn trong đêm và anh nhìn lên những ngôi sao vĩ đại của vũ trụ, điều duy nhất mà anh muốn thấy chính là em. Good night!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh mong được ở bên em, ngay cả khi anh ngủ, tâm trí của anh luôn bên em, chúc ngủ ngon thiên thần ngọt ngào của anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Có thể chiếc gối của em mềm mại, chăn của em ấm áp và tâm trí em đang tràn ngập suy nghĩ việc anh yêu em như thế nào. Nhưng màn đêm đã giăng kín, hãy nhắm mắt để chìm trong giấc ngủ ngon em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nếu anh ở bên cạnh em đêm nay, anh sẽ giữ em thật gần, ngắm nhìn em và bao bọc em bởi tình yêu ngọt ngào. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đêm đến, các vì sao đang tỏa sáng trên bầu trời sẽ thay thế, canh gác cho giấc ngủ của em. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nhắm mắt lại, thư giãn đầu óc và lắng nghe những ngôi sao leo lên bầu trời đêm để lơ lửng trong những giấc ngủ của em. Ngủ ngon em yêu!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Những ngôi sao là nốt nhạc trên bầu trời đêm, lấp lánh như hát ru em vào giấc ngủ say. Chúc tình yêu của anh ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em là nữ hoàng trong thế giới của anh, lấp lánh trên bầu trời đêm. Anh yêu em! Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc ngủ ngon người yêu của anh. Dù xa em mỗi đêm nhưng anh sẽ luôn ở bên cạnh giấc ngủ cho em.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ ngon! Hãy để những buồn phiền ngày hôm nay trôi vào màn đêm đen tối, để ngày mai đến, mang đến sự khởi đầu mới, nhiều may mắn, nhiều niềm vui.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc thiên thần của anh ngủ ngon. Dù không ở bên cạnh em nhưng anh sẽ vào trong giấc mơ của em mang đến cho em giấc ngủ ngon.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngủ ngon và hãy mơ về anh nhé thiên thần của anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ở ngoài kia, có một người đang nhớ tới em và mong em có một giấc ngủ ngon. Chúc ngủ ngon người yêu của tôi.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mọi người đã chìm vào giấc ngủ sâu, chỉ có một người xinh đẹp đang đọc tin nhắn chúc ngủ ngon của anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tặng bạn món quà ý nghĩa buổi tối vui vẻ được tạo ra bằng sự chân thành, quan tâm cùng lời cầu nguyện giúp bạn chìm vào giấc ngủ ngon, mơ về một miền hạnh phúc.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy gạt bỏ những phiền muộn, chỉ đem niềm vui của ngày hôm nay vào trong giấc ngủ để mơ nhiều giấc mơ tươi đẹp. Chúc ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh ơi ngủ đi! Chị vịt ngốc của anh đã ngủ rất ngon rồi. Chị ấy thương anh lắm đó!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ban ngày nhìn em sao mà xấu thế, xấu dã man, xấu tàn bạo luôn nhưng khi em ngủ nhìn em rất xinh và thật đáng yêu, ngủ đi em, chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Bé ơi ngủ ngoan đêm đã khuya rồi, để những giấc mơ đẹp sẽ theo em, à ơi à ơi…Chúc bé ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Cho dù bầu trời màu xanh hay màu xám, cho dù bầu trời có trăng hay có sao, miễn là trái tim em chân thành, những giấc mơ ngọt ngào sẽ luôn ở bên em. Chúc ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chàng ngốc của em à! Anh có biết trên thế giới đang có 4,7 triệu người đang ngủ; 2,3 triệu người đang yêu; 4,1 triệu người đang ăn. Nhưng chỉ có duy nhất 1 người đang đọc tin nhắn của em. Chúc chàng hoàng tử của lòng em ngủ ngon nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chào mặt trăng, bạn gấu trúc của tôi sắp đi ngủ rồi. Nói với mặt trời hãy dậy muộn một chút. Bởi vì bạn gấu trúc muốn nghỉ ngơi thêm nữa. Chúc em ngủ ngon nhé gấu trúc!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Châu Âu ngủ, Châu Á cũng đang ngủ, Châu Mỹ đang tối dần, chỉ có đôi mắt đẹp nhất trên thế giới này đang đọc tin nhắn của anh. Chúc tình yêu của anh ngủ thật ngon và mơ về anh em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc anh ngủ ngon và mơ những giấc mơ đẹp nhất và một ngày mới sẽ đến với anh trong niềm vui và hạnh phúc. Yêu anh nhất trên đời!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ thật ngon, một giấc mơ an lành và ấm áp, anh sẽ luôn yêu em, mãi mãi yêu em. Good night!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em đêm nay gặp thật nhiều ác mộng và anh sẽ hiện ra để cùng em chạy trốn!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc người yêu bé nhỏ của anh ngủ thật ngoan cho cả thế giới được yên vì nếu giờ này em thức sẽ làm cho nền hòa bình sẽ bị đe dọa.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chắc ấy đang ngủ ngon lắm nhỉ, người ta không ngủ được, nhớ đằng ấy quá, mong tới sáng để được gặp ấy quá. Ngủ ngon nhé đằng ấy!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Có người nói thật khó để nhớ, còn có người lại nói thật khó để quên. Vì thế nhớ đừng quên em và đừng quên nhớ em ngay cả trong giấc mơ anh nhé. Chúc gấu của em ngủ ngon và mơ về tình yêu lãng mạn của chúng ta nhé! Kiss you.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Cũng khuya rồi đó em, không lo đi ngủ đi, còn ngồi đó mà đọc tin nhắn.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em à, em đã ngủ chưa? Trời lạnh quá em nhỉ? Chiếc gối sưởi ấm của em có còn ấm không? Có lẽ sẽ chẳng ấm như tình yêu của anh dành cho em đâu. Yêu và nhớ em nhiều. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em có biết tại sao tối nào hai đứa mình cũng cần phải ngủ không? Vì như thế mới có chúng ta, hẹn em trong mơ nhé, thiên thần của anh!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em yêu à, đến giờ đi ngủ rồi đó. Nhớ là đừng có thức khuya xem phim nhé phải giữ gìn sức khỏe mai còn đi học chứ! Ngoan anh mới yêu. Chúc bé ngoan của anh ngủ thật ngon nha!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em đang nhìn ra ngoài cửa sổ nghĩ về người mà em quan tâm nhất và người mà đang ở trong tâm trí em. Đó là anh! Vì thế em chỉ muốn chúc anh ngủ ngon thôi!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Gửi gió mang đến em lời chúc ngủ ngon của anh nhé. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy đem tất cả những niềm vui của ngày hôm nay vào giấc ngủ thật ngon để mơ thấy thật nhiều giấc mơ hạnh phúc em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Khi màn đêm buông xuống, xin em hãy gạt qua một bên những lo lắng buồn phiền, khép mắt lại để đi vào giấc ngủ vì tất cả những khoảnh khắc tốt đẹp nhất đang đến với em. Ngủ thật ngon không sáng mai em thành gấu trúc đó. Good night!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Khi sao đã tắt, chị Hằng đã mở mắt, ôm em thật chặt 1 lần nữa. Nhắm mắt vào ngủ thôi bé yêu. Chúc bé ngủ ngon và trong giấc mơ ngọt ngào có anh nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Làm sao đây, làm sao đây, làm sao đây. Chỉ muốn chúc người ấy yên say giấc nồng.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Mùa đông này anh sẽ không còn lạnh nữa, vì em đã sưởi ấm trái tim anh rồi. Anh muốn được là vệ sĩ đứng canh cho những giấc mơ của em đêm nay. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một miếng đá cho trái dâu thêm ngọt, một sợi dây cho quả bóng bay cao, một que diêm cho cây nến sáng tỏ và tin nhắn này để thấy nụ cười anh! Chúc tình yêu của em ngủ ngon nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một ngày của anh không thể kết thúc nếu không có điều gì đó để làm. Anh sẽ không thể ngủ mà không nói rằng: ”Chúc em ngủ ngon”.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một ngày dài mệt mỏi, vất vả sắp trôi qua. Anh phải hứa với em rằng sẽ quẳng hết mọi muộn phiền, lo lắng trước khi đặt mình lên giường anh nhé, hãy để lại những điều ngọt ngào, ấm áp theo anh vào giấc ngủ. Anh ngủ ngon nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hôm nay anh đã chúc em ngủ ngon chưa nhỉ, phải chăng vì nụ cười của em mà anh đã quên đi tất cả. Hãy giữ mãi nụ cười đó và ngủ thật ngon nha.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ở đâu đó ngoài kia dưới ánh trăng đã bạc có một người đang nghĩ về em, ở đâu đó ngoài kia nơi những giấc mơ sẽ trở thành sự thật.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ ngon và có những giấc mơ đẹp, nàng công chúa của anh ạ. Những vì sao lấp lánh trên bầu trời đêm nay sẽ canh cho em giấc ngủ ngon, và những ánh sáng huyền bí sẽ đưa em vào những giấc mơ đẹp. Yêu em rất nhiều.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nhớ mang theo tất cả niềm vui của ngày hôm nay vào giấc ngủ của em nhé, thả nỗi buồn trôi đi và sáng mai thức dậy em sẽ thật hạnh phúc. Yêu em nhiều cô bé đáng yêu của anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tin nhắn chúc ngủ ngon đơn giản nhưng ý nghĩa: “Ngủ ngon nhé em, có 1 người luôn quan tâm và nhớ về em”.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh biết giờ này em đã ngủ rồi! anh đã muốn nhắn tin cho em từ rất sớm nhưng anh muốn anh là người cuối cùng chúc em ngủ em, hãy ngủ ngon trong vòng tay của anh nhé, anh sẽ sưởi ấm cho trái tim em. Yêu em rất nhiều.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nhanh nhanh rửa chân và rửa mặt, leo lên giường, nằm đắp chăn lại vì anh có chuyện này gấp cần nhắn cho em biết…. chúc em ngủ ngon.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em có biết không? nhìn em ban ngày xấu lắm… nhưng khi em ngủ lại rất xinh và đáng yêu. Ngủ đi, chúc em ngủ ngon.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nàng công chúa bé bỏng, đáng yêu nhưng hơi nặng kí của anh ơi! Chúc em ngủ ngon.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tin nhắn từ hiệp hội chúc ngủ ngon, anh thay mặt họ đến chúc em ngủ ngon, vì nếu không hiệp hội gấu trúc sẽ đến quấy nhiễu em. Đây chính là lệnh khẩn cấp của cục trưởng cục chăm sóc giấc ngủ và Hội trưởng hội những người ngủ ngon. Chúc em ngủ ngon.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Trời sẽ lạnh anh lúc đó sẽ là tấm dày và ấm để đắp cho em được không? Giấc ngủ ngon của em sẽ nhìn thấy một con bạch mã để đưa em đến một hạnh phúc nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Yêu anh nhất trên đời! Hãy ngủ ngon và mơ những giấc mơ đẹp nhất.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ ngon, để tranh thủ trôi đi những muộn phiền lo lắng, để kịp nở nụ cười rạng rỡ trên môi em. Chúc buổi tối tốt lành, yêu em.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Bên anh đang lạnh, khó ngủ, vì nhớ em, chứ không phải vì thời tiết lạnh đâu nhá! Ngủ ngon nhé, đắp chăn cho kín kẻo bị lạnh giống anh đấy!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sau một ngày mệt mỏi, hứa với anh là em sẽ quên mọi muộn phiền. Để chỉ giữ lại những gì ngọt ngào vào giấc ngủ thôi nhé. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Nhìn đồng hồ anh biết đã đến giờ đi ngủ, anh nhắn tin chỉ để nói rằng “chúc em ngủ ngon” dù anh biết giờ này hẳn em vẫn chưa ngủ đâu nhỉ. Ngủ ngon nha cô bé đáng yêu!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một giấc mơ đẹp hôm nay khi em ngủ và một nụ cười cho buổi sớm mai thức dậy. Chúc cho tất cả giấc mơ và điều em mong ước có thể thành hiện thực. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đi rửa mặt và đi rửa chân! Đến giờ đi ngủ, đừng lần chần. Đôi mắt trĩu nặng và đôi môi câm lặng, vì thế chỉ mong đêm sẽ dịu dàng và ngọt ngào đưa đến những giấc mơ hồng. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Tự nhiên anh nghĩ rằng em đang lạnh và em sắp có những giấc mơ không đẹp. Vì vậy anh ước gì là tấm chăn dày để sưởi ấm em, anh ước gì được là con bạch mã để đưa em đến một lâu đài và gặp được một hoàng tử. Sáng mai thức dậy đọc được tin này hãy nhắn tin trả lời anh là em có bớt lạnh hay không, em có gặp giấc mơ xấu không?",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em đêm nay gặp thật nhiều ác mộng và anh sẽ hiện ra để cùng em chạy trốn.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ban ngày nhìn em sao mà xấu thế, xấu dã man nhưng khi em ngủ nhìn em rất xinh và thật đáng yêu, ngủ đi em. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Thay mặt hiệp hội chúc ngủ ngon toàn cầu, ủy ban vì sự ngủ ngon của gấu trúc, cục trưởng cục chăm sóc giấc ngủ, hội trưởng hội những người ngủ ngon. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc anh ngủ ngon và mơ những giấc mơ đẹp nhất và một ngày mới sẽ đến với anh trong niềm vui và hạnh phúc, yêu anh nhất trên đời.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ngủ ngon nhé em, có một người luôn quan tâm và nhớ về em.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ ngon và có giấc mơ đẹp nha nàng công chúa bé bỏng của anh. Những vì sao lấp lánh trên bầu trời sẽ canh cho em ngủ ngon giấc và những ánh sáng huyền bí trên bầu trời đêm nay sẽ đưa em vào giấc mơ tuyệt đẹp. Yêu và thương e nhiều!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Thôi ngủ đi! anh chúc em ngủ ngon, tối gặp ác mộng, trong ác mộng em là một ác nhân, đang hành hạ một tội nhân là anh đây!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc ngủ ngon, nhiều ác mộng, trong ác mộng ta sẽ lại gặp nhau và cùng chạy trốn.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Một ngày em nhận được bao nhiêu tin nhắn chúc ngủ ngon, chắc là không phải duy nhất từ anh rồi. Nhưng 21 giờ 45 phút là giờ để anh chúc em ngủ ngon, cấm đứa nào chúc em ngủ ngon vào giờ này.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sông có thể cạn núi có thể mòn, song việc chúc em ngủ ngon không bao giờ thay đổi.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chào mặt trăng, bạn gấu trúc của tôi sắp đi ngủ rồi. Nói với mặt trời hãy dậy muộn một chút. Bởi vì bạn gấu trúc muốn nghỉ ngơi thêm nữa.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em biết không lúc này có 3,7 triệu người đang ngủ; 2,3 triệu người đang yêu; 4,1 triệu người đang ăn và chỉ có một người trên thế giới này đang đọc tin nhắn của anh. Chúc em ngủ ngon nhé gấu trúc!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc em ngủ ngon, để những muộn phiền lo lắng sẽ trôi vào quên lãng, để nụ cười em sẽ hồn nhiên như nó vốn có, chúc cho em đạt được những điều mà mình mong muốn để những người tin yêu em và cả chính em không thất vọng. Chúc cho những kỉ niệm được trân trọng và nâng niu. Chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Hãy đem tất cả những niềm vui của ngày hôm nay vào giấc ngủ thật ngon để mơ thấy thật nhiều giấc mơ hạnh phúc em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh biết giờ này em đã ngủ rồi, anh đã muốn nhắn tin cho em từ rất sớm nhưng anh muốn anh là người cuối cùng chúc em ngủ em, hãy ngủ ngon trong vòng tay của anh nhé, anh sẽ sưởi ấm cho trái tim em, yên tâm ở cạnh anh thì không thằng nào dám.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sau mỗi ngày dài mệt mỏi, anh phải hứa với em rằng sẽ luôn quẳng mọi muộn phiền, lo lắng trước khi đặt mình lên giường, hãy để lại duy nhất những điều ngọt ngào theo anh vào giấc ngủ thôi nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đêm nay anh không biết nhắn cho em gì hết, anh chỉ biết bây giờ anh nhớ em rất nhiều, tuy nơi đây trời mưa và rất lạnh nhưng anh chỉ mong em có giấc ngủ thật ngon ấm áp trong những giấc mơ hồng em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Chúc người yêu bé nhỏ của anh ngủ thật ngoan cho cả thế giới được yên.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Sắp hết một ngày rồi em à! Không biết anh có phải là người cuối cùng nhắn tin cho em không? Anh nhắn tin để chúc em ngủ ngon trước khi sang ngày mới dù anh biết em còn thức rất khuya. Chúc em ngủ ngon và có những giấc mơ thật đẹp!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Em à! Em đã ngủ chưa? Trời lạnh quá em nhỉ? Chiếc gối sưởi ấm của em có còn ấm không? Có lẽ sẽ chẳng ấm như tình yêu của anh dành cho em đâu. Yêu và nhớ em nhiều nhiều. Good night!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Đêm nay anh không biết nhắn cho em gì hết, anh chỉ biết bây giờ anh nhớ em rất nhiều, tuy nơi đây trời mưa và rất lạnh nhưng anh chỉ mong em có giấc ngủ thật ngon ấm áp trong những giấc mơ hồng em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Anh nhắn tin cho em chỉ muốn chúc em ngủ ngon thôi. Hãy ngủ thật ngon vào em nhé, không thì phí mất 400 đồng tiền nhắn tin của anh.",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Ở đâu đó ngoài kia dưới ánh trăng bạc, có một người đang nghĩ về em! Ở đâu đó ngoài kia nơi những giấc mơ sẽ trở thành sự thật, ngủ ngon và mơ đẹp em nhé!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Những vì sao sáng, những vì sao lấp lánh nhưng em là vì sao duy nhất anh nhìn thấy hôm nay. Anh muốn được là “lão vệ sĩ” đứng canh cho những giấc mơ của em đêm nay quá, chúc em ngủ ngon!",
+		"translate": ""
+	},{
+		"id": "",
+		"content": "Lạnh quá, ngủ không được, nhớ em quá nhắn 1 tin cũng là có tội à. Ngủ ngon nhé, đắp chăn cho kín kẻo bị lạnh đấy!",
+		"translate": ""
+	}
+	]
+}
