@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "Anh hy vọng sẽ là người đầu tiên chúc em một tháng mới hạnh phúc, hãy luôn mỉm cười vui vẻ như thế em nhé!",
+      "translate": ""
+    },
+    {
+      "id": "2",
+      "content": "Một tháng mới, một phước lành mới. Anh cầu mong những điều mới mẻ, hạnh phúc sẽ đến với em. Anh yêu em!",
+      "translate": ""
+    },
+    {
+      "id": "3",
+      "content": "Anh muốn sử dụng cơ hội này để nói cho em biết rằng anh yêu em và cảm thấy hạnh phúc biết bao khi có em bên cạnh. Tháng mới hạnh phúc nhé em yêu!",
+      "translate": ""
+    },
+    {
+      "id": "4",
+      "content": "Thời gian sẽ không bao giờ dừng lại để chờ đợi ai, nó sẽ trôi qua rất nhanh. Nhưng xin em hãy nhớ rằng tình yêu của anh dành cho em vẫn mãi như vậy, mãi đọng lại trong tâm trí và con tim anh. Chúc tình yêu của anh một tháng mới đầy niềm vui và may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "5",
+      "content": "Yêu em, cùng em chia sẻ những vui buồn trong cuộc sống là điều anh mong ước lúc này. Hy vọng mọi điều mới mẻ, tốt đẹp sẽ đến với em trong tháng mới.",
+      "translate": ""
+    },
+    {
+      "id": "6",
+      "content": "Những cánh cửa mới, cơ hội mới, bước đột phá mới sẽ dành cho anh trong tháng này. Tháng mới may mắn, nhiều thành công anh nhé!",
+      "translate": ""
+    },
+    {
+      "id": "7",
+      "content": "Tất cả những gì anh mong muốn trong tháng này chính là em, tình yêu của anh. Em chính là động lực để anh cố gắng nỗ lực mỗi ngày. Mọi điều tốt đẹp sẽ đến với em trong tháng này. Yêu em!",
+      "translate": ""
+    },
+    {
+      "id": "8",
+      "content": "Em là nữ hoàng trong trái tim anh. Cảm ơn đã bên cạnh và yêu thương anh. Tháng mới nhiều niềm vui, bình yên em nhé.",
+      "translate": ""
+    },
+    {
+      "id": "9",
+      "content": "Nụ cười của em là hạnh phúc, là ánh sáng, là niềm vui mỗi ngày của anh. Cảm ơn em đã đến bên anh, làm cuộc đời của anh thêm tươi mới và đầy màu sắc. Chúc mừng tháng mới của hai chúng ta.",
+      "translate": ""
+    },
+    {
+      "id": "10",
+      "content": "Gặp em là điều kỳ diệu mà trái tim anh cần. Tháng mới sẽ mang đến cho em nhiều điều may mắn và hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "11",
+      "content": "Đây là khoảnh khắc đẹp nhất của tháng mới, anh luôn mong muốn sẽ nhìn thấy gương mặt thiên thần và nụ cười lấp lánh của em suốt cả tháng. Những lời chúc tháng mới tốt đẹp nhất dành cho người anh yêu. Chào tháng mới với những điều mới mẻ và tuyệt vời.",
+      "translate": ""
+    },
+    {
+      "id": "12",
+      "content": "Anh là người bạn trai tốt. Em trân trọng mọi thứ về anh. Chúc mừng tháng mới anh yêu!",
+      "translate": ""
+    }
+  ]
+}

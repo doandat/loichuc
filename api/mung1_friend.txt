@@ -1,0 +1,229 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "Mùng 1 đến rồi, mong những điều may mắn, tài lộc sẽ đến với bạn. Cả tháng làm ăn thuận lợi, phát đạt và suôn sẻ.",
+      "translate": ""
+    },
+    {
+      "id": "2",
+      "content": "Tháng mới đã đến, tôi mong mỗi ngày và mỗi tháng của bạn luôn bình yên, hạnh phúc và ngập tràn niềm vui. Chúc bạn tháng mới vui vẻ bên cạnh những người yêu thương.",
+      "translate": ""
+    },
+    {
+      "id": "3",
+      "content": "Tháng mới trong cuộc sống của bạn đánh dấu sự khởi đầu mới của những điều lớn lao. Chúc bạn đạt được những thành công, tháng mới tràn ngập vui vẻ.",
+      "translate": ""
+    },
+    {
+      "id": "4",
+      "content": "Chúc bạn tháng mới thịnh vượng, phát tài và thành công trên mọi phương diện.",
+      "translate": ""
+    },
+    {
+      "id": "5",
+      "content": "Đầu tháng mới, chúc cho bạn sức khỏe dồi dào, luôn gặp may mắn, hạnh phúc, thành công trên con đường đã chọn.",
+      "translate": ""
+    },
+    {
+      "id": "6",
+      "content": "Một tháng cũ đã đi qua, tháng mới lại bắt đầu. Tôi ước mỗi ngày, mỗi tháng của bạn luôn tràn ngập niềm vui và an lành. Chúc bạn tháng mới với những yêu thương và may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "7",
+      "content": "Hãy quên đi những muộn phiền, những âu lo của tháng trước. Bây giờ đã là tháng mới, tháng của hi vọng để thực hiện những điều tốt đẹp. Chúc bạn tháng mới vui vẻ, hạnh phúc và may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "8",
+      "content": "Tháng mới đến, có thể đồng nghĩa với nhiều thử thách, nhưng tôi tin tưởng bạn có thể vượt qua. Chúc bạn thành công và vui vẻ.",
+      "translate": ""
+    },
+    {
+      "id": "9",
+      "content": "Tháng mới đến, bạn hãy trải nghiệm những điều mới mẻ, luôn lạc quan và vui vẻ nhé.",
+      "translate": ""
+    },
+    {
+      "id": "10",
+      "content": "Hãy quên đi những sai lầm trong quá khứ và đón chờ những điều tốt đẹp trong tháng mới này. Chúc bạn tháng mới vui vẻ, thành công.",
+      "translate": ""
+    },
+    {
+      "id": "11",
+      "content": "Vậy là tháng mới mang những điều tốt đẹp đã đến, hãy mở cửa ra và đón lấy điều tốt đẹp đó đi nào. Đã đến lúc, bạn nên phá bỏ các nguyên tắc, những gò bó của bản thân để làm những điều mới mẻ.",
+      "translate": ""
+    },
+    {
+      "id": "12",
+      "content": "Tháng mới đến rồi, hãy gạt bỏ những phiền muộn và thay vào đó là những niềm vui, hạnh phúc và may mắn nha.",
+      "translate": ""
+    },
+    {
+      "id": "13",
+      "content": "Chúc bạn tháng mới vui vẻ, một tháng ngập tràn hạnh phúc, tình yêu và sức khỏe dồi dào.",
+      "translate": ""
+    },
+    {
+      "id": "14",
+      "content": "Hãy quên đi những sai lầm trong quá khứ và đón chờ những điều tốt đẹp trong tháng mới này. Chúc bạn tháng mới vui vẻ, thành công.",
+      "translate": ""
+    },
+    {
+      "id": "15",
+      "content": "Tháng mới trong cuộc sống của bạn đánh dấu sự khởi đầu mới của những điều lớn lao. Chúc bạn đạt được những thành công, tháng mới tràn ngập vui vẻ.",
+      "translate": ""
+    },
+    {
+      "id": "16",
+      "content": "Một tháng cũ đã đi qua, tháng mới lại bắt đầu. Tôi ước mỗi ngày, mỗi tháng của bạn luôn tràn ngập niềm vui và an lành. Chúc bạn tháng mới với những yêu thương và may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "17",
+      "content": "Tháng mới đến, có thể đồng nghĩa với nhiều thử thách, nhưng tôi tin tưởng bạn có thể vượt qua. Chúc bạn thành công và vui vẻ.",
+      "translate": ""
+    },
+    {
+      "id": "18",
+      "content": "Chúc bạn tháng mới thịnh vượng, phát tài và thành công trên mọi phương diện.",
+      "translate": ""
+    },
+    {
+      "id": "19",
+      "content": "Mùng 1 đến rồi, mong những điều may mắn, tài lộc sẽ đến với bạn. Cả tháng làm ăn thuận lợi, phát đạt và suôn sẻ.",
+      "translate": ""
+    },
+    {
+      "id": "20",
+      "content": "Đầu tháng mới, chúc cho bạn sức khỏe dồi dào, luôn gặp may mắn, hạnh phúc, thành công trên con đường đã chọn.",
+      "translate": ""
+    },
+    {
+      "id": "21",
+      "content": "Tháng mới đến rồi, hãy quên đi những điều muộn phiền, những lo âu trước đó và hãy hi vọng để đón chờ những điều tươi đẹp ở phía trước. Tháng mới, chúc bạn vui vẻ, may mắn và hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "22",
+      "content": "Tháng mới đến, bạn hãy trải nghiệm những điều mới mẻ, luôn lạc quan và vui vẻ nhé.",
+      "translate": ""
+    },
+    {
+      "id": "23",
+      "content": "Tháng mới này, chúc bạn hoàn thành các công việc dỡ dang trong tháng cũ, tiếp tục thực hiện mục tiêu của mình vào tháng mới và đừng quên nở nụ cười, luôn giữ tinh thần lạc quan cho tháng mới nhé!",
+      "translate": ""
+    },
+    {
+      "id": "24",
+      "content": "Tháng mới đến rồi, hi vọng bạn sẽ luôn tỏa sáng như ông mặt trời mùa hè, lúc nào cũng tràn đầy năng lượng, lúc nào cũng vui vẻ, hạnh phúc và gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "25",
+      "content": "Vậy là tháng mới mang những điều tốt đẹp đã đến, hãy mở cửa ra và đón lấy điều tốt đẹp đó đi nào. Đã đến lúc, bạn nên phá bỏ các nguyên tắc, những gò bó của bản thân để làm những điều mới mẻ.",
+      "translate": ""
+    },
+    {
+      "id": "26",
+      "content": "Gió đang thổi, chim đang ca hát và cây cối đang thì thầm vào tai mình rằng ngày mùng 1 đang tới. Vì vậy, hãy sẵn sàng đón nhận những điều mới mẻ trong tháng tới nhé.",
+      "translate": ""
+    },
+    {
+      "id": "27",
+      "content": "Một tháng mới đang đến, xua tan mọi phiền muộn và mỏi mệt của tháng này và tưới tắm cho bạn bằng mọi cơ hội trên thế giới này để làm cho cuộc sống tươi đẹp hơn.",
+      "translate": ""
+    },
+    {
+      "id": "28",
+      "content": "Tháng mới đến cầu chúc cho bạn luôn hạnh phúc, gặp may mắn trong cuộc sống, đạt được nhiều thành tựu và niềm vui trong cuộc sống.",
+      "translate": ""
+    },
+    {
+      "id": "29",
+      "content": "Tháng mới, bạn sẽ có nhiều sự thay đổi mới và thời gian mới. Đừng ngủ vùi với những gì đã xảy ra. Hãy đứng dậy bước đi như những dũng sĩ anh hùng chiến đấu hết mình cho tháng mới nào.",
+      "translate": ""
+    },
+    {
+      "id": "30",
+      "content": "Cầu chúc cho những sự tốt đẹp nhất sẽ đến với bạn vào ngày đầu tiên của tháng mới này. Đừng ngủ vùi vì những chuyện đã qua, tháng mới sẽ đưa bạn đến những niềm vui và thành công mới. Chúc bạn một tháng mới thật hạnh phúc!",
+      "translate": ""
+    },
+    {
+      "id": "31",
+      "content": "Cuộc sống chứa đầy những cơ hội thứ hai. Một tháng mới đang tới và bạn biết điều đặc biệt gì không? Bạn vẫn còn sống để nắm bắt những cơ hội mới và cuộc đời mang lại.",
+      "translate": ""
+    },
+    {
+      "id": "32",
+      "content": "Thời gian trôi qua thật nhanh, tháng mới đã đến. Mong rằng may mắn sẽ mỉm cười với mọi người. Hai chữ an bình sẽ luôn đến với mọi gia đình. Hạnh phúc sẽ đến với đôi lứa. Hòa bình sẽ đến với nhiều nơi. Kính chúc mọi người tháng mới an lành!",
+      "translate": ""
+    },
+    {
+      "id": "33",
+      "content": "Hôm nay là mùng 1, xin gửi lời chúc yêu thương đến bạn bè, người thân. Sống thật tốt, làm nhiều điều thiện lành với người xung quanh, bạn sẽ ngày càng khỏe mạnh và nhiều niềm vui trong cuộc sống.",
+      "translate": ""
+    },
+    {
+      "id": "34",
+      "content": "Mùng 1 sớm mai, mùng 2 đầu tháng. Thành tâm cầu trời, khấn phật phù hộ độ trì cho mọi việc suôn sẻ, mọi người bình an, mong sao cho được cả tháng tốt lành, thuận buồm xuôi gió, gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "35",
+      "content": "Tháng mới, gửi những lời chúc yêu thương đến những người bạn trân trọng. Mỗi ngày trôi qua hãy sống thật tốt, hãy làm những điều ý nghĩa nhất để mang đến phước lộc cho những người xung quanh bạn. Mong một tháng trôi qua yên bình và hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "36",
+      "content": "Vậy là tháng mới mang những điều tốt đẹp đã đến, hãy mở cửa ra và đón lấy điều tốt đẹp ở đó nào. Đã đến lúc, bạn nên phá bỏ các nguyên tắc, những gò bó của bản thân để làm những điều mới mẻ.",
+      "translate": ""
+    },
+    {
+      "id": "37",
+      "content": "Khởi đầu tháng mới thành tâm cầu trời, khấn phật phù hộ độ trì cho những người thân yêu của tôi luôn mạnh khỏe, bình an, làm ăn phát tài và gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "38",
+      "content": "Tháng mới đến rồi quên đi âu sầu và chờ đợi nhiều điều tươi đẹp phía trước. Chúc bạn tháng mới tốt lành và vui vẻ.",
+      "translate": ""
+    },
+    {
+      "id": "39",
+      "content": "Giống như đại dương tạo bởi hàng tỉ giọt nước, cuộc sống của chúng ta tạo bởi từng phút, từng giờ, từng ngày, từng tháng. Đừng bao giờ lãng phí thời gian của mình bạn nhé, chúc bạn có một tháng ý nghĩa và thành công.",
+      "translate": ""
+    },
+    {
+      "id": "40",
+      "content": "Vì nước mắt bạn đã rơi trong quá khứ, mọi nỗi đau bạn đã gánh chịu và mọi khó khăn bạn đã phải trải qua, chúc cho tháng này mang đến cho bạn không gì ngoài niềm vui và những điều tốt đẹp.",
+      "translate": ""
+    },
+    {
+      "id": "41",
+      "content": "Không có tháng nào tồi tệ cả. Chỉ có 12 tháng và một tháng mới lại đến sau 30 ngày. Vì thế, đừng bao giờ ngừng hi vọng và hướng đến mục tiêu đời mình, bạn nhé!",
+      "translate": ""
+    },
+    {
+      "id": "42",
+      "content": "Tháng mới này, chúc bạn hoàn thành các công việc dở dang trong tháng cũ, tiếp tục thực hiện mục tiêu của mình vào tháng mới và đừng quên nở nụ cười, luôn giữ tinh thần lạc quan cho tháng mới.",
+      "translate": ""
+    },
+    {
+      "id": "43",
+      "content": "Mùng một sớm mai, mùng hai đầu tháng… Xin gửi lời chúc đầu tháng may mắn, hạnh phúc và thật nhiều niềm vui đến tất cả mọi người để mọi việc trong tháng mới được thuận buồm xuôi gió, đánh đâu thắng đó, ngập tràn yêu thương, đong đầy hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "44",
+      "content": "Tháng vừa rồi bạn thế nào! Có thành công như mong đợi không nè! Thôi cố gắng lên bạn tôi ơi. Chúc bạn mùng 1 đầu tháng gặp nhiều may mắn, cả tháng bình an và thành công nhé.",
+      "translate": ""
+    },
+    {
+      "id": "45",
+      "content": "Chúc tất cả mọi người tháng mới có được sức khỏe dồi dào, bách bệnh tiêu tan, công thành danh toại, tứ thời vô hạn, vạn sự hanh thông, luôn có quý nhân phù trợ. Cầu cho mọi người được hòa thuận hạnh phúc, trong ấm ngoài êm, trên bảo dưới nghe, trên đe dưới sợ, trên kính dưới nhường, làm ăn phát tài phát lộc, có của ăn của để tiền tài dư dả, lộc đầy lộc vơi nhiều lộc nhiều tài, vạn sự may mắn, gặp dữ hóa lành, gặp hung hóa cát, điều lành xin đem lại, điều dại đem đi, tránh được những điều thị phi, phiền muộn. Chúc mọi người đi một về mười, đi tươi về tốt, 3 tháng hè 9 tháng đông được bình an trăm sự đắc tài, đắc lộc, đắc bình an.",
+      "translate": ""
+    }
+  ]
+}

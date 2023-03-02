@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "If you haven’t yet found what you asked for, don’t worry, another month is coming to your life to make sure your unfulfilled wishes are fulfilled. Wish you success in the new month!",
+      "translate": "Nếu bạn vẫn chưa tìm thấy những gì bạn yêu cầu, đừng lo lắng, một tháng nữa sắp đến với cuộc đời bạn để đảm bảo rằng những mong muốn chưa thành của bạn sẽ được thực hiện. Chúc bạn thành công trong tháng mới!"
+    },
+    {
+      "id": "2",
+      "content": "A new month is coming to take back all the negativity from this month and shower you with all the positivity in this world to make you your life even more wonderful.",
+      "translate": "Một tháng mới đang đến, xua tan mọi phiền muộn và mỏi mệt của tháng này và mang đến cho bạn mọi cơ hội trên thế giới này để làm cho cuộc sống tươi đẹp hơn."
+    },
+    {
+      "id": "3",
+      "content": "Dare to be different this month. Dare to stand out. Dare to be the one with a voice. Dare to shine! A happy new month!",
+      "translate": "Dám khác biệt trong tháng này. Dám nổi bật. Dám là người có tiếng nói. Dám tỏa sáng! Một tháng mới vui vẻ!"
+    },
+    {
+      "id": "4",
+      "content": "Wishing you a colorful new month with lots of achievement and promises fulfilled. You never know what tomorrows have in store for you.",
+      "translate": "Chúc bạn tháng mới rạng rỡ, đạt được nhiều thành tựu và thực hiện được lời hứa của chính mình. Bạn sẽ không bao giờ biết ngày mai mang đến cho bạn những điều tốt đẹp nào đâu!"
+    },
+    {
+      "id": "5",
+      "content": "Happy new month! Wish everything you do be successful. May you fly high in life and success always be with you.",
+      "translate": "Chúc mừng tháng mới! Tôi chúc mọi công việc của bạn đều thành công tốt đẹp. Mong rằng bạn sẽ tiến xa hơn trong cuộc sống và thành công luôn bên bạn."
+    },
+    {
+      "id": "6",
+      "content": "I smell the change in the air already. I can see the colors replacing the black and white memories of the past. Be sure my friend, the new month is bringing the best for you.",
+      "translate": "Tôi đã ngửi thấy sự thay đổi trong không khí rồi. Tôi có thể nhìn thấy những màu sắc thay thế cho những ký ức đen trắng của quá khứ. Chắc chắn rằng bạn của tôi, tháng mới đang mang lại những điều tốt đẹp nhất cho bạn."
+    },
+    {
+      "id": "7",
+      "content": "With a new month of your journey, shall come more challenges, opportunities, and greater success. Happy new month.",
+      "translate": "Với một tháng mới trong hành trình của bạn, sẽ có nhiều thách thức, cơ hội và thành công lớn hơn. Chúc mừng tháng mới."
+    },
+    {
+      "id": "8",
+      "content": "Wave a goodbye to your empty pockets and exhausted soul. Welcome the new month with a new life full of energy.",
+      "translate": "Vẫy tay chào tạm biệt chiếc túi rỗng và tâm hồn chán nản. Chào đón tháng mới với cuộc sống mới tràn đầy năng lượng."
+    },
+    {
+      "id": "9",
+      "content": "As this new month begins, I hope you let go of your burdens, and begin a fresh chapter filled with peace love and everything nice.",
+      "translate": "Tháng mới sắp bắt đầu, mong rằng bạn sẽ buông bỏ mọi gánh nặng và bắt đầu một chương mới tươi sáng, tràn đầy tình yêu, niềm vui và yên bình."
+    },
+    {
+      "id": "10",
+      "content": "May you never have hard times in this new month and always. Happy new month of success dear!",
+      "translate": "Chúc bạn không bao giờ gặp khó khăn trong tháng mới này và luôn luôn như vậy. Chúc tháng mới thành công nhé!"
+    },
+    {
+      "id": "11",
+      "content": "Breaking News! As the new month has come, your license for dreaming has been renewed with even more facilities. Please contact me for details.",
+      "translate": "Tin hot đây! Tháng mới sắp đến, giấy phép ước mơ của bạn đã được gia hạn và trang bị nhiều phương tiện hơn. Vui lòng liên hệ với tôi để biết thông tin chi tiết."
+    },
+    {
+      "id": "12",
+      "content": "Whatever the new month is bringing for you, be it good or bad; always keep that smile on your face no matter what.",
+      "translate": "Cho dù tháng mới mang lại cho cậu điều gì, niềm vui hay nỗi buồn, bất kể có chuyện gì xảy ra thì cũng hãy luôn giữ nụ cười trên môi nhé."
+    }
+  ]
+}

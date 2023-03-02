@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "Mùng 1 đầu tháng suôn sẻ, cả tháng nhiều điều vui vẻ, may mắn. Tiền của đầy túi, tinh thần thoải mái, ăn chơi không lo túng thiếu.",
+      "translate": ""
+    },
+    {
+      "id": "2",
+      "content": "Chào tháng mới, chúc bạn sẽ có tuần 1 hạnh phúc, tuần 2 tài lộc, tuần 3 sức khỏe, tuần 4 bình an tràn ngập cả tháng.",
+      "translate": ""
+    },
+    {
+      "id": "3",
+      "content": "Chúc bạn tháng mới càng sung sức, không bực tức, không đau nhức, gấp đôi lợi tức, tiền vào thơm phức.",
+      "translate": ""
+    },
+    {
+      "id": "4",
+      "content": "Chúc mọi người đầu tháng tràn đầy năng lượng, chiến đấu hết mình để tăng doanh thu và lợi nhuận cho công ty chúng ta ngày càng lớn mạnh hơn.",
+      "translate": ""
+    },
+    {
+      "id": "5",
+      "content": "Ông mặt trời mọc rồi kìa, với nụ cười ấm áp biết bao! Ông chúc em một buổi sáng tốt lành và mong em sẽ có một ngày đầu tháng thật tuyệt!",
+      "translate": ""
+    },
+    {
+      "id": "6",
+      "content": "Tháng này sẽ khác tháng kia, tháng này tiền tới tha mà tia sắm đồ.",
+      "translate": ""
+    },
+    {
+      "id": "7",
+      "content": "Chúc tháng mới an lành, 1 ngày làm việc may mắn và thành công, chúc bạn luôn vui vẻ tràn ngập tiếng cười.",
+      "translate": ""
+    },
+    {
+      "id": "8",
+      "content": "Tháng vừa rồi bạn thế nào! Có thành công như mong đợi không nè! Thôi cố gắng lên bạn tôi ơi. Chúc bạn mùng 1 đầu tháng gặp nhiều may mắn, cả tháng bình an và thành công nhé.",
+      "translate": ""
+    },
+    {
+      "id": "9",
+      "content": "Vẫy tay tạm biệt cái ví rỗng và một linh hồn chán nản đi nào. Chào đón tháng mới bằng một cuộc đời mới đầy năng lượng!",
+      "translate": ""
+    },
+    {
+      "id": "10",
+      "content": "Đã bao nhiêu nồi bánh chưng rồi nhưng cậu vẫn ế vậy nên từ đây cho đến khi cậu có bồ thì đầu tháng nào tớ cũng sẽ gửi cho cậu một lời chúc khác nhau. Và đây là tháng đầu tiên thì tớ chúc cậu ra đường được thần tình yêu nhắm trúng nha!",
+      "translate": ""
+    },
+    {
+      "id": "11",
+      "content": "Những ngày mới với đầy niềm vui và sự phấn khích sẽ đến với bạn trong tháng này. Hãy tận hưởng và hạnh phúc nhé. Chúc bạn có một tháng tuyệt vời phía trước.",
+      "translate": ""
+    },
+    {
+      "id": "12",
+      "content": "Khi nhận được tin nhắn này thì bạn hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn hạnh phúc, vui vẻ và luôn yêu đời. Chúc bạn ngày đầu của tháng thật vui vẻ nhé!",
+      "translate": ""
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "Chúc ngày mùng 1 đầu tháng may mắn, nhiều tài lộc, cả tháng thuận lợi làm ăn phát đạt và hạnh phúc cả nhà nhé!",
+      "translate": ""
+    },
+    {
+      "id": "2",
+      "content": "Hôm nay mùng 1 đầu tháng là thời điểm tốt để chăm sóc một số doanh nghiệp mới và đặt mục tiêu mới. Chúc bạn một tháng đầy thành công với những thành tựu to lớn!",
+      "translate": ""
+    },
+    {
+      "id": "3",
+      "content": "Hôm nay mùng 1 đầu tháng, chúc mọi người sức khỏe và vui vẻ, có sức khỏe, có vui vẻ sẽ gặp may mắn cả tháng.",
+      "translate": ""
+    },
+    {
+      "id": "4",
+      "content": "Mùng 1 sớm mai, Mùng 2 đầu tháng. Thành tâm cầu trời, khấn phật phù hộ độ trì cho mọi việc suôn sẻ, mọi người bình an, mong sao cho được cả tháng tốt lành, thuận buồm xuôi gió, gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "5",
+      "content": "Chúc tất cả mọi người có một tháng mới với tinh thần luôn sảng khoái, vui vẻ, sức khoẻ luôn dồi dào",
+      "translate": ""
+    },
+    {
+      "id": "6",
+      "content": "Chúc mọi người đón chào tháng mới tràn ngập ấm áp yêu thương, thân khoẻ – tâm an – tứ đại điều hòa!!! Mùng 1 an nhiên cho cả tháng hạnh phúc nhé.",
+      "translate": ""
+    },
+    {
+      "id": "7",
+      "content": "Chúc mọi người một tháng mới với nhiều điều may mắn, làm ăn phát đạt, thành công trong cuộc sống.",
+      "translate": ""
+    },
+    {
+      "id": "8",
+      "content": "Tháng mới, gửi những lời chúc yêu thương đến những người bạn trân trọng. Mỗi ngày trôi qua hãy sống thật tốt, hãy làm những điều ý nghĩa nhất để mang đến phước lộc cho những người xung quanh bạn. Mong một tháng trôi qua yên bình và hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "9",
+      "content": "Tháng mới đến rồi, chúc cho người thân yêu của tôi một tháng mới tràn đầy năng lực, làm việc hết mình để việc kinh doanh buôn bán thuận lợi, suôn sẻ.",
+      "translate": ""
+    },
+    {
+      "id": "10",
+      "content": "Chúc mọi người tháng mới mọi điều bình an, gặp nhiều may mắn trong việc buôn bán.",
+      "translate": ""
+    },
+    {
+      "id": "11",
+      "content": "Tháng mới, chúc cho cửa hàng của bạn ngày càng có nhiều khách đến thăm, làm ăn phát đạt, kinh doanh được suôn sẻ.",
+      "translate": ""
+    },
+    {
+      "id": "12",
+      "content": "Chúc cửa hàng của bạn một tháng mới kinh doanh suôn sẻ, thuận lợi và phát đạt.",
+      "translate": ""
+    },
+    {
+      "id": "13",
+      "content": "Chúc mọi người tháng mới dồi dào sức khỏe, kinh doanh gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "14",
+      "content": "Chúc tất cả mọi người tháng mới có được sức khỏe dồi dào, bách bệnh tiêu tan, công thành danh toại, tứ thời vô hạn, vạn sự hanh thông, luôn có quý nhân phù trợ. Cầu cho mọi người được hòa thuận hạnh phúc, trong ấm ngoài êm, trên bảo dưới nghe, trên đe dưới sợ, trên kính dưới nhường, làm ăn phát tài phát lộc, có của ăn của để tiền tài dư dả, lộc đầy lộc vơi nhiều lộc nhiều tài, vạn sự may mắn, gặp dữ hóa lành, gặp hung hóa cát, điều lành xin đem lại, điều dại đem đi, tránh được những điều thị phi, phiền muộn. Chúc mọi người đi một về mười, đi tươi về tốt, 3 tháng hè 9 tháng đông được bình an trăm sự đắc tài, đắc lộc, đắc bình an.",
+      "translate": ""
+    }
+  ]
+}

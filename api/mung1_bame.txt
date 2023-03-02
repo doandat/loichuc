@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "content": "Hôm nay mùng 1 đầu tháng, chúc ba mẹ thật nhiều sức khỏe, vui vẻ và gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "2",
+      "content": "Chúc ba mẹ đón chào tháng mới thật nhiều niềm vui, yêu thương, an nhiên và khỏe mạnh.",
+      "translate": ""
+    },
+    {
+      "id": "3",
+      "content": "Hôm nay mùng 1 đầu tháng, con chúc ba mẹ sức khỏe, vui vẻ, gặp nhiều may mắn.",
+      "translate": ""
+    },
+    {
+      "id": "4",
+      "content": "Chúc ngày mùng 1 đầu tháng ba mẹ gặp may mắn, nhiều tài lộc, cả tháng thuận lợi làm ăn phát đạt và hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "5",
+      "content": "Mùng 1 không có gì hơn ngoài lời chúc tốt đẹp nhất dành cho ba mẹ yêu quý của con, chúc ba mẹ luôn hạnh phúc, sức khỏe dồi dào và gặp thật nhiều may mắn!",
+      "translate": ""
+    },
+    {
+      "id": "6",
+      "content": "Chúc ba mẹ của con lúc nào cũng có thật nhiều sức khỏe và luôn nở nụ cười trên môi. Chúc ba mẹ tháng mới thật may mắn, ngập tràn niềm hạnh phúc.",
+      "translate": ""
+    },
+    {
+      "id": "7",
+      "content": "Một tháng nhanh quá ba ơi, mới đó lại là mùng 1 rồi và hôm nay con không có gì ngoài lời chúc chân thành đến từ tận trái tim con. Chúc ba một tháng mới làm ăn phát đạt, luôn vui vẻ và hạnh phúc nha!",
+      "translate": ""
+    },
+    {
+      "id": "8",
+      "content": "Tháng mới đến rồi, chúc cho ba mẹ của con một tháng mới tràn đầy năng lực, làm việc hết mình để việc kinh doanh buôn bán thuận lợi, suôn sẻ.",
+      "translate": ""
+    },
+    {
+      "id": "9",
+      "content": "Chúc ba mẹ một tháng mới với nhiều điều may mắn, làm ăn phát đạt, sức khỏe dồi dào.",
+      "translate": ""
+    },
+    {
+      "id": "10",
+      "content": "Tháng mới mong cho những điều tốt đẹp sẽ luôn đến với ba mẹ, lúc nào nụ cười cũng hiện hữu trên gương mặt.",
+      "translate": ""
+    },
+    {
+      "id": "11",
+      "content": "Bố à! Bố con mình không có ngày gì cho đàn ông hết là vì mỗi ngày trong năm đều là của chúng ta, con sẽ tạo ra những ngày riêng cho bố và đó là ngày hôm nay. Chúc bố có một ngày đầu tháng suôn sẻ, vui tươi và trẻ khỏe!",
+      "translate": ""
+    },
+    {
+      "id": "12",
+      "content": "Chúc ba mẹ mùng 1 đầu tháng tốt lành, vạn sự bình an.",
+      "translate": ""
+    }
+  ]
+}
